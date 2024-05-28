@@ -1,0 +1,1159 @@
+{
+    "Region": 0,
+    "Language": "en",
+    "Origin": "",
+    "Atms": [
+        {
+            "Id": 10610,
+            "Name": "Abela Supermarket",
+            "Address": "Bin Butti Building, Ground Floor\r\u003cbr/\u003eAbela Supermarket, Al Khalidiyah",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "24.4755854,54.3465158",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change, Cash Deposit, Cheque Deposit",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=24.4755854,54.3465158\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eAbela Supermarket\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=24.4755854,54.3465158\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 24.4755854,
+                    "Longitude": 54.3465158
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1466,
+            "Name": "Abu Dhabi Branch",
+            "Address": "Al Danat Square Mall\r\u003cbr/\u003eGround Floor (Beside Viva Supermarket)\r\u003cbr/\u003eAl Sa\u0027adah, Zone 1, Abu Dhabi",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "24.428876,54.434134",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=24.428876,54.434134\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eAbu Dhabi Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=24.428876,54.434134\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 24.428876,
+                    "Longitude": 54.434134
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 7339,
+            "Name": "Al Ain Branch",
+            "Address": "Al Mandhour St. opposite Al Ain Mall",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "24.222492862519868,55.779484089428465",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change, Cash Deposit, Cheque Deposit",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=24.222492862519868,55.779484089428465\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eAl Ain Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=24.222492862519868,55.779484089428465\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 24.222492862519868,
+                    "Longitude": 55.779484089428465
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 10537,
+            "Name": "Al Ghail - Industrial Free Zone",
+            "Address": "Zaika Restaurant\r\u003cbr/\u003eAl Ghail Industrial Free Zone\r\u003cbr/\u003eRas al Khaimah",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.39297,55.99045",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Cash Deposit, Mini Statement \u0026 PIN Change, Cheque Deposit",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.39297,55.99045\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eAl Ghail - Industrial Free Zone\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.39297,55.99045\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.39297,
+                    "Longitude": 55.99045
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1470,
+            "Name": "Al Quoz",
+            "Address": "Shop #14, The Curve Bldg., \r\u003cbr/\u003eNext to Audi Showroom, \r\u003cbr/\u003eSheikh Zayed Road,\r\u003cbr/\u003eAl Quoz",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.163057,55.235483",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.163057,55.235483\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eAl Quoz\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.163057,55.235483\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.163057,
+                    "Longitude": 55.235483
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 6390,
+            "Name": "Al Ras Branch",
+            "Address": "Deira Waterfront Development Car Park Building #1\r\u003cbr/\u003eAl Dhagaya Street, \r\u003cbr/\u003eAl Ras, Deira",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.273003,55.298469",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.273003,55.298469\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eAl Ras Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.273003,55.298469\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.273003,
+                    "Longitude": 55.298469
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1471,
+            "Name": "Almas Tower",
+            "Address": "Almas Tower, \r\u003cbr/\u003eJumeirah Lakes Towers",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.0689,55.1412",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.0689,55.1412\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eAlmas Tower\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.0689,55.1412\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.0689,
+                    "Longitude": 55.1412
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1685,
+            "Name": "Amiri Court",
+            "Address": "Al Sharqi Street, \r\u003cbr/\u003eAmiri Court building, \r\u003cbr/\u003eRuler’s Court, \r\u003cbr/\u003eFujairah",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.124671,56.33343",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.124671,56.33343\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eAmiri Court\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.124671,56.33343\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.124671,
+                    "Longitude": 56.33343
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1668,
+            "Name": "Bur Dubai Branch",
+            "Address": "Al Fujairah Building, \r\u003cbr/\u003eKhalid Bin Al Waleed Street, \r\u003cbr/\u003eBur Dubai",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.256175,55.302944",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.256175,55.302944\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eBur Dubai Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.256175,55.302944\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.256175,
+                    "Longitude": 55.302944
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1677,
+            "Name": "Dibba Branch",
+            "Address": "Sheikh Mohammed Bin Hamad Street",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.599024,56.274727",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.599024,56.274727\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eDibba Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.599024,56.274727\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.599024,
+                    "Longitude": 56.274727
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1679,
+            "Name": "Dibba Municipality",
+            "Address": "Dibba Municipality",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.595918,56.271873",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.595918,56.271873\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eDibba Municipality\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.595918,56.271873\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.595918,
+                    "Longitude": 56.271873
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 6195,
+            "Name": "Easa Saleh Al Gurg Corporate Office",
+            "Address": "13th Floor, ESAG Tower-1, Baniyas Road, Deira",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.259571,55.318788",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.259571,55.318788\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eEasa Saleh Al Gurg Corporate Office\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.259571,55.318788\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.259571,
+                    "Longitude": 55.318788
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1684,
+            "Name": "Finance Department",
+            "Address": "Al Sharqi Street, \r\u003cbr/\u003eFinance Department, \r\u003cbr/\u003eAmiri Court, \r\u003cbr/\u003eFujairah",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.123915,56.333906",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.123915,56.333906\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFinance Department\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.123915,56.333906\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.123915,
+                    "Longitude": 56.333906
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1678,
+            "Name": "Fujairah",
+            "Address": "Al Madina Supermarket",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.125078,56.354145",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.125078,56.354145\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.125078,56.354145\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.125078,
+                    "Longitude": 56.354145
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1674,
+            "Name": "Fujairah Airport",
+            "Address": "Fujairah Airport",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.112645,56.333693",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.112645,56.333693\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah Airport\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.112645,56.333693\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.112645,
+                    "Longitude": 56.333693
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1672,
+            "Name": "Fujairah Branch",
+            "Address": "Fujairah Head Office, \r\u003cbr/\u003eHamad Bin Abdulla Street",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.122556,56.32754",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.122556,56.32754\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.122556,56.32754\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.122556,
+                    "Longitude": 56.32754
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 6046,
+            "Name": "Fujairah Chamber of Commerce \u0026 Industry",
+            "Address": "Sheikh Hamad Bin Abdullah, Fujairah",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.1199653,56.3254525",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.1199653,56.3254525\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah Chamber of Commerce \u0026 Industry\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.1199653,56.3254525\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.1199653,
+                    "Longitude": 56.3254525
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1676,
+            "Name": "Fujairah City Centre",
+            "Address": "G012A, Fujairah City Centre",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.125626,56.302207",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.125626,56.302207\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah City Centre\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.125626,56.302207\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.125626,
+                    "Longitude": 56.302207
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 6194,
+            "Name": "Fujairah Court",
+            "Address": "Main Entrance, Fujairah Court House, Fujairah",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.126670,56.269873",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.126670,56.269873\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah Court\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.126670,56.269873\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.12667,
+                    "Longitude": 56.269873
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 6034,
+            "Name": "Fujairah Free Zone Branch",
+            "Address": "NBF Building, \r\u003cbr/\u003eFujairah Khorfakkan Road",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.170633,56.3505",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.170633,56.3505\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah Free Zone Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.170633,56.3505\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.170633,
+                    "Longitude": 56.3505
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1675,
+            "Name": "Fujairah Municipality",
+            "Address": "Fujairah Municipality",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.126014,56.333631",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.126014,56.333631\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah Municipality\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.126014,56.333631\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.126014,
+                    "Longitude": 56.333631
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1686,
+            "Name": "Fujairah Municipality (Main Office)",
+            "Address": "Al Sharqi Street, \r\u003cbr/\u003eFujairah Municipality Building, \r\u003cbr/\u003eMain Entrance, \r\u003cbr/\u003eFujairah",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.12623,56.333718",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.12623,56.333718\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah Municipality (Main Office)\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.12623,56.333718\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.12623,
+                    "Longitude": 56.333718
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1673,
+            "Name": "Fujairah Police Camp",
+            "Address": "Fujairah Traffic Police, \r\u003cbr/\u003eHead Office",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.123625,56.305146",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Utility \u0026 Credit Card Payment, Mini Statement \u0026 PIN Change, Fund Transfer",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.123625,56.305146\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah Police Camp\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.123625,56.305146\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.123625,
+                    "Longitude": 56.305146
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1687,
+            "Name": "Fujairah Port",
+            "Address": "Fujairah Port, \r\u003cbr/\u003eGate Pass Entry Building, \r\u003cbr/\u003eKhorfakkan Road",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.169315,56.353179",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.169315,56.353179\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah Port\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.169315,56.353179\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.169315,
+                    "Longitude": 56.353179
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 6196,
+            "Name": "Gold \u0026 Diamond Park",
+            "Address": "Gold \u0026 Diamond Park, Building 1 Entrance, 4th Interchange, \r\u003cbr/\u003eSheik Zayed Road",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.126919,55.209651",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.126919,55.209651\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eGold \u0026 Diamond Park\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.126919,55.209651\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.126919,
+                    "Longitude": 55.209651
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1670,
+            "Name": "Jebel Ali Branch",
+            "Address": "National Bank of Fujairah Building, \r\u003cbr/\u003eNext to Etisalat",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.012713,55.08973",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.012713,55.08973\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eJebel Ali Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.012713,55.08973\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.012713,
+                    "Longitude": 55.08973
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 10869,
+            "Name": "LLH Hospital Musaffah",
+            "Address": "Me 7, Al Mussafah - Abu Dhabi",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.10717509471566,55.22293741210933",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change, Cash Deposit, Cheque Deposit",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.10717509471566,55.22293741210933\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eLLH Hospital Musaffah\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.10717509471566,55.22293741210933\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.107175094715661,
+                    "Longitude": 55.222937412109331
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1680,
+            "Name": "Masafi Branch",
+            "Address": "Masafi Branch",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.299037,56.159749",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.299037,56.159749\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eMasafi Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.299037,56.159749\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.299037,
+                    "Longitude": 56.159749
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1662,
+            "Name": "Musaffah Branch",
+            "Address": "Al Bustan Guardian Building\r\u003cbr/\u003eGround Floor\r\u003cbr/\u003eMusaffah Sector 1, M1\r\u003cbr/\u003eAbu Dhabi",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "24.373256,54.498281",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=24.373256,54.498281\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eMusaffah Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=24.373256,54.498281\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 24.373256,
+                    "Longitude": 54.498281
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 10535,
+            "Name": "Nesto Hypermarket",
+            "Address": "Ground Floor, Main Entrance, Nesto Hypermarket, Al Ettihad Street, Mushrif, Ajman",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.396669,55.45296",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change, Cash Deposit, Cheque Deposit",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.396669,55.45296\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eNesto Hypermarket\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.396669,55.45296\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.396669,
+                    "Longitude": 55.45296
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1681,
+            "Name": "Qidfa Branch",
+            "Address": "NBF Building, Qidfa, Fujairah",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.287203,56.361199",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.287203,56.361199\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eQidfa Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.287203,56.361199\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.287203,
+                    "Longitude": 56.361199
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1666,
+            "Name": "Sharjah Branch",
+            "Address": "Faya Business Building, Ground Floor (opposite Al Majaz Park and Khalid Lake), Al Majaz 2, Sharjah",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.329273,55.391649",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.329273,55.391649\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eSharjah Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.329273,55.391649\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.329273,
+                    "Longitude": 55.391649
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1667,
+            "Name": "Sharjah Gold Souq",
+            "Address": "Block – 8, \r\u003cbr/\u003eNext to Mayur Jewellery LLC. Central Souk, \r\u003cbr/\u003eKing Faisal Street,\r\u003cbr/\u003eAl Majaz Area-1, Sharjah",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.347265,55.383247",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.347265,55.383247\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eSharjah Gold Souq\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.347265,55.383247\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.347265,
+                    "Longitude": 55.383247
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1683,
+            "Name": "Tasheel",
+            "Address": "Al Etihad,\r\u003cbr/\u003eMohmmad Bin Matar road, \r\u003cbr/\u003eOpposite Al Ghandi Auto",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.132483,56.331282",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.132483,56.331282\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eTasheel\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.132483,56.331282\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.132483,
+                    "Longitude": 56.331282
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1682,
+            "Name": "Tawian Branch",
+            "Address": "NBF Building, \r\u003cbr/\u003eDibba Road, \r\u003cbr/\u003eTawian,\r\u003cbr/\u003eFujairah",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.511025,56.074337",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Utility \u0026 Credit Card Payment, Fund Transfer, Cash \u0026 Cheque Deposit, Mini Statement \u0026 PIN Change",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.511025,56.074337\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eTawian Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.511025,56.074337\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.511025,
+                    "Longitude": 56.074337
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 10218,
+            "Name": "Umbrella Beach",
+            "Address": "Umbrella Beach, Fujairah",
+            "WorkingHours": "",
+            "Phone": "",
+            "Fax": "",
+            "Coordinate": "25.149100718687922,56.35542154353311",
+            "Distance": null,
+            "Facilities": "Cash Withdrawal \u0026 Balance Inquiry, Cash \u0026 Cheque Deposit, Utility \u0026 Credit Card Payment, Fund Transfer, Mini Statement \u0026 PIN Change, Cash Deposit, Cheque Deposit",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.149100718687922,56.35542154353311\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eUmbrella Beach\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.149100718687922,56.35542154353311\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.149100718687922,
+                    "Longitude": 56.355421543533112
+                }
+            ],
+            "LocationType": "10"
+        }
+    ],
+    "Branches": [
+        {
+            "Id": 1591,
+            "Name": "Abu Dhabi Branch",
+            "Address": "Al Danat Square Mall\r\u003cbr/\u003eGround Floor (Beside Viva Supermarket)\r\u003cbr/\u003eAl Sa\u0027adah, Zone 1, Abu Dhabi",
+            "WorkingHours": "Mon - Thu \u0026 Sat: 8:00 am - 3:00 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "02-6768503 / 02-6728362",
+            "Coordinate": "24.428876,54.434134",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=24.428876,54.434134\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eAbu Dhabi Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=24.428876,54.434134\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 24.428876,
+                    "Longitude": 54.434134
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 7340,
+            "Name": "Al Ain Branch",
+            "Address": "Al Mandhour St. opposite Al Ain Mall",
+            "WorkingHours": "Mon - Thu \u0026 Sat: 8:00 am - 3:00 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "03-7648156",
+            "Coordinate": "24.22245309425413,55.77945321532299",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=24.22245309425413,55.77945321532299\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eAl Ain Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=24.22245309425413,55.77945321532299\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 24.222453094254131,
+                    "Longitude": 55.779453215322988
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 6391,
+            "Name": "Al Ras Branch",
+            "Address": "Mohammad Ahmad Al Sakit Building, \r\u003cbr/\u003eGround Floor, \r\u003cbr/\u003eAl Khor Street, Al Ras, Dubai",
+            "WorkingHours": "Mon - Thu \u0026 Sat: 8:00 am - 3:00 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "09-2029426",
+            "Coordinate": "25.269737,55.295505",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.269737,55.295505\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eAl Ras Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.269737,55.295505\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.269737,
+                    "Longitude": 55.295505
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1588,
+            "Name": "Bur Dubai Branch",
+            "Address": "Al Fujairah Building, \r\u003cbr/\u003eKhalid Bin Al Waleed Street\r\u003cbr/\u003ePO Box 2979, \r\u003cbr/\u003eDubai",
+            "WorkingHours": "Mon - Thu \u0026 Sat: 8:00 am - 3:00 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "04-3979100",
+            "Coordinate": "25.256175,55.302944",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.256175,55.302944\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eBur Dubai Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.256175,55.302944\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.256175,
+                    "Longitude": 55.302944
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1629,
+            "Name": "Dibba Branch",
+            "Address": "Sheikh Mohammed Bin Hamad Street\r\u003cbr/\u003ePO Box 11700, Fujairah",
+            "WorkingHours": "Mon - Thu \u0026 Sat: 8:00 am - 3:00 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "09-2443785",
+            "Coordinate": "25.599024,56.274727",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.599024,56.274727\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eDibba Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.599024,56.274727\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.599024,
+                    "Longitude": 56.274727
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1630,
+            "Name": "Fujairah Branch",
+            "Address": "Hamad Bin Abdullah Street\r\u003cbr/\u003ePO Box 887, Fujairah",
+            "WorkingHours": "Mon - Thu \u0026 Sat: 8:00 am - 3:00 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "09-2227992",
+            "Coordinate": "25.122556,56.32754",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.122556,56.32754\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.122556,56.32754\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.122556,
+                    "Longitude": 56.32754
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 6303,
+            "Name": "Fujairah Court",
+            "Address": "Sheikh Khalifa Bin Zayed Road",
+            "WorkingHours": "Sun - Thu: 7:30 am - 3:30 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "",
+            "Coordinate": "25.126670,56.269873",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.126670,56.269873\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah Court\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.126670,56.269873\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.12667,
+                    "Longitude": 56.269873
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 6035,
+            "Name": "Fujairah Free Zone Branch",
+            "Address": "NBF Building, Fujairah Khorfakkan Road \r\u003cbr/\u003ePO Box 887, Fujairah",
+            "WorkingHours": "Mon - Thu \u0026 Sat: 8:00 am - 3:00 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "09-2241047",
+            "Coordinate": "25.170633,56.3505",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.170633,56.3505\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eFujairah Free Zone Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.170633,56.3505\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.170633,
+                    "Longitude": 56.3505
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1475,
+            "Name": "Jebel Ali Branch",
+            "Address": "NBF Building, \r\u003cbr/\u003eNext to Etisalat, \r\u003cbr/\u003eJebel Ali\r\u003cbr/\u003ePO Box 17676,\r\u003cbr/\u003eDubai",
+            "WorkingHours": "Mon - Thu \u0026 Sat: 8:00 am - 3:00 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "04-8810939",
+            "Coordinate": "25.012713,55.08973",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.012713,55.08973\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eJebel Ali Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.012713,55.08973\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.012713,
+                    "Longitude": 55.08973
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1632,
+            "Name": "Masafi Branch",
+            "Address": "NBF Building, Masafi\r\u003cbr/\u003ePO Box 11208, Fujairah",
+            "WorkingHours": "Mon - Thu \u0026 Sat: 8:00 am - 1:00 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "09-2563339",
+            "Coordinate": "25.299037,56.159749",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.299037,56.159749\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eMasafi Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.299037,56.159749\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.299037,
+                    "Longitude": 56.159749
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1635,
+            "Name": "Mussafah Branch",
+            "Address": "Al Bustan Guardian Building\r\u003cbr/\u003eGround Floor\r\u003cbr/\u003eMusaffah Sector 1, M1\r\u003cbr/\u003ePO Box 786, Abu Dhabi",
+            "WorkingHours": "Mon - Thu \u0026 Sat: 8:00 am - 3:00 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "02-5551215",
+            "Coordinate": "24.378553,54.522277",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=24.378553,54.522277\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eMussafah Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=24.378553,54.522277\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 24.378553,
+                    "Longitude": 54.522277
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1633,
+            "Name": "Qidfah Branch",
+            "Address": "NBF Building, Qidfah\r\u003cbr/\u003ePO Box 12002, Fujairah",
+            "WorkingHours": "Mon - Thu \u0026 Sat: 8:00 am - 1:00 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "09-2360494",
+            "Coordinate": "25.287203,56.361199",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.287203,56.361199\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eQidfah Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.287203,56.361199\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.287203,
+                    "Longitude": 56.361199
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1626,
+            "Name": "Sharjah Branch",
+            "Address": "Faya Business Building, Ground Floor (opposite Al Majaz Park and Khalid Lake), Al Majaz 2, PO Box 1416, Sharjah",
+            "WorkingHours": "Mon - Thu \u0026 Sat: 8:00 am - 3:00 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "06-5255887",
+            "Coordinate": "25.329273,55.391649",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.329273,55.391649\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eSharjah Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.329273,55.391649\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.329273,
+                    "Longitude": 55.391649
+                }
+            ],
+            "LocationType": "10"
+        },
+        {
+            "Id": 1634,
+            "Name": "Tawian Branch",
+            "Address": "NBF Building, Dibba Road\r\u003cbr/\u003ePO Box 30098, Fujairah",
+            "WorkingHours": "Mon - Thu \u0026 Sat: 8:00 am - 1:00 pm (Friday 7:30 am - 12:30 pm)",
+            "Phone": "600-565551",
+            "Fax": "07-2584355",
+            "Coordinate": "25.511025,56.074337",
+            "Distance": null,
+            "Facilities": "",
+            "Closed": false,
+            "IsGoogle": false,
+            "DirectionUrl": "https://maps.google.ae/maps?q=25.511025,56.074337\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU",
+            "Icon": "/images/marker.png",
+            "Message": "\u003ch3\u003eTawian Branch\u003c/h3\u003e\u003cp\u003e\u003ca target=\u0027_blank\u0027 href=\u0027https://maps.google.ae/maps?q=25.511025,56.074337\u0026key=AIzaSyAr3buXswp9xD10CZsZsjWh4vV9IdpMeCU\u0027\u003eGet Directions\u003c/a\u003e\u003c/p\u003e",
+            "Coordinates": [
+                {
+                    "Latitude": 25.511025,
+                    "Longitude": 56.074337
+                }
+            ],
+            "LocationType": "10"
+        }
+    ]
+}

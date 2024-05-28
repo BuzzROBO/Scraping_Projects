@@ -1,0 +1,2284 @@
+{
+    "atmLocations": [
+        {
+            "atmLocationId": "0e857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Abu Dhabi Airport road ATM 1",
+            "site": "Public",
+            "coordinate": "24.471425,54.368994",
+            "emirate": "Abu Dhabi",
+            "location": "In Al Dhabi Tower, opposite to the Al Wahda Mall, Airport Road.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "0d857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Abu Dhabi Airport road ATM 2",
+            "site": "Public",
+            "coordinate": "24.471425,54.368993",
+            "emirate": "Abu Dhabi",
+            "location": "In Al Dhabi Tower, opposite to the Al Wahda Mall, Airport Road.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "1b857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Abu Dhabi Mall",
+            "site": "Public",
+            "coordinate": "24.495892,54.383107",
+            "emirate": "Abu Dhabi",
+            "location": "ATM located next to the Cineplex at the second floor.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "1a857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Abu-Dhabi Central Souk",
+            "site": "Public",
+            "coordinate": "24.489511,54.355996",
+            "emirate": "Abu Dhabi",
+            "location": "ATM located next to the KM  Daily outlet at the ground floor. ",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "2d30cce2-93aa-463d-aac3-51b0c90d0999",
+            "name": "Accuro ACCURO SPECIALIST SUPPORT SERVICES Jabel Ali",
+            "site": "Not open to public",
+            "coordinate": "25.007618,55.1318216",
+            "emirate": "Dubai",
+            "location": "Jabel Ali Ind. Area 1 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "1c857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "ADNOC Petrol Station: Najda Street",
+            "site": "Public",
+            "coordinate": "24.489463,54.371158",
+            "emirate": "Abu Dhabi",
+            "location": "The ATM  located inside the petrol station, Fatima Bint Mubarak street, opposite to the Al Raha hospital.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "21857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Ajman City Centre",
+            "site": "Public",
+            "coordinate": "25.399387, 55.478674",
+            "emirate": "Ajman",
+            "location": "ATM located at the ATM lobby of the north entrance ",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "d292ce2a-baf7-4c4e-a278-66b6f0418b89",
+            "name": "Al Ahalia Exchange Fujerah ",
+            "site": "Public",
+            "coordinate": "25.1249363,56.3452778",
+            "emirate": "Fujairah",
+            "location": "near Emirates Trade Center",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "3618ebfb-6ddf-4386-8e07-0de7b7a26a8a",
+            "name": "Al Ahalia Exchange IND 3 Al Qouz",
+            "site": "Public",
+            "coordinate": "25.156531,55.2456859",
+            "emirate": "Dubai",
+            "location": "Al Qouz Ind. Area 3 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "c6eba420-b01c-4a09-8769-0fd9c1ab8199",
+            "name": "Al Ahalia Exchange Ras Al Khaimah",
+            "site": "Public",
+            "coordinate": "25.7951358,55.9763972",
+            "emirate": "Ras Al Khaimah",
+            "location": "near by Nesto",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "23857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Ain City Center - Mowaji area",
+            "site": "Public",
+            "coordinate": "24.223822,55.728093",
+            "emirate": "Al Ain",
+            "location": "ATM located next to the entrance of the supermarket, near City Season hotel, Sh Khalifa Bin Zayed St.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "37857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Ansari Exchange",
+            "site": "Public",
+            "coordinate": "25.262671, 55.28798",
+            "emirate": "Dubai",
+            "location": "ATM located next to the entrance of the exchange house, opposite to Al Ghubaiba Bus Station",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "b65de639-c46b-465e-b992-3b857e7d6165",
+            "name": "Al Barari Forest Baynunah AD",
+            "site": "Not open to public",
+            "coordinate": "24.0925643,52.9546203",
+            "emirate": "Abu Dhabi",
+            "location": "Baynunah Abu Dhabi",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "c53ec436-d84f-4e78-a59c-a1ca78eb9bc2",
+            "name": "Al Barari Forest Remah Al Ain",
+            "site": "Not open to public",
+            "coordinate": "24.1892778,55.3355399",
+            "emirate": "Al Ain",
+            "location": "Remah Al Ain",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "70857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Dhait Drive Thru",
+            "site": "Public",
+            "coordinate": "25.749938, 55.907466",
+            "emirate": "RAK",
+            "location": "Drive thru ATM located next to Al Dhait RAKBANK branch.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "7c857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Falah Plaza",
+            "site": "Public",
+            "coordinate": "25.332339,55.399016",
+            "emirate": "Sharjah",
+            "location": "ATM located at ground level inside the hypermarket, next to the UAE Exchange outlet.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "36857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Fardan Exchange",
+            "site": "Public",
+            "coordinate": "25.259426,55.293299",
+            "emirate": "Dubai",
+            "location": "ATM located next to the entrance of the Al Fardan Exchange which is near to the Ascot hotel.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "74857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Fardan Exchange, Clock round about",
+            "site": "Public",
+            "coordinate": "25.361345,55.396666",
+            "emirate": "Sharjah",
+            "location": "ATM located next to entrance of the exchange house, overlooking the Clock Tower round about.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "67857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Ghail Shopping Centre",
+            "site": "Public",
+            "coordinate": "25.409821, 55.992746",
+            "emirate": "RAK",
+            "location": "ATM located next to the main entrance of shopping center",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "53857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Ghurair Centre",
+            "site": "Public",
+            "coordinate": "25.267208,55.31716",
+            "emirate": "Dubai",
+            "location": "New Mall Extension, Ground Floor, Next to the Damas & Omega Showroom, Rigga Street Entrance",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "6afcd1fb-01f7-46af-8eb7-60f9a6701370",
+            "name": "Al Ghurair Exchange Al Qouz",
+            "site": "Public",
+            "coordinate": "25.1562177,55.2489745",
+            "emirate": "Dubai",
+            "location": "Industrial Area 4 DXB",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "fa9dd106-77c3-4b6e-83e4-32c466f7252b",
+            "name": "Al Ghurair International Exchange Al Jurf 1 AJM",
+            "site": "Public",
+            "coordinate": "25.4332473,55.5283692",
+            "emirate": "Ajman",
+            "location": "Al Jurf Industrial Area 2 Ajman",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "f8152b81-345e-487e-b997-c0f297c4e88d",
+            "name": "Al Ghurair International Exchange DIC",
+            "site": "Public",
+            "coordinate": "24.8292716,55.0758767",
+            "emirate": "Dubai",
+            "location": "Dubai Industrial City 2",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "ac04cfab-5f96-4821-9731-13ab7d04fa37",
+            "name": "Al Ghurair International Exchange Hor Al Anz",
+            "site": "Public",
+            "coordinate": "25.2734609,55.3333605",
+            "emirate": "Dubai",
+            "location": "Hor Al Anz, Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "6c857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Hamra Mall",
+            "site": "Public",
+            "coordinate": "25.682228, 55.780418",
+            "emirate": "RAK",
+            "location": "ATM located next to the Spinney's outlet, ground floor.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "ae493ee0-8ee4-410c-9a5b-fa877c448c20",
+            "name": "Al Jaber Exchange Mafreq Abu Dhabi",
+            "site": "Public",
+            "coordinate": "24.2829494,54.6073959",
+            "emirate": "Abu Dhabi",
+            "location": "AJAC Camp Baniyas",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "52857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Khail Mall",
+            "site": "Public",
+            "coordinate": "25.149244, 55.246111",
+            "emirate": "Dubai",
+            "location": "ATM located next to the gate 2 entrance, near emirates International exchange ",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "6f857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Madinah Drive Thru",
+            "site": "Public",
+            "coordinate": "25.790439,55.945596",
+            "emirate": "RAK",
+            "location": "Drive thru ATM located next to Al Madinah RAKBANK branch.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "5c857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Marjan Island",
+            "site": "Public",
+            "coordinate": "25.660876, 55.750406",
+            "emirate": "RAK",
+            "location": "ATM located in the visitors car park area of the Marjan Island Office building",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "2aa1af43-be0b-4068-9983-e4505d8234ff",
+            "name": "Al Naboodah Construction Group ATM1 - Wall Street EH",
+            "site": "Not open to public",
+            "coordinate": "25.1597073,55.4878521",
+            "emirate": "Dubai",
+            "location": "Al Ruwayyah DXB",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "1cc3eb66-a5e8-4f5c-a3f6-91dad1198470",
+            "name": "Al Naboodah Construction Group ATM2 - Wall Street EH",
+            "site": "Not open to public",
+            "coordinate": "25.1597073,55.4878521",
+            "emirate": "Dubai",
+            "location": "Al Ruwayyah DXB",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "6b857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Naeem City Center",
+            "site": "Public",
+            "coordinate": "25.748959, 55.924089",
+            "emirate": "RAK",
+            "location": "ATM located adjacent to the side entrance of the mall, near to McDonalds",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "6a857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Naeem Mall",
+            "site": "Public",
+            "coordinate": "25.792132, 55.967134",
+            "emirate": "RAK",
+            "location": "ATM located under the escalator, next to Tim Hortons at the Ground floor",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "51857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Quoz Mall - Offsite",
+            "site": "Public",
+            "coordinate": "25.122433, 55.222651",
+            "emirate": "Dubai",
+            "location": "ATM located inside the mall, which is near to the Al Qouz branch, Al Qouz Industrial Area.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "1aaf114b-093b-465c-95fb-a9ba8eb949e5",
+            "name": "Al Razouki Exchange Ajman",
+            "site": "Public",
+            "coordinate": "25.4109204,55.4433716",
+            "emirate": "Ajman",
+            "location": "Ajman",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "277e8685-6f39-40c5-8aa9-c0a7ecac245c",
+            "name": "Al Razouki Exchange Al Jurf 2 Ajman",
+            "site": "Public",
+            "coordinate": "25.4370634,55.5566997",
+            "emirate": "Ajman",
+            "location": "Al Jurf Industrial Area 2 Ajman",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "6954d79f-41bc-48b4-bd17-614256db0ce2",
+            "name": "Al Razouki Exchange Ind  Ajman",
+            "site": "Public",
+            "coordinate": "25.3707306,55.4862813",
+            "emirate": "Ajman",
+            "location": "Sanaiya Police Station Ajman",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "45ec8111-0f84-431c-ba3f-35558d0b13fb",
+            "name": "Al Razouki Exchange Jurf 1 Ajman ",
+            "site": "Public",
+            "coordinate": "25.4336809,55.5291657",
+            "emirate": "Ajman",
+            "location": "Jurf Industrial area Ajman",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "96d209b4-b161-418f-b044-281c6cf1a60b",
+            "name": "Al Razouki Exchange Muwallah N.P Sharjah",
+            "site": "Public",
+            "coordinate": "25.2940131,55.4404301",
+            "emirate": "Sharjah",
+            "location": "Opposite to National Food Company",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "7b857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Talal Supermarket",
+            "site": "Public",
+            "coordinate": "25.358134, 55.393623",
+            "emirate": "Sharjah",
+            "location": "ATM located next to the main entrance of the supermarket",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "19857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Al Wahda Mall",
+            "site": "Public",
+            "coordinate": "24.470278, 54.372778",
+            "emirate": "Abu Dhabi",
+            "location": "ATM located next to the food court at the second floor car park entrance.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "81857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "American University",
+            "site": "Public",
+            "coordinate": "25.787688, 55.992673",
+            "emirate": "RAK",
+            "location": "ATM located at the Gate 2 entrance",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "46857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Ansar Gallery",
+            "site": "Public",
+            "coordinate": "25.269829, 55.320985",
+            "emirate": "Dubai",
+            "location": "ATM located at the left side of the main entrance ",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "e3dd3630-70be-4d44-abd8-682bb48ffe80",
+            "name": "Arabian Construction Company ACC3 Rimah ALN",
+            "site": "Not open to public",
+            "coordinate": "24.1610264,55.4748372",
+            "emirate": "Al Ain",
+            "location": "Sayh Gharba Rimah Al Ain",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "2f857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Arabian Ranches",
+            "site": "Public",
+            "coordinate": "25.057106,55.270300",
+            "emirate": "Dubai",
+            "location": "ATM located inside ATM lobby of the Arabian Ranches town center, Emirates Road.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "f61d17be-0882-4a88-9d2b-f3366adbbed6",
+            "name": "Belhasa Exchange Al Quasis DXB",
+            "site": "Public",
+            "coordinate": "25.2685995,55.3758493",
+            "emirate": "Dubai",
+            "location": "Belhasha Exchange Al Quasis DXB",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "4f263810-d867-417d-8b1a-85dcf9c291ae",
+            "name": "Belhasa Exchange Rolla Sharjah",
+            "site": "Public",
+            "coordinate": "25.3555147,55.387782",
+            "emirate": "Sharjah",
+            "location": "near by Rolla Square Park SHJ",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "ceced817-0b0e-4d6b-998b-044e921fddd9",
+            "name": "Belhasha Exchange Muweilah SHJ",
+            "site": "Public",
+            "coordinate": "25.2933592,55.4408028",
+            "emirate": "Sharjah",
+            "location": "Muweilah Sharjah",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "eaa46e98-594d-4efa-8be2-efb38d61b930",
+            "name": "Belhasha Exchange NKL RAK",
+            "site": "Public",
+            "coordinate": "25.7954283,55.9747255",
+            "emirate": "Ras Al Khaimah",
+            "location": "Nakheel RAK",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "921d79ac-10f3-466e-9baa-e9323d04331f",
+            "name": "Berkeley Service LLC",
+            "site": "Not open to public",
+            "coordinate": "25.1381081,55.2573316",
+            "emirate": "Dubai",
+            "location": "Al Qouz Industrial Area 4",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "582ffbfa-780e-4353-8ac6-b1ef269cf686",
+            "name": "BESIX Construct LLC Ajman",
+            "site": "Not open to public",
+            "coordinate": "25.4098892,55.4566774",
+            "emirate": "Ajman",
+            "location": "Ajman Marina Yard Ajman",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "d6a73681-205a-4688-b17a-ec2d2a0af8ca",
+            "name": "BESIX Construct LLC Al Qouz",
+            "site": "Not open to public",
+            "coordinate": "25.1283267,55.2208686",
+            "emirate": "Dubai",
+            "location": "Al Qouz Industrial Area 3 DXB",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "880abbea-1218-4bce-8199-2e7ae5a9bae0",
+            "name": "BESIX Construct LLC Jabel Ali",
+            "site": "Not open to public",
+            "coordinate": "24.9803832,55.137711",
+            "emirate": "Dubai",
+            "location": "Jabal Ali Industrial",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "ac31a3a5-e69c-4a73-90db-757d2cb8f566",
+            "name": "BESIX Construct LLC Jabel Ali",
+            "site": "Not open to public",
+            "coordinate": "24.9803952,55.1395222",
+            "emirate": "Dubai",
+            "location": "Jabal Ali Industrial",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "5d707542-cbdd-4960-b31b-d6f0b9155b6d",
+            "name": "BESIX Construct LLC Mafraq",
+            "site": "Not open to public",
+            "coordinate": "24.2588056,54.6241446",
+            "emirate": "Abu Dhabi",
+            "location": "Mafraq , Workers Residential City (Lobotel) ",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "4fbce68e-899e-4d91-b568-92462ae9f02a",
+            "name": "BIC Contracting LLC, ATM 1 Al Qouz",
+            "site": "Not open to public",
+            "coordinate": "25.1344251,55.2389941",
+            "emirate": "Dubai",
+            "location": "Al Qouz Ind. Area 3 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "91b3768f-f593-4ed0-bffb-e347683d3b49",
+            "name": "BIC Contracting LLC, ATM 2 Al Qouz",
+            "site": "Not open to public",
+            "coordinate": "25.1344251,55.2389941",
+            "emirate": "Dubai",
+            "location": "Al Qouz Ind. Area 3 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "2a857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Business Village",
+            "site": "Public",
+            "coordinate": "25.257068,55.326344",
+            "emirate": "Dubai",
+            "location": "ATM located at the food court building in Business Village, near Clock Tower R/ A, Maktoum St.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "45857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Choithram S/M - DSO",
+            "site": "Public",
+            "coordinate": "25.116769,55.38958",
+            "emirate": "Dubai",
+            "location": "ATM located next to the entrance of the supermarket, near GEMS school, DSO.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "20857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Choithram Supermarket",
+            "site": "Public",
+            "coordinate": "25.409584,55.443441",
+            "emirate": "Ajman",
+            "location": "ATM located next to the entrance of the store, opposite  Day to Day center, Sh Rashid Bin Hamid St.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "44857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Citimart Supermarket",
+            "site": "Public",
+            "coordinate": "25.256845,55.291502",
+            "emirate": "Dubai",
+            "location": "ATM located next to the entrance of the supermarket, Rolla Street.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "50857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "City Center, Deira",
+            "site": "Public",
+            "coordinate": "25.252483,55.331649",
+            "emirate": "Dubai",
+            "location": "ATM located at the ground floor near to the P2 parking entrance adjacent to boots pharmacy.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "4f857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "City Center, Meisam",
+            "site": "Public",
+            "coordinate": "25.040132, 55.198110",
+            "emirate": "Dubai",
+            "location": "ATM located at the Entrance 2 of the Mall , near to Paul Café",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "38b9b708-3c47-47f2-85dc-99ccbe2e231b",
+            "name": "City Exchange Al Nahda Dubai",
+            "site": "Public",
+            "coordinate": "25.2968466,55.3831503",
+            "emirate": "Dubai",
+            "location": "Al Nahda 2 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "80aa9134-23c5-4dab-bb94-81a14394e3f9",
+            "name": "City Exchange Bur Dubai",
+            "site": "Public",
+            "coordinate": "25.2620785,55.290917",
+            "emirate": "Dubai",
+            "location": "near by Raffa police Station",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "d07148ba-26a7-4bd6-af8c-7c94fd35aed4",
+            "name": "City Exchange Ind Ajman",
+            "site": "Public",
+            "coordinate": "25.384215,55.4670082",
+            "emirate": "Ajman",
+            "location": "Industrial area 2 Ajman",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "d472860e-ac57-4165-9999-0697d2608ccf",
+            "name": "City Exchange Ind Sharjah",
+            "site": "Public",
+            "coordinate": "25.307081,55.4189598",
+            "emirate": "Sharjah",
+            "location": "near by GECO R/D",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "4a924411-812c-4eca-9b47-b9de0b923603",
+            "name": "City Exchange Jabel Ali",
+            "site": "Public",
+            "coordinate": "25.0067207,55.1061218",
+            "emirate": "Dubai",
+            "location": "Jabel Ali Ind. Area 1 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "24ec5958-0a21-4bfd-aaa3-a39e5b3c28cf",
+            "name": "City Exchange Main City Ajman",
+            "site": "Public",
+            "coordinate": "25.410195,55.444487",
+            "emirate": "Ajman",
+            "location": "Day to Day Bulding Ajman",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "c2d7fbe5-6fe1-4b94-ad02-21635a041dd2",
+            "name": "City Exchange Mussaffah AD",
+            "site": "Public",
+            "coordinate": "24.3365394,54.5298985",
+            "emirate": "Abu Dhabi",
+            "location": "Shabia 10 Mussaffah Abu Dhabi",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "8e4f776a-4edc-45ff-aeda-4e666aa0c880",
+            "name": "City Exchange Nakheel RAK",
+            "site": "Public",
+            "coordinate": "25.7944844,55.9730802   ",
+            "emirate": "Ras Al Khaimah",
+            "location": "Nakheel RAK",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "9f51de62-e75d-41d7-95ed-10c322eae5cf",
+            "name": "City Exchange Rolla Sharjah",
+            "site": "Public",
+            "coordinate": "25.3559115,55.3886799",
+            "emirate": "Sharjah",
+            "location": "Rolla Sharjah",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "29857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Coca Cola Arena I",
+            "site": "Public",
+            "coordinate": "25.203638, 55.265758",
+            "emirate": "Dubai",
+            "location": "ATM located at the dedicated ATM lobby of the Arena ( 2 ATM's in G level & 1 ATM on the 1st level).",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "83857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Coca Cola Arena II",
+            "site": "Public",
+            "coordinate": "25.203638, 55.265757",
+            "emirate": "Dubai",
+            "location": "ATM located at the dedicated ATM lobby of the Arena ( 2 ATM's in G level & 1 ATM on the 1st level).",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "28857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Coca Cola Arena III",
+            "site": "Public",
+            "coordinate": "25.203638, 55.265757",
+            "emirate": "Dubai",
+            "location": "ATM located at the dedicated ATM lobby of the Arena ( 2 ATM's in G level & 1 ATM on the 1st level).",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "e2101b76-83fc-4e8e-b1b3-2f9cd90d9d53",
+            "name": "Combined Group Contracting Co AD",
+            "site": "Not open to public",
+            "coordinate": "24.065588,53.4339228",
+            "emirate": "Abu Dhabi",
+            "location": "Mirfa, Abu Dhabi",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "0fadd035-4264-416f-a60e-250a93e8615f",
+            "name": "Combined Group Contracting Co Al Ain",
+            "site": "Not open to public",
+            "coordinate": "24.0476503,55.6205341",
+            "emirate": "Al Ain",
+            "location": "Industrial City Al Ain",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "d5d1c4fd-eab9-4b0c-a82d-8f7814910265",
+            "name": "Combined Group Contracting Co Ras Ghurab Island Abu Dhabi ",
+            "site": "Not open to public",
+            "coordinate": "24.5466389,54.453228",
+            "emirate": "Abu Dhabi",
+            "location": "Ras Ghurab / Al Ahalia Island Abu Dhabi",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "a31843e3-cf73-4810-bdb6-f7e20de89c75",
+            "name": "Darwish Engineering Emirastes - Wall Street EH",
+            "site": "Not open to public",
+            "coordinate": "25.3880387,55.4704949",
+            "emirate": "Ajman",
+            "location": "Ajman Industrial Area 1 Ajman",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "ecbf4340-a6a4-4c8c-a880-8c0cd541ab5b",
+            "name": "DBB Contracting LLC, Ducto Complex DXB",
+            "site": "Not open to public",
+            "coordinate": "24.9945549,55.1058605",
+            "emirate": "Dubai",
+            "location": "Jabel Ali Ind. Area 1 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "a452656f-b7bc-49e1-b8dc-fa632831580f",
+            "name": "DBB Contracting LLC, Ducto Complex DXB",
+            "site": "Not open to public",
+            "coordinate": "24.9945549,55.1058605",
+            "emirate": "Dubai",
+            "location": "Jabel Ali Ind. Area 1 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "b136e4c1-a166-47a2-afe2-123c01b514b6",
+            "name": "DCC {Dubai Contracting Company PSC Jabel Ali DXB 1",
+            "site": "Not open to public",
+            "coordinate": "25.0064627,55.1350702",
+            "emirate": "Dubai",
+            "location": "Jabel Ali Ind. Area 1 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "18857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Deer Fields",
+            "site": "Public",
+            "coordinate": "24.523572, 54.670907",
+            "emirate": "Abu Dhabi",
+            "location": "ATM located in dedicated ATM lobby on the ground floor, opposite to Chilis.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "e755e9a8-e8b7-49b5-9272-607617f62f93",
+            "name": "Delma Exchange - Securiguard MafraqAbu Dhabi",
+            "site": "Not open to public",
+            "coordinate": "24.2763627,54.6004242",
+            "emirate": "Abu Dhabi",
+            "location": "Securiguard Accommodation Mafraq AD",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "8f7c2c4e-02c3-4ecf-ba1f-9250d69983ed",
+            "name": "Deniba Int'l Exchange NKL RAK",
+            "site": "Public",
+            "coordinate": "25.7922961,55.9714286",
+            "emirate": "Ras Al Khaimah",
+            "location": "Nakheel RAK",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "ebca92aa-1c73-44c6-b3de-5636c9a7ffa3",
+            "name": "Depa Interiors LLC DXB 1",
+            "site": "Not open to public",
+            "coordinate": "24.9767402,55.1579919",
+            "emirate": "Dubai",
+            "location": "Industrial 1 Area DIP",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "4e857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Dragon Mart Offsite",
+            "site": "Public",
+            "coordinate": "25.175165,55.412346",
+            "emirate": "Dubai",
+            "location": "ATM located inside the mart, next to the Al Aqsour travels, EAI02 section, Dragon Mart",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "24857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Dubai Airport T-1, Concourse D",
+            "site": "Public",
+            "coordinate": "25.262655, 55.342570",
+            "emirate": "Dubai",
+            "location": "ATM located next to the Dubai Duty Free Exchange, Departure area.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "4d857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Dubai Mall",
+            "site": "Public",
+            "coordinate": "25.195695,55.280211",
+            "emirate": "Dubai",
+            "location": "ATM located at level 2 inside the mall, near Kidzania outlet, Cinema Parking",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "992ad1da-d897-4a60-8833-871c9ed01560",
+            "name": "Dulsco LLC Al Hayl FUJ 4",
+            "site": "Not open to public",
+            "coordinate": "25.0964734,56.2705904",
+            "emirate": "Fujairah",
+            "location": "Al Hayl Industrial Area FUJ",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "736755b6-f3d6-4fc1-ac8b-ff8ac1a3e0d8",
+            "name": "Dulsco LLC Al Qouz DXB 1",
+            "site": "Not open to public",
+            "coordinate": "25.1234638,55.2323265",
+            "emirate": "Dubai",
+            "location": "Industrial Area 4 Al Qouz",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "8f1ee98b-878c-4201-847d-ec3f131904c1",
+            "name": "Dulsco LLC Dubai Investment Park DXB 2",
+            "site": "Not open to public",
+            "coordinate": "24.9841652,55.1963156",
+            "emirate": "Dubai",
+            "location": "Industrial 1 Area DIP",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "a4aaddbd-75e1-450f-84bd-256e2d3bcc7c",
+            "name": "Dulsco LLC Muhaisnah {Sonapur} DXB 3",
+            "site": "Not open to public",
+            "coordinate": "25.2625525,55.4240761",
+            "emirate": "Dubai",
+            "location": "Muhaisnah 2 {Sonapur}",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "b459a7f8-0b39-4ae3-9092-7afa83108074",
+            "name": "ECC Al Qouz DXB",
+            "site": "Not open to public",
+            "coordinate": "25.1221942,55.2450414",
+            "emirate": "Dubai",
+            "location": "ECC Al Qouz",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "1d474f90-0611-4372-9119-8489a3625b21",
+            "name": "ECC Jabel Ali DXB",
+            "site": "Not open to public",
+            "coordinate": "25.0068337,55.1021418",
+            "emirate": "Dubai",
+            "location": "ECC Jabel Ali",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "4be1eb76-855b-4d33-8bb3-60dda25d0b20",
+            "name": "ECC Sharjah ",
+            "site": "Not open to public",
+            "coordinate": "25.2980628,55.4107069",
+            "emirate": "Sharjah",
+            "location": "ECC Sharjah",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "35857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Emirates India International Exchange",
+            "site": "Public",
+            "coordinate": "25.234080, 55.278045",
+            "emirate": "Dubai",
+            "location": "ATM located at the entrance of the exchange house, near to satwa roundabout",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "34857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Emirates India International Exchange - Karama",
+            "site": "Public",
+            "coordinate": "25.245211, 55.300330",
+            "emirate": "Dubai",
+            "location": "ATM located next to the main entrance of the exchange house",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "4c6df8f5-3edf-487a-a72f-09258e5008ca",
+            "name": "Emirates India International Exchange J Ali",
+            "site": "Public",
+            "coordinate": "25.009844,55.1102191",
+            "emirate": "Dubai",
+            "location": "Jabel Ali Ind. Area 1 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "a8b5065d-4f21-4959-b113-4e89be94aff5",
+            "name": "Emirates India International Exchange Khorfakkan",
+            "site": "Public",
+            "coordinate": "25.3483341,56.346607",
+            "emirate": "Sharjah",
+            "location": "Khorfakkan Sharjah",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "3c679f46-4c4f-4b65-b69b-c7f0c8a3e4a9",
+            "name": "Emirates India Int'l Echange Sajaa Sharjah",
+            "site": "Public",
+            "coordinate": "25.3017758,55.6303993",
+            "emirate": "Sharjah",
+            "location": "Industrial Area Sajaa SHJ",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "85857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Empire Heights Business Bay",
+            "site": "Public",
+            "coordinate": "25.192316, 55.285078",
+            "emirate": "Dubai",
+            "location": "ATM located on Ground Floor Empire Heights Podium Building, Business Bay",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "27857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Etisalat Hello Business Hub",
+            "site": "Public",
+            "coordinate": "25.072602, 55.145266",
+            "emirate": "Dubai",
+            "location": "ATM located inside Etisalat Hello Business Hub, 2nd floor, One JLT Tower",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "43857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Express KP Mart - Bur Dubai",
+            "site": "Public",
+            "coordinate": "25.261146, 55.299731",
+            "emirate": "Dubai",
+            "location": "ATM located at the entrance of the supermarket, on musalla road",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "12857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Fairoz Al Madeena Hypermarket, Mussafah",
+            "site": "Public",
+            "coordinate": "24.350557,54.486823",
+            "emirate": "Abu Dhabi",
+            "location": "ATM located next to the main entrance of the supermarket, near Al Ghazzal transport.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "57857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Families General Trading",
+            "site": "Public",
+            "coordinate": "25.274304, 55.304478",
+            "emirate": "Dubai",
+            "location": "ATM located adjacent to the main entrance of the shop",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "7a857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Families Supermarket, Sharjah",
+            "site": "Public",
+            "coordinate": "25.322140,55.386640",
+            "emirate": "Sharjah",
+            "location": "ATM located next to the entrance of the supermarket, Jamal Abdul Nasser St.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "5d0dd39c-eb3a-4e74-9dfe-434d964be85e",
+            "name": "First Security Group-Sharaf Exchange ",
+            "site": "Not open to public",
+            "coordinate": "25.1343832,55.2527363",
+            "emirate": "Dubai",
+            "location": "Al Qouz Ind. Area 2 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "42857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Fresh KP Mart Supermarket",
+            "site": "Public",
+            "coordinate": "25.185087, 55.353161",
+            "emirate": "Dubai",
+            "location": "ATM located adjacent to the main entrance of the supermarket",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "41857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Fresh Spot Supermarket ",
+            "site": "Public",
+            "coordinate": "25.297487, 55.378751",
+            "emirate": "Dubai",
+            "location": "ATM located at the right hand side of main entrance of the supermarket",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "7544682d-b7f5-466d-91a0-02393e49e59d",
+            "name": "G4S Secure Solutions LLC 1",
+            "site": "Not open to public",
+            "coordinate": "25.1593838,55.2526767",
+            "emirate": "Dubai",
+            "location": "Industrial Area 1 Al Qouz",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "364a3038-a6f5-478f-9aca-0a7c8dc7b0ac",
+            "name": "G4S Secure Solutions LLC 3",
+            "site": "Not open to public",
+            "coordinate": "25.2662428,55.4249673",
+            "emirate": "Dubai",
+            "location": "Sonapur Muhaisnah 4",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "40857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Galaxy Supermarket",
+            "site": "Public",
+            "coordinate": "25.276780, 55.311849",
+            "emirate": "Dubai",
+            "location": "ATM located at the left hand side of the main entrance",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "56857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Gold Center",
+            "site": "Public",
+            "coordinate": "25.271191,55.297499",
+            "emirate": "Dubai",
+            "location": "ATM located inside ATM lobby of the gold souq center.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "65857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Govt Offices  - Wadi Sfini ",
+            "site": "Public",
+            "coordinate": "25.175484, 56.091788",
+            "emirate": "RAK",
+            "location": "ATM located at the main gate of the entrance to the Govt. Offices building.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "1bef935e-31bd-46d4-844f-5924e7753b16",
+            "name": "Gulf Asia Contracting Company LLC DIC",
+            "site": "Not open to public",
+            "coordinate": "24.8336846,55.0944774",
+            "emirate": "Dubai",
+            "location": "Dubai Industrial City 2",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "83a30bb6-0d09-4d4f-b01f-97b223483ea0",
+            "name": "Hadi Express Exchange FUJ",
+            "site": "Public",
+            "coordinate": "25.1241261,56.2524854",
+            "emirate": "Fujairah",
+            "location": "Fatima R/A FUJ",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "8ac3cc4b-ee69-4685-a387-fe142b8aa786",
+            "name": "Hadi Express Exchange RAK",
+            "site": "Public",
+            "coordinate": "25.7977134,55.9749024",
+            "emirate": "Ras Al Khaimah",
+            "location": "Nakheel RAK",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "3887518a-80ca-487f-8638-441fd8428b51",
+            "name": "Hadi Express Exchange SHJ",
+            "site": "Public",
+            "coordinate": "25.3560868,55.3874545",
+            "emirate": "Sharjah",
+            "location": "Rolla Sharjah",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "11857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Hamdan Centre, Abu Dhabi",
+            "site": "Public",
+            "coordinate": "24.488772,54.362709",
+            "emirate": "Abu Dhabi",
+            "location": "ATM located at the  back entrance of the Centre, beside the Baniyas gallery shop.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "ea52825d-0b8c-4d9d-af96-ea5091160bef",
+            "name": "IMDAAD LLC Jabel Ali ",
+            "site": "Not open to public",
+            "coordinate": "24.9989544,55.1038748",
+            "emirate": "Dubai",
+            "location": "Jabel Ali Ind. Area 1 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "51fcf836-0f11-478c-9c10-e4dda677b98d",
+            "name": "Index Exchange Al Sajja Sharjah",
+            "site": "Public",
+            "coordinate": "25.3258581,55.6368116",
+            "emirate": "Sharjah",
+            "location": "Al Sajja Industrial Area",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "792c2790-1706-4d77-a542-fa210f0c6bc6",
+            "name": "Index Exchange Hili Al Ain",
+            "site": "Public",
+            "coordinate": "24.2658047,55.7630832",
+            "emirate": "Al Ain",
+            "location": "Index Exchange Al Hili Al Ain",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "797e1e73-330e-4120-93c5-9bb31c24a947",
+            "name": "Index Exchange Hor Al Anz, Dubai",
+            "site": "Public",
+            "coordinate": "25.2716221,55.29773",
+            "emirate": "Dubai",
+            "location": "Hor Al Anz, Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "33d48608-e760-48b8-b21d-12715d494529",
+            "name": "Index Exchange Jurf Ajman",
+            "site": "Public",
+            "coordinate": "25.4400201,55.5504232",
+            "emirate": "Ajman",
+            "location": "Jurf Industrial area Ajman",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "d860314d-932c-4e40-8292-1d46a065fca9",
+            "name": "Index Exchange Sanaiya Al Ain",
+            "site": "Public",
+            "coordinate": "24.2294072,55.7318288",
+            "emirate": "Al Ain",
+            "location": "Sanaiya Al Ain",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "2f938667-a01d-4723-b75c-d936e9970a22",
+            "name": "INDEX EXCHANGE SATWA",
+            "site": "Public",
+            "coordinate": "25.2329886,55.2777122",
+            "emirate": "Dubai",
+            "location": "Index Exchange Al Satwa DXB",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "2e857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "International City Pavilion",
+            "site": "Public",
+            "coordinate": "25.158471, 55.404882",
+            "emirate": "Dubai",
+            "location": "ATM located adjacent to the entrance 2 of the community center, next to KFC",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "b62ced00-76e4-4bc8-b647-a9e393794997",
+            "name": "JAMS JAFZA (GATE NO. 8)",
+            "site": "Not open to public",
+            "coordinate": "24.9665362,55.0419263",
+            "emirate": "Dubai",
+            "location": "JAFZA Jabel Ali",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "80857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Joyalukkas Exchange",
+            "site": "Public",
+            "coordinate": "25.305456, 55.417910",
+            "emirate": "Sharjah",
+            "location": "ATM located adjacent to the entrance",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "1da0dfa7-5693-4da1-8739-c0b37567f174",
+            "name": "Joyalukkas Exchange Rolla SHJ",
+            "site": "Public",
+            "coordinate": "25.355856,55.3888462",
+            "emirate": "Sharjah",
+            "location": "Al Ghuwair Rolla SHJ",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "55857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Jumbo House, Bur Dubai",
+            "site": "Public",
+            "coordinate": "25.257501,55.296204",
+            "emirate": "Dubai",
+            "location": "ATM located next to the entrance of the electronic store, near Khaleej Centre, Mankhool Road.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "468d56bd-d85e-4866-8ca8-2f31f81690d4",
+            "name": "Khan Saheb Jabel Ali G3",
+            "site": "Not open to public",
+            "coordinate": "25.0026442,55.1004037",
+            "emirate": "Dubai",
+            "location": "Jabel Ali Ind. Area 1 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "b8c66a6e-98df-42fe-90af-7ae09c9c75aa",
+            "name": "Khurshid Alam Management Marketing Consultancy LLC",
+            "site": "Public",
+            "coordinate": "25.3803124,55.46199",
+            "emirate": "Ajman",
+            "location": "Industrial Area 2 Ajman",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "5d857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Lagoon Walk Apartment, Mina Al Arab",
+            "site": "Public",
+            "coordinate": "25.717026, 55.840415",
+            "emirate": "RAK",
+            "location": "ATM located inside dedicated ATM lobby near to the choithram in Lagoon walk apartments.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "1f857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Lucky Trading & Markerting LLC",
+            "site": "Public",
+            "coordinate": "25.375777, 55.477475",
+            "emirate": "Ajman",
+            "location": "ATM located at the right handside of main entrance of the supermarket",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "3f857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Lulu Hypermarket, Ghusais",
+            "site": "Public",
+            "coordinate": "25.279032,55.361923",
+            "emirate": "Dubai",
+            "location": "ATM located at ground level inside ATM lobby of the hypermarket, behind Al Mullah Plaza.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "33857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Lulu International Exchange, Karama",
+            "site": "Public",
+            "coordinate": "25.244359,55.304851",
+            "emirate": "Dubai",
+            "location": "ATM located next to the entrance of the exchange house, overlooking the Karama park.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "32857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "LULU International Exchange, Naif road",
+            "site": "Public",
+            "coordinate": "25.272107,55.303502",
+            "emirate": "Dubai",
+            "location": "ATM located inside ATM Lobby of the exchange house, near Naïf police station.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "73857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Lulu International Exchange, Sajja",
+            "site": "Public",
+            "coordinate": "25.317810, 55.633756",
+            "emirate": "Sharjah",
+            "location": "ATM located next to main entrance of the exchange house",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "72857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Lulu International Exchange,Sharjah",
+            "site": "Public",
+            "coordinate": "25.288595, 55.446546",
+            "emirate": "Sharjah",
+            "location": "ATM located at the entrance of the exchange house, industrial aera 15",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "31857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Lulu Int'l Exchange - Musalla Rd ",
+            "site": "Public",
+            "coordinate": "25.271016, 55.307747",
+            "emirate": "Dubai",
+            "location": "ATM located at the designated lobby of the exchange house",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "3e857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "LuLu Village ",
+            "site": "Public",
+            "coordinate": "25.281085, 55.410825",
+            "emirate": "Dubai",
+            "location": "ATM located next to the main entrance of the Shopping Centre",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "79857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Macro Emirates LLC",
+            "site": "Public",
+            "coordinate": "25.317621, 55.413098",
+            "emirate": "Sharjah",
+            "location": "ATM located next to the entrance of the hypermarket, Industrial area 6",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "4c857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Madina Mall",
+            "site": "Public",
+            "coordinate": "25.282323,55.397894",
+            "emirate": "Dubai",
+            "location": "ATM located at level 1 inside the mall, near the Carrefour outlet, Muhaisnah.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "17857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Madinat Zayed Shopping Centre",
+            "site": "Public",
+            "coordinate": "24.483858,54.36518",
+            "emirate": "Abu Dhabi",
+            "location": "ATM located opposite to the entrance of the Lulu hypermarket, ground floor.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "4b857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Mall of the Emirates",
+            "site": "Public",
+            "coordinate": "25.118078,55.202254",
+            "emirate": "Dubai",
+            "location": "ATM located at Gate 2, Level 2 Entrance.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "69857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Manar Mall",
+            "site": "Public",
+            "coordinate": "25.784361,55.966123",
+            "emirate": "RAK",
+            "location": "ATM located inside the mall, next to the Carrefour outlet",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "16857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Marina Mall",
+            "site": "Public",
+            "coordinate": "24.475833,54.3225",
+            "emirate": "Abu Dhabi",
+            "location": "ATM located opposite to the entrance of the Carrefour outlet, ground floor.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "82857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Market Green Community",
+            "site": "Public",
+            "coordinate": "25.004911, 55.164999",
+            "emirate": "Dubai",
+            "location": "ATM located at the entrance lobby of the community market",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "3d857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Masco Supermarket",
+            "site": "Public",
+            "coordinate": "25.272908,55.317047",
+            "emirate": "Dubai",
+            "location": "ATM located next to the entrance of the supermarket, opposite Marco Polo hotel.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "15857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Mazyad Mall",
+            "site": "Public",
+            "coordinate": "24.373358,54.538085",
+            "emirate": "Abu Dhabi",
+            "location": "ATM located inside the mall at level 2, next to the India Palace restaurant.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "66857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Mina Al Arab Supermarket",
+            "site": "Public",
+            "coordinate": "25.665255, 55.803702",
+            "emirate": "RAK",
+            "location": "ATM located inside the supermarket, behind RAK Ceramics.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "64857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Mina Saqr Port",
+            "site": "Public",
+            "coordinate": "25.978311,56.065105",
+            "emirate": "RAK",
+            "location": "ATM located inside ATM lobby, next to the main entrance of the Port.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "63857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Ministry of Civil Defence",
+            "site": "Public",
+            "coordinate": "25.787990, 55.962151",
+            "emirate": "RAK",
+            "location": "ATM located at the car park area of Ministry of Civil Defense.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "4a857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Mirdif City Center",
+            "site": "Public",
+            "coordinate": "25.216157,55.407424",
+            "emirate": "Dubai",
+            "location": "ATM located at ground level inside the mall, near  the North Entrance of the Carrefour outlet, A parking.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "78857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Mubarak Hypermarket",
+            "site": "Public",
+            "coordinate": "25.303131, 55.409643",
+            "emirate": "Sharjah",
+            "location": "ATM located at the left side of the entrance of the hypermarket, Industrial area 3",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "2d857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Mudon Community Centre",
+            "site": "Public",
+            "coordinate": "25.027094, 55.267341",
+            "emirate": "Dubai",
+            "location": "ATM located at the ground level adjacent to the passenger lift in the community center",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "1603dfef-fe5a-45b4-9d03-d18db904acaf",
+            "name": "Multinet Exchange Ind area SHJ",
+            "site": "Public",
+            "coordinate": "25.3191846,55.403068",
+            "emirate": "Sharjah",
+            "location": "Maltinet Exchange Sharjah",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "feb33cef-3fe9-4f20-997a-314e7cb17c42",
+            "name": "Museum Cargo-Al Ghurair EH- Bur Dubai",
+            "site": "Public",
+            "coordinate": "25.2610843,55.2856049",
+            "emirate": "Dubai",
+            "location": "Museum Cargo Bur Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "14857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Mushrif mall",
+            "site": "Public",
+            "coordinate": "24.43391,54.412858",
+            "emirate": "Abu Dhabi",
+            "location": "ATM located next to the parking entrance from Airport Road.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "8efddb48-b9f1-4a51-b71e-71cbe46b6c5a",
+            "name": "Nael General Contracting ATM 1 Al Saad Al Yaher Al Ain",
+            "site": "Not open to public",
+            "coordinate": "24.205769,55.511472",
+            "emirate": "Al Ain",
+            "location": "Al Saad Al Yaher Al Ain",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "2ce2597b-6f8b-4a15-8659-6a556780d96d",
+            "name": "Nael General Contracting ATM 1 Sweihan Al Ain",
+            "site": "Not open to public",
+            "coordinate": "24.4504894,55.0323835",
+            "emirate": "Al Ain",
+            "location": "Sweihan Al Ain",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "49857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Nakheel Mall, Palm Jumeirah",
+            "site": "Public",
+            "coordinate": "25.114302, 55.138621",
+            "emirate": "Dubai",
+            "location": "ATM located on the ground floor of the drop of area, near to Splash outlet.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "1e857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Nesto Hypermarket",
+            "site": "Public",
+            "coordinate": "25.396268, 55.452901",
+            "emirate": "Ajman",
+            "location": "ATM located at the designated lobby area near to the entrance of the Hypermarket",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "77857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Nesto Hypermarket",
+            "site": "Public",
+            "coordinate": "25.37062, 55.404974",
+            "emirate": "Sharjah",
+            "location": "ATM located at the main entrance of the hypermarket, opposite to the Zulekha hospital, Butina Area.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "76857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Nesto Hypermarket - Muwailih",
+            "site": "Public",
+            "coordinate": "25.300065, 55.454604",
+            "emirate": "Sharjah",
+            "location": "ATM located at the main entrance of the hypermarket, opposite to the Gems School, Muwailih",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "5a857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Nihal Building",
+            "site": "Public",
+            "coordinate": "25.269623,55.381469",
+            "emirate": "Dubai",
+            "location": "ATM located inside ATM lobby of the Nehal building,  near Time hotel, Damascus Road.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "59857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Nihal Building - 2",
+            "site": "Public",
+            "coordinate": "25.269623,55.381468",
+            "emirate": "Dubai",
+            "location": "ATM located inside ATM lobby of the Nehal building,  near Time hotel, Damascus Road.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "36a58f4c-3945-4d2d-9185-50ac4d890d2d",
+            "name": "Power Group Al Jurf Ajman",
+            "site": "Not open to public",
+            "coordinate": "25.4375535,55.5246594",
+            "emirate": "Ajman",
+            "location": "Al Jurf Industrial Area 1 Ajman",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "e140dc88-9804-485f-817d-0b419ce71d94",
+            "name": "Power Group Jabel Ali Dubai",
+            "site": "Not open to public",
+            "coordinate": "25.0080824,55.1115719",
+            "emirate": "Dubai",
+            "location": "Jabel Ali Ind. Area 1 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "2fc824cc-52a4-4820-92ed-3e68de3430e6",
+            "name": "POWER GROUP SONAPUR",
+            "site": "Not open to public",
+            "coordinate": "25.2650548,55.4154284",
+            "emirate": "Dubai",
+            "location": "Sonapur 2 Muhaisnah",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "62857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Public Works & Services Dept",
+            "site": "Public",
+            "coordinate": "25.762103, 55.965528",
+            "emirate": "RAK",
+            "location": "ATM located inside an ATM cabin in front of the PWD office.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "4f54b883-2c36-42e2-a265-c1ee50dcb54e",
+            "name": "RAK CERAMICS RAK",
+            "site": "Not open to public",
+            "coordinate": "25.6811632,55.7823862",
+            "emirate": "Ras Al Khaimah",
+            "location": "RAK Ceramics",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "61857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "RAK Chamber",
+            "site": "Public",
+            "coordinate": "25.798169, 55.963714",
+            "emirate": "RAK",
+            "location": "ATM located next to the entrance gate of the Rak Chambers of Commerce",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "60857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "RAK Courts",
+            "site": "Public",
+            "coordinate": "25.776831, 55.935735",
+            "emirate": "RAK",
+            "location": "ATM located in an ATM cabin at the main entrance of the Department of Courts, near the parking area .",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "5f857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "RAK Free Zone, Nakheel",
+            "site": "Public",
+            "coordinate": "25.800706, 55.967310",
+            "emirate": "RAK",
+            "location": "ATM located at the entrance of the Business Centre 1.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "6e857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "RAK Hospital",
+            "site": "Public",
+            "coordinate": "25.768506, 55.976317",
+            "emirate": "RAK",
+            "location": "ATM located at the dedicated ATM lobby on the ground floor near to the café shop.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "5b857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "RAK International Airport",
+            "site": "Public",
+            "coordinate": "25.617054, 55.941799",
+            "emirate": "RAK",
+            "location": "ATM located at the lobby of the Arrival terminal.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "68857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "RAK Mall",
+            "site": "Public",
+            "coordinate": "25.772347,55.959144",
+            "emirate": "RAK",
+            "location": "ATM located next to the ground floor parking entrance. ",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "48857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Ramla Mall",
+            "site": "Public",
+            "coordinate": "24.970707, 55.172079",
+            "emirate": "Dubai",
+            "location": "ATM located next to the food court near to the hypermarket entrance",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "f97e4e80-d422-4027-b40e-1f17e7e8b6bf",
+            "name": "Reda Al Ansari Exchange Al Rawda 3 AJM",
+            "site": "Public",
+            "coordinate": "25.3881665,55.4924984",
+            "emirate": "Ajman ",
+            "location": "Al Rawda 3 Ajman\u00A0 ",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "e0c4c5b8-241d-4d9c-8154-d5ad38332f66",
+            "name": "Reda Al Ansari Exchange DIP",
+            "site": "Public",
+            "coordinate": "24.9795843,55.1587564",
+            "emirate": "Dubai",
+            "location": "DIP 1 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "ccaea8da-1b72-428c-85db-04f66a30ee62",
+            "name": "Redha Al Ansari Exchange Al Khurair Al Ain",
+            "site": "Public",
+            "coordinate": "24.4966378,55.3398544",
+            "emirate": "Al Ain",
+            "location": "Al-Khurair, Wadi Al-Ain",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "7f29c708-3c4b-4537-9e31-f364a58311d2",
+            "name": "Redha Al Ansari Exchange Saif Zone Sharjah",
+            "site": "Public",
+            "coordinate": "25.3103696,55.4440448",
+            "emirate": "Sharjah",
+            "location": "Saif Zone Sharjah",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "22857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Refa Gift Market, Al Ain (Gulf Express hypermarket)",
+            "site": "Public",
+            "coordinate": "24.194828,55.756817",
+            "emirate": "Al Ain",
+            "location": "ATM located next to the entrance of the store, Khalifa Bin Zayed Al Awwal street.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "10857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Rich & Fresh Supermarket",
+            "site": "Public",
+            "coordinate": "24.326352, 54.535011",
+            "emirate": "Abu Dhabi",
+            "location": "ATM located at the right side of the entrance of the supermarket",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "e206a929-9546-4b9a-9dcc-d9d23a0d42aa",
+            "name": "Saad Exchange FUJ",
+            "site": "Public",
+            "coordinate": "25.0836698,56.2881682",
+            "emirate": "Fujairah",
+            "location": "Al Hyal Industrial Area G Block ",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "0f857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Safeer Center-Mussafa",
+            "site": "Public",
+            "coordinate": "24.342796,54.530382",
+            "emirate": "Abu Dhabi",
+            "location": "ATM located inside ATM lobby of the market, Mussafah Industrial area.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "7f857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Safeer Centre Khorfakkan",
+            "site": "Public",
+            "coordinate": "25.355147, 56.350047",
+            "emirate": "Sharjah",
+            "location": "ATM located near to the side entrance",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "7e857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Sahara Center",
+            "site": "Public",
+            "coordinate": "25.297480,55.372751",
+            "emirate": "Sharjah",
+            "location": "ATM located inside the center , next to the food court at first floor.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "3c857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Sahraa Al Madina Supermarket",
+            "site": "Public",
+            "coordinate": "25.170483, 55.413548",
+            "emirate": "Dubai",
+            "location": "ATM located next to the entrance of the supermarket, China Cluster B01.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "54857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "San Marco Hotel",
+            "site": "Public",
+            "coordinate": "25.278324,55.30998",
+            "emirate": "Dubai",
+            "location": "ATM located next to the main entrance of the hotel, behind the Burger king outlet.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "3b857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Sanad Al Madina",
+            "site": "Public",
+            "coordinate": "25.172871, 55.403917",
+            "emirate": "Dubai",
+            "location": "ATM located at the right side of the entrance of the supermarket, England Cluster , Y - 14",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "716948cf-cd0c-4226-ae6c-c9d848cbc512",
+            "name": "SEPCOIII Electric Power Construction Taweelah Abu Dhabi",
+            "site": "Not open to public",
+            "coordinate": "24.7430216,54.6859751",
+            "emirate": "Abu Dhabi",
+            "location": "Taweelah Abu Dhabi",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "79d658d3-4409-4c15-b7e5-22948b556472",
+            "name": "Sharaf Exchange Al Nadha SHJ",
+            "site": "Public",
+            "coordinate": "25.3029528,55.382286",
+            "emirate": "Sharjah",
+            "location": "Al Nahda Sharjah",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "6b44865b-b78a-45fe-aa3d-a7f5e779f2dd",
+            "name": "Sharaf Exchange Mafraq Abu Dhabi",
+            "site": "Public",
+            "coordinate": "24.2549156,54.6310473",
+            "emirate": "Abu Dhabi",
+            "location": "Al Rayan Camp Baniyas",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "a9595ebb-2732-4d97-9381-7b467555d8cf",
+            "name": "Sharjah Cement Factory SHJ",
+            "site": "Not open to public",
+            "coordinate": "25.2962222,55.6167443",
+            "emirate": "Sharjah",
+            "location": "Industrial Area Al Sajaa",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "7d857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Sharjah City Center",
+            "site": "Public",
+            "coordinate": "25.325010,55.393061",
+            "emirate": "Sharjah",
+            "location": "ATM located next to the entrance of P1 parking area",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "6d857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Sheikh Khalifa Speciality Hospital",
+            "site": "Public",
+            "coordinate": "25.624199, 55.839506 ",
+            "emirate": "RAK",
+            "location": "ATM located at the designated area in the hospital lobby near to the main reception",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "26857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Spinneys Meydan ",
+            "site": "Public",
+            "coordinate": "25.151402, 55.295987",
+            "emirate": "Dubai",
+            "location": "ATM located at the dedicated ATM lobby area in the ground floor, near to the Office lifts. ",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "3a857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Spinneys Motorcity",
+            "site": "Public",
+            "coordinate": "25.045903, 55.241650",
+            "emirate": "Dubai",
+            "location": "ATM located to the left side of the main entrance, Fox hill 1",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "2c857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Spinneys Supermarket, DSO",
+            "site": "Public",
+            "coordinate": "25.127228,55.396854",
+            "emirate": "Dubai",
+            "location": "ATM located at  the entrance of the Community Center, Cedre Villas, DSO.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "84857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Star City Supermarket, Jafza",
+            "site": "Public",
+            "coordinate": "25.008943, 55.094260",
+            "emirate": "Dubai",
+            "location": "ATM located near to the entrance of the supermarket",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "2b681ea4-d8f1-4b20-9d39-b700d35660f6",
+            "name": "Suhail Al Mazroui Group - Al Jaber EH  Habshan Abu Dhabi",
+            "site": "Public",
+            "coordinate": "23.7452153,53.5048303",
+            "emirate": "Abu Dhabi",
+            "location": "Habshan Abu Dhabi",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "1d857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Tas'heel Ajman",
+            "site": "Public",
+            "coordinate": "25.3899,55.465422",
+            "emirate": "Ajman",
+            "location": "ATM located next to the main entrance of the Tasheel outlet, Sh Khalifa Bin Zayed St.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "71857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Tasjeel Village",
+            "site": "Public",
+            "coordinate": "25.699717, 55.933217",
+            "emirate": "RAK",
+            "location": "ATM located inside the Zoom outlet adjacent to ENOC Petrol station",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "2b857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "The Meadows souk",
+            "site": "Public",
+            "coordinate": "25.054414, 55.170459",
+            "emirate": "Dubai",
+            "location": "ATM located in the ATM lobby towards Fitness First entrance.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "25857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "The Ranches Souk",
+            "site": "Public",
+            "coordinate": "25.029267, 55.270582",
+            "emirate": "Dubai",
+            "location": "ATM located at the right side of the main entrance near to the pet shop,near Arabian Ranches 2.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "5e857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Traffic Driving & Licensing Department – RAK Police",
+            "site": "Public",
+            "coordinate": "25.723806, 55.872190",
+            "emirate": "RAK",
+            "location": "ATM located next to the reception of the Traffic Department",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "f541cebb-7bb8-446a-bfdb-9c314e7e04b5",
+            "name": "Trojan General Contracting \u00A0Mbazzarah Al Khadra Al Ain 8",
+            "site": "Not open to public",
+            "coordinate": "24.0606667,55.730478",
+            "emirate": "Al Ain",
+            "location": "Mbazzarah Al Khadra, Jabel Hafeet",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "fd9ec44c-42b7-42fe-9efd-cfe80295da2e",
+            "name": "Trojan General Contracting Al Al Ajban, AUH 7",
+            "site": "Not open to public",
+            "coordinate": "24.6073317,55.0013074",
+            "emirate": "Abu Dhabi",
+            "location": "Al Ajban Zayed Military, Sweihan ",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "3a3ffce2-20b1-4b0a-ba3d-895fce9f4f3c",
+            "name": "Trojan General Contracting Al Reef, AUH ATM 3",
+            "site": "Not open to public",
+            "coordinate": "24.4646394,54.6551255",
+            "emirate": "Abu Dhabi",
+            "location": "Al Reef, Abu Dhabi",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "ceeeecb7-20bd-4405-b795-d1e97d4405cd",
+            "name": "Trojan General Contracting Al Reef, AUH ATM 4",
+            "site": "Not open to public",
+            "coordinate": "24.4646394,54.6551255",
+            "emirate": "Abu Dhabi",
+            "location": "Al Reef, Abu Dhabi",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "0564085a-55b7-4a0c-ad06-b2bc14a6b45e",
+            "name": "Trojan General Contracting Al Reef, AUH ATM 5",
+            "site": "Not open to public",
+            "coordinate": "24.4646394,54.6551255",
+            "emirate": "Abu Dhabi",
+            "location": "Al Reef, Abu Dhabi",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "9e100980-afdf-4d48-8914-8cb151db77f9",
+            "name": "Trojan General Contracting Al Shahama, AUH 6",
+            "site": "Not open to public",
+            "coordinate": "24.5457384,54.6954332",
+            "emirate": "Abu Dhabi",
+            "location": "Al Shahama ",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "930a0bc4-c34d-4b9f-b3f6-eee0623b0d7b",
+            "name": "Trojan General Contracting Water Font Dubai ATM 1",
+            "site": "Not open to public",
+            "coordinate": "24.9348611,54.9731446",
+            "emirate": "Dubai",
+            "location": "Mina Jabel Ali",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "35ffe331-c515-4a7a-a447-90ac34b1bd66",
+            "name": "Trojan General Contracting Water Font Dubai ATM 2",
+            "site": "Not open to public",
+            "coordinate": "24.9348611,54.9731446",
+            "emirate": "Dubai",
+            "location": "Mina Jabel Ali",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "58857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Umm Ramool",
+            "site": "Public",
+            "coordinate": "25.234196,55.354078",
+            "emirate": "Dubai",
+            "location": "ATM located at the building entrance, near  Al Khaleej International School, Umm Ramool.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "39857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Union coop, Al Aweer",
+            "site": "Public",
+            "coordinate": "25.175212, 55.386802",
+            "emirate": "Dubai",
+            "location": "ATM located next to the entrance, near pharmacy gate, Dubai Central Fruit and Vegetable Market in Ras Al Khor ",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "47857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "VFS - Wafi Mall",
+            "site": "Public",
+            "coordinate": "25.229204, 55.319450",
+            "emirate": "Dubai",
+            "location": "ATM located next to entrance of VFS Office at the second floor, Wafi Mall",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "49199aa8-c788-461f-9197-93beb6631164",
+            "name": "Wade Adam Jabel Ali",
+            "site": "Not open to public",
+            "coordinate": "25.0011546,55.1075185",
+            "emirate": "Dubai",
+            "location": "Jabel Ali Ind. Area 1 Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "75857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Wafa Centre",
+            "site": "Public",
+            "coordinate": "25.349781,55.408795",
+            "emirate": "Sharjah",
+            "location": "ATM located inside the main entrance of the store, Yarmook.",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "30857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Waitrose Motorcity",
+            "site": "Public",
+            "coordinate": "25.041620, 55.229333",
+            "emirate": "Dubai",
+            "location": "ATM located near to the entrance of the Digital Branch, adjacent to Waitrose Outlet",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "77507f30-3bee-4026-a369-58cf4b378401",
+            "name": "Wall Street Exchange Hor Al Anz DXB",
+            "site": "Public",
+            "coordinate": "25.3086316,55.3276062",
+            "emirate": "Dubai",
+            "location": "Hor Al Anz, Dubai",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "e752de9b-6c77-4a60-8d71-68285fc40779",
+            "name": "Wall Street Exchange Salem Mall Jabel Ali DXB",
+            "site": "Public",
+            "coordinate": "24.982095,55.1373578 ",
+            "emirate": "Dubai",
+            "location": "Salem Mall Jabel Ali",
+            "status": null,
+            "atmType": "C3Pay"
+        },
+        {
+            "atmLocationId": "38857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Water Front Market Place",
+            "site": "Public",
+            "coordinate": "25.291776, 55.323603",
+            "emirate": "Dubai",
+            "location": "ATM Located next to the fish market entrance",
+            "status": null,
+            "atmType": "RAKBANK"
+        },
+        {
+            "atmLocationId": "13857ed2-1d22-ec11-93a7-8086f2aa5252",
+            "name": "Yas Mall",
+            "site": "Public",
+            "coordinate": "24.488600, 54.609153",
+            "emirate": "Abu Dhabi",
+            "location": "ATM located at the north east square near to the escalator coming from Geant Hypermarket on lower ground to ground floor",
+            "status": null,
+            "atmType": "RAKBANK"
+        }
+    ]
+}

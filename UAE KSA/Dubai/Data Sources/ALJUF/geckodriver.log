@@ -1,0 +1,352 @@
+1714727366881	geckodriver	INFO	Listening on 127.0.0.1:65251
+1714727369924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileza0lQc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714727370894	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714727371016	Marionette	INFO	Listening on port 65263
+Read port: 65263
+1714727371191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714727384930	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714727401807	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1714727421572	geckodriver	INFO	Listening on 127.0.0.1:65430
+1714727424593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7WIqC6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714727424975	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714727425085	Marionette	INFO	Listening on port 65442
+Read port: 65442
+1714727425256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714727439955	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714727456511	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714727504793	geckodriver	INFO	Listening on 127.0.0.1:49239
+1714727507837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile5QlScI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714727508221	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714727508324	Marionette	INFO	Listening on port 49251
+Read port: 49251
+1714727508496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714727521402	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714727603962	geckodriver	INFO	Listening on 127.0.0.1:49719
+1714727607029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilejbX2Ga"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714727607406	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714727607516	Marionette	INFO	Listening on port 49737
+Read port: 49737
+1714727607701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714727624050	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714727692030	geckodriver	INFO	Listening on 127.0.0.1:49926
+1714727695072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileMneTaq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714727695445	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714727695558	Marionette	INFO	Listening on port 49938
+Read port: 49938
+1714727695737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714727720475	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714727725532	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714727786345	geckodriver	INFO	Listening on 127.0.0.1:50144
+1714727789400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileReupZE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714727789774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714727789881	Marionette	INFO	Listening on port 50156
+Read port: 50156
+1714727790058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714727804955	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714727820470	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714728210409	geckodriver	INFO	Listening on 127.0.0.1:50534
+1714728213472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilek7Kyi2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714728213850	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714728213961	Marionette	INFO	Listening on port 50545
+Read port: 50545
+1714728214142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714728226256	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714728276082	geckodriver	INFO	Listening on 127.0.0.1:50711
+1714728279111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilemZoI0g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714728279525	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714728279640	Marionette	INFO	Listening on port 50723
+Read port: 50723
+1714728279811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714728295449	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714729177931	geckodriver	INFO	Listening on 127.0.0.1:51568
+1714729180984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileHqqNjM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714729181387	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714729181502	Marionette	INFO	Listening on port 51583
+Read port: 51583
+1714729181694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714729198983	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+1714729232050	geckodriver	INFO	Listening on 127.0.0.1:51746
+1714729235074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilemS9Sl6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714729235466	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714729235573	Marionette	INFO	Listening on port 51757
+Read port: 51757
+1714729235767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714729255474	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714729265889	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1714729295985	geckodriver	INFO	Listening on 127.0.0.1:51918
+1714729299020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilekMgpQC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714729299424	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714729299539	Marionette	INFO	Listening on port 51929
+Read port: 51929
+1714729299719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714729318208	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714729329564	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1714729353593	geckodriver	INFO	Listening on 127.0.0.1:52118
+1714729356639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQoGgeX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714729357028	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714729357143	Marionette	INFO	Listening on port 52139
+Read port: 52139
+1714729357335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714729380491	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714729387274	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714729593682	geckodriver	INFO	Listening on 127.0.0.1:52430
+1714729596725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileqzL8M4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714729597096	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714729597209	Marionette	INFO	Listening on port 52444
+Read port: 52444
+1714729597394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714729613972	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714729729573	geckodriver	INFO	Listening on 127.0.0.1:52663
+1714729752905	geckodriver	INFO	Listening on 127.0.0.1:52681
+1714729755968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileMaOkT3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714729756355	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714729756465	Marionette	INFO	Listening on port 52692
+Read port: 52692
+1714729756640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714729776033	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714729786679	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714729812766	geckodriver	INFO	Listening on 127.0.0.1:52911
+1714729815792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileJHcpaz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714729816180	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714729816278	Marionette	INFO	Listening on port 52923
+Read port: 52923
+1714729816454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714729830345	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714729852178	geckodriver	INFO	Listening on 127.0.0.1:53079
+1714729855196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7ctDqA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714729855573	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714729855677	Marionette	INFO	Listening on port 53090
+Read port: 53090
+1714729855852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714729873215	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714729885590	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714730214086	geckodriver	INFO	Listening on 127.0.0.1:53482
+1714730217161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilegvk5Eh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714730217566	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714730217669	Marionette	INFO	Listening on port 53496
+Read port: 53496
+1714730217845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714730235605	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714730248283	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714730329312	geckodriver	INFO	Listening on 127.0.0.1:53706
+1714730332364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileijHSIT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714730332770	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714730332871	Marionette	INFO	Listening on port 53718
+Read port: 53718
+1714730333038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714730350874	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714730363235	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714730523432	geckodriver	INFO	Listening on 127.0.0.1:53987
+1714730526479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileRYI4wn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714730526856	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714730526967	Marionette	INFO	Listening on port 53999
+Read port: 53999
+1714730527148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714730542786	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714730556939	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1714730579376	Marionette	INFO	Stopped listening on port 53999
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+rn/o<@https://sc-static.net/scevent.min.js:2:9511
+
+Dynamically enable window occlusion 1
+1714730780372	geckodriver	INFO	Listening on 127.0.0.1:54321
+1714730783421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilewtjfFE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714730783873	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714730784000	Marionette	INFO	Listening on port 54334
+Read port: 54334
+1714730784212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1714730815788	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1714730824996	geckodriver	INFO	Listening on 127.0.0.1:54409
+1714730828041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileISskRI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714730828404	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714730828513	Marionette	INFO	Listening on port 54419
+Read port: 54419
+1714730828683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714730845573	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714730858631	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714730981564	geckodriver	INFO	Listening on 127.0.0.1:54591
+1714730984618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCR2Aj7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714730985001	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714730985107	Marionette	INFO	Listening on port 54601
+Read port: 54601
+1714730985291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1714731015064	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714731019023	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714731054415	Marionette	INFO	Stopped listening on port 54601
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+rn/o<@https://sc-static.net/scevent.min.js:2:9512
+
+Dynamically enable window occlusion 1
+1714731126791	geckodriver	INFO	Listening on 127.0.0.1:54772
+1714731129828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileXtbHU7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714731130232	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714731130490	Marionette	INFO	Listening on port 54783
+Read port: 54783
+1714731130681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.aljfinance.com/themes/custom/aljuf/js/script.js?v=1.x, line 211: TypeError: goBackBtn is null
+1714731160303	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1714731163933	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714731198277	Marionette	INFO	Stopped listening on port 54783
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+rn/o<@https://sc-static.net/scevent.min.js:2:9512
+
+Dynamically enable window occlusion 1

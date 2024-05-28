@@ -1,0 +1,1080 @@
+1713942770364	geckodriver	INFO	Listening on 127.0.0.1:56174
+1713942773427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile67gJPN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713942774561	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713942774689	Marionette	INFO	Listening on port 56186
+Read port: 56186
+1713942774951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713942804825	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c, line 365: Script terminated by timeout at:
+Tn@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:365:833
+Wn@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:365:1073
+Xn@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:368:203
+Zn@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:365:1142
+no@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:370:814
+aF@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:602:394
+aa.lm@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:636:179
+aa.km/</<@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:630:248
+Bl@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:331:439
+Ol@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:334:153
+aa.km/<@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:630:234
+c@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:455:169
+vt@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:456:269
+aa.km@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:630:220
+c@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:651:675
+Lm@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:341:298
+Km.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:344:278
+Km.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:342:207
+Dm@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:339:638
+vG/<@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:652:178
+aa.Bk/<@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:600:126
+aa.Bk/c/<@https://www.googletagmanager.com/gtag/js?id=G-9Q5H1KXMPG&l=dataLayer&cx=c:599:420
+o@https://www.graana.com/_next/static/chunks/pages/_app-416fbc6219793266.js:151:295197
+c@https://www.graana.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9405
+
+1713942815966	Marionette	INFO	Stopped listening on port 56186
+Dynamically enable window occlusion 1
+1713942931335	geckodriver	INFO	Listening on 127.0.0.1:56364
+1713942934424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileu8gDjx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713942934807	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713942934899	Marionette	INFO	Listening on port 56376
+Read port: 56376
+1713942935070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713943029660	geckodriver	INFO	Listening on 127.0.0.1:56487
+1713943032705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileuZuEdt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713943033044	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713943033138	Marionette	INFO	Listening on port 56499
+Read port: 56499
+1713943033311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713943056352	geckodriver	INFO	Listening on 127.0.0.1:56547
+1713943059403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledWggZw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713943059737	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713943059831	Marionette	INFO	Listening on port 56559
+Read port: 56559
+1713943060013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713943090464	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713943151934	geckodriver	INFO	Listening on 127.0.0.1:56698
+1713943154992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileXU3iCy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713943155342	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713943155431	Marionette	INFO	Listening on port 56712
+Read port: 56712
+1713943155645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713943187099	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledzVclw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713943244296	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713943244393	Marionette	INFO	Listening on port 56832
+Read port: 56832
+1713943244574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713943274328	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713943660085	geckodriver	INFO	Listening on 127.0.0.1:61399
+1713943663136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileebBiwV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713943663465	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713943663553	Marionette	INFO	Listening on port 61410
+Read port: 61410
+1713943663713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713943694162	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1713943736292	geckodriver	INFO	Listening on 127.0.0.1:61487
+1713943739347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCuFKhJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713943739680	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713943739770	Marionette	INFO	Listening on port 61499
+Read port: 61499
+1713943739932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713943770375	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Listening on 127.0.0.1:61560
+1713943788586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQpySFR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713943788909	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713943788995	Marionette	INFO	Listening on port 61571
+Read port: 61571
+1713943789156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713944268835	geckodriver	INFO	Listening on 127.0.0.1:61873
+1713944271899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileH5TPCZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713944272234	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713944272326	Marionette	INFO	Listening on port 61885
+Read port: 61885
+1713944272481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713944303900	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1713944328143	geckodriver	INFO	Listening on 127.0.0.1:61951
+1713944331197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilePjOljr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713944331527	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713944331613	Marionette	INFO	Listening on port 61963
+Read port: 61963
+1713944331776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713944362154	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9FDEea"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713944367990	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713944368079	Marionette	INFO	Listening on port 62029
+Read port: 62029
+1713944368240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713944410670	geckodriver	INFO	Listening on 127.0.0.1:62123
+1713944413711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1GNBeX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713944414044	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713944414132	Marionette	INFO	Listening on port 62134
+Read port: 62134
+1713944414295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+1713944980704	geckodriver	INFO	Listening on 127.0.0.1:61856
+1713944983738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilea8ndSi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713944984107	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713944984202	Marionette	INFO	Listening on port 61868
+Read port: 61868
+1713944984375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]:[G FX1Compositor-]: BrComidgeChpoilsitd recoreiBrives dgeChIPC close withild r reaeceives IPsoC cln=Aose with rbnormalSeason=huAbnormalShutdowntdo
+wn
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1713945016232	geckodriver	INFO	Listening on 127.0.0.1:61905
+1713945019260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilesu2lbP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713945019596	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713945019684	Marionette	INFO	Listening on port 61916
+Read port: 61916
+1713945019854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713945051444	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713945071146	Marionette	INFO	Stopped listening on port 61911713945072565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileqxchpa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713945072894	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713945072985	Marionette	INFO	Listening on port 61986
+Read port: 61986
+1713945073151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+1713945100060	geckodriver	INFO	Listening on 127.0.0.1:62040
+1713945103096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileznZv9c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713945103447	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713945103546	Marionette	INFO	Listening on port 62053
+Read port: 62053
+1713945103706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713945134180	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713945139705	geckodriver	INFO	Listening on 127.0.0.1:62136
+1713945142780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilezlampx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713945143117	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713945143204	Marionette	INFO	Listening on port 62147
+Read port: 62147
+1713945143379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713945467679	geckodriver	INFO	Listening on 127.0.0.1:62392
+1713945470721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileaXccYr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713945471047	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713945471139	Marionette	INFO	Listening on port 62404
+Read port: 62404
+1713945471301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713945502655	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713946350306	geckodriver	INFO	Listening on 127.0.0.1:62968
+1713946353351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDRODzW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713946353734	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713946353837	Marionette	INFO	Listening on port 62981
+Read port: 62981
+1713946354022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713946405115	geckodriver	INFO	Listening on 127.0.0.1:63050
+1713946408188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileNLSmwV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713946408516	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713946408610	Marionette	INFO	Listening on port 63060
+Read port: 63060
+1713946408780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713946438633	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713946470282	geckodriver	INFO	Listening on 127.0.0.1:63152
+1713946473326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilewdLka7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713946473645	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713946473736	Marionette	INFO	Listening on port 63162
+Read port: 63162
+1713946473900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713946515600	geckodriver	INFO	Listening on 127.0.0.1:63236
+1713946518611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile51tz30"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713946518964	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713946519053	Marionette	INFO	Listening on port 63247
+Read port: 63247
+1713946519114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713946549381	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1713946936280	geckodriver	INFO	Listening on 127.0.0.1:63434
+1713946939350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileM4NB7d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713946939686	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713946939772	Marionette	INFO	Listening on port 63446
+Read port: 63446
+1713946939932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713946969898	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #421; visit https://reactjs.org/docs/error-decoder.html?invariant=421 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+am Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileAwzG3p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713956337248	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713956337343	Marionette	INFO	Listening on port 57432
+Read port: 57432
+1713956337489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713956352528	geckodriver	INFO	Listening on 127.0.0.1:57462
+1713956355603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexqgfAY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713956355930	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713956356015	Marionette	INFO	Listening on port 57472
+Read port: 57472
+1713956356178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1713956380160	geckodriver	INFO	Listening on 127.0.0.1:57506
+1713956383216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCtAW7N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713956383550	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713956383636	Marionette	INFO	Listening on port 57516
+Read port: 57516
+1713956383798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713956414206	addons.xpi	ERROR	System addon update list erro1713956415496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.ex1713956461648	Marionette	INFO	Stopped listening on port 57516
+Dynamically enable window occlusion 1
+GzUg6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713956415826	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713956415926	Marionette	INFO	Listening on port 57561
+Read port: 57561
+1713956416065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713956445861	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #421; visit https://reactjs.org/docs/error-decoder.html?invariant=421 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1713956585731	Marionette	INFO	Stopped listening on port 57561
+Dynamically enable window occlusion 1
+1715148558855	geckodriver	INFO	Listening on 127.0.0.1:59670
+1715148561895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1lf0Fe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715148562842	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715148562952	Marionette	INFO	Listening on port 59680
+Read port: 59680
+1715148563138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1715148567719	Marionette	INFO	Stopped listening on port 59680
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Dynamically enable window occlusion 1
+1715148694559	geckodriver	INFO	Listening on 127.0.0.1:59820
+1715148697630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileVXVyES"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715148697987	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715148698091	Marionette	INFO	Listening on port 59832
+Read port: 59832
+1715148698239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715148707797	Marionette	INFO	Stopped listening on port 59832
+Dynamically enable window occlusion 1
+1715148740149	geckodriver	INFO	Listening on 127.0.0.1:59930
+1715148743219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDNL5y2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715148743582	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715148743680	Marionette	INFO	Listening on port 59941
+Read port: 59941
+1715148743741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715148752449	Marionette	INFO	Stopped listening on port 59941
+Dynamically enable window occlusion 1
+1715148773947	geckodriver	INFO	Listening on 127.0.0.1:60020
+1715148776998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7XQ6Xk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715148777350	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715148777454	Marionette	INFO	Listening on port 60031
+Read port: 60031
+1715148777591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715148786355	Marionette	INFO	Stopped listening on port 60031
+Dynamically enable window occlusion 1
+1715148904962	geckodriver	INFO	Listening on 127.0.0.1:60230
+1715148908016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile5uzb2x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715148908375	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715148908469	Marionette	INFO	Listening on port 60241
+Read port: 60241
+1715148908636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715148918856	Marionette	INFO	Stopped listening on port 60241
+Dynamically enable window occlusion 1
+1715148953248	geckodriver	INFO	Listening on 127.0.0.1:60341
+1715148956285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOY70lu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715148956637	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715148956740	Marionette	INFO	Listening on port 60353
+Read port: 60353
+1715148956885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715148966185	Marionette	INFO	Stopped listening on port 60353
+Dynamically enable window occlusion 1
+1715149197586	geckodriver	INFO	Listening on 127.0.0.1:60597
+1715149200620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOYL34x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715149201032	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715149201139	Marionette	INFO	Listening on port 60610
+Read port: 60610
+1715149201306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715149231906	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1715149469570	geckodriver	INFO	Listening on 127.0.0.1:60876
+1715149472614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilepvw3y3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715149472967	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715149473069	Marionette	INFO	Listening on port 60888
+Read port: 60888
+1715149473265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1715149478295	Marionette	INFO	Stopped listening on port 60888
+JavaScript warning: https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js, line 151: Script terminated by timeout at:
+h@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:151:44824
+v@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:151:45159
+b@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:151:45276
+e@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:151:53030
+l/<@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:151:53896
+l@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:151:53499
+t@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:151:53958
+l/<@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:151:53861
+l@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:151:53499
+t@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:151:53958
+d@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:1:138629
+h@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:1:138924
+e/</S<@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:151:26511
+u/<@https://www.graana.com/_next/static/chunks/pages/_app-5ac1b8b1c455d663.js:1:134822
+Eo@https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js:1:63196
+Su@https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js:1:73306
+xi@https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js:1:122499
+bs@https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js:1:109374
+gs@https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js:1:109302
+vs@https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js:1:109163
+ls@https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js:1:104267
+S@https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js:1:138470
+T@https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js:1:139003
+
+Dynamically enable window occlusion 1
+1715150211108	geckodriver	INFO	Listening on 127.0.0.1:61490
+1715150214157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile5YNDD0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715150214550	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715150214652	Marionette	INFO	Listening on port 61502
+Read port: 61502
+1715150214830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1715150230598	Marionette	INFO	Stopped listening on port 61501715150232661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileG5xPWh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715150233080	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715150233194	Marionette	INFO	Listening on port 61559
+Read port: 61559
+1715150233258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+1715150303825	geckodriver	INFO	Listening on 127.0.0.1:61713
+1715150306913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileG62QKg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715150307265	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715150307364	Marionette	INFO	Listening on port 61725
+Read port: 61725
+1715150307537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715150588504	geckodriver	INFO	Listening on 127.0.0.1:61991
+1715150591558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZmlvR0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715150591902	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715150591997	Marionette	INFO	Listening on port 62002
+Read port: 62002
+1715150592052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715150622319	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715150794071	geckodriver	INFO	Listening on 127.0.0.1:62208
+1715150797133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileByGcFr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715150797503	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715150797606	Marionette	INFO	Listening on port 62222
+Read port: 62222
+1715150797788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715150813895	geckodriver	INFO	Listening on 127.0.0.1:62325
+1715150816944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletgGnLx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715150817326	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715150817431	Marionette	INFO	Listening on port 62338
+Read port: 62338
+1715150817606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715150845133	geckodriver	INFO	Listening on 127.0.0.1:62427
+1715150848203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileYTrqRz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715150848541	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715150848649	Marionette	INFO	Listening on port 62438
+Read port: 62438
+1715150848834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715150878567	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715151158086	geckodriver	INFO	Listening on 127.0.0.1:62704
+1715151161125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileYok4oa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715151161607	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715151161707	Marionette	INFO	Listening on port 62718
+Read port: 62718
+1715151161877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+1715151202460	geckodriver	INFO	Listening on 127.0.0.1:62778
+1715151205512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileSvB1Ff"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715151205861	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715151205964	Marionette	INFO	Listening on port 62792
+Read port: 62792
+1715151206153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715152174048	geckodriver	INFO	Listening on 127.0.0.1:58957
+1715152177088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileRkSGyk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715152177469	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715152177578	Marionette	INFO	Listening on port 58967
+Read port: 58967
+1715152177778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715152228888	geckodriver	INFO	Listening on 127.0.0.1:59041
+1715152231920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileYDMJC9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715152232267	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715152232368	Marionette	INFO	Listening on port 59051
+Read port: 59051
+1715152232422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715152262290	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715152275449	geckodriver	INFO	Listening on 127.0.0.1:59138
+1715152278508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletBpeC2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715152278853	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715152278952	Marionette	INFO	Listening on port 59148
+Read port: 59148
+1715152279021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715152316338	geckodriver	INFO	Listening on 127.0.0.1:59224
+1715152319382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileC0gfU0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715152319733	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715152319833	Marionette	INFO	Listening on port 59234
+Read port: 59234
+1715152319907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715152537472	geckodriver	INFO	Listening on 127.0.0.1:59528
+1715152540521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileVroSpE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715152540918	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715152541031	Marionette	INFO	Listening on port 59540
+Read port: 59540
+1715152541216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Exiting due to channel error.
+Exiting due to channel error.
+1715152596097	geckodriver	INFO	Listening on 127.0.0.1:59657
+1715152599145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileyNBcHt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715152599493	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715152599590	Marionette	INFO	Listening on port 59671
+Read port: 59671
+1715152599763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715152630245	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715152666349	geckodriver	INFO	Listening on 127.0.0.1:59792
+1715152669366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileigi1IB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715152669730	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715152669829	Marionette	INFO	Listening on port 59805
+Read port: 59805
+1715152669999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715152701313	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715152706756	geckodriver	INFO	Listening on 127.0.0.1:59886
+1715152709797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileFTi8A3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715152710151	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715152710250	Marionette	INFO	Listening on port 59898
+Read port: 59898
+1715152710431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715152740176	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715152762432	geckodriver	INFO	Listening on 127.0.0.1:60012
+1715152765491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7YsY2a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715152765851	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715152765956	Marionette	INFO	Listening on port 60026
+Read port: 60026
+1715152766127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715152795869	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715152822684	geckodriver	INFO	Listening on 127.0.0.1:60177
+1715152825717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileUkpY07"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715152826073	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715152826170	Marionette	INFO	Listening on port 60188
+Read port: 60188
+1715152826338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715152856782	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715152864752	geckodriver	INFO	Listening on 127.0.0.1:60299
+1715152867799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileSF2BGW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715152868133	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715152868235	Marionette	INFO	Listening on port 60310
+Read port: 60310
+1715152868379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+1715152895760	geckodriver	INFO	Listening on 127.0.0.1:60390
+1715152898800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOQ2osL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715152899145	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715152899237	Marionette	INFO	Listening on port 60406
+Read port: 60406
+1715152899413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715152995888	geckodriver	INFO	Listening on 127.0.0.1:60554
+1715152998926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilelHjcPW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715152999279	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715152999380	Marionette	INFO	Listening on port 60566
+Read port: 60566
+1715152999552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715153031156	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1715153044890	geckodriver	INFO	Listening on 127.0.0.1:60657
+1715153047946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilem8mSQR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715153048297	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715153048402	Marionette	INFO	Listening on port 60670
+Read port: 60670
+1715153048571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+Exiting due to channel error.
+1715153200473	geckodriver	INFO	Listening on 127.0.0.1:60840
+1715153203499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileykGYiy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715153203848	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715153203951	Marionette	INFO	Listening on port 60853
+Read port: 60853
+1715153204120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715153235504	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1715153254103	geckodriver	INFO	Listening on 127.0.0.1:60960
+1715153257157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7J14Cg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715153257557	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715153257662	Marionette	INFO	Listening on port 60972
+Read port: 60972
+1715153257828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715153379875	geckodriver	INFO	Listening on 127.0.0.1:61102
+1715153382925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilepLciEz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715153383330	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715153383453	Marionette	INFO	Listening on port 61125
+Read port: 61125
+1715153383648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715153413358	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1715153518821	geckodriver	INFO	Listening on 127.0.0.1:61269
+1715153521857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile2FP62D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715153522205	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715153522302	Marionette	INFO	Listening on port 61281
+Read port: 61281
+1715153522360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715153754391	geckodriver	INFO	Listening on 127.0.0.1:61476
+1715153757439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletV4RMz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715153757793	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715153757897	Marionette	INFO	Listening on port 61488
+Read port: 61488
+1715153757955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715153788118	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715163701100	geckodriver	INFO	Listening on 127.0.0.1:58708
+1715163704152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileVnbXrb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715163704724	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715163704820	Marionette	INFO	Listening on port 58718
+Read port: 58718
+1715163704879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #421; visit https://reactjs.org/docs/error-decoder.html?invariant=421 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715163748328	geckodriver	INFO	Listening on 127.0.0.1:58788
+1715163751374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZKh7ka"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715163751724	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715163751825	Marionette	INFO	Listening on port 58799
+Read port: 58799
+1715163751995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #421; visit https://reactjs.org/docs/error-decoder.html?invariant=421 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715163781817	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715164464622	geckodriver	INFO	Listening on 127.0.0.1:59017
+1715164467679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilef5zaeD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715164468079	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715164468180	Marionette	INFO	Listening on port 59027
+Read port: 59027
+1715164468355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #421; visit https://reactjs.org/docs/error-decoder.html?invariant=421 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1715164498812	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.graana.com/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 130816 extraneous bytes before marker 0xdb
+Corrupt JPEG data: 130816 extraneous bytes before marker 0xdb
+Corrupt JPEG data: 130816 extraneous bytes before marker 0xdb
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+1715178438268	Marionette	INFO	Stopped listening on port 59027
+Dynamically enable window occlusion 1

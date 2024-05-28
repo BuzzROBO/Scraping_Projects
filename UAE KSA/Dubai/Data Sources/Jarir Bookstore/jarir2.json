@@ -1,0 +1,268 @@
+{
+                                            "id": "1b763418-2787-4981-9bf6-90161cdbcbcd",
+                                            "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Frahba-police-station",
+                                            "name": "rahba-police-station",
+                                            "displayName": "rahba-police-station",
+                                            "fields": {
+                                                "branchTypeIBMB": null,
+                                                "location": {
+                                                    "id": "46f0f4b2-4611-4f00-838c-d1cac719442e",
+                                                    "url": "\u002Fdata\u002Fbranchlocations\u002Fabudhabi",
+                                                    "name": "AbuDhabi",
+                                                    "displayName": "AbuDhabi",
+                                                    "fields": {
+                                                        "city": {
+                                                            "value": "Abu Dhabi"
+                                                        },
+                                                        "country": {
+                                                            "value": "United Arab Emirates"
+                                                        }
+                                                    }
+                                                },
+                                                "branchLocationPinColor": {
+                                                    "value": "Blue"
+                                                },
+                                                "latitude": {
+                                                    "value": 24.657587
+                                                },
+                                                "longitude": {
+                                                    "value": 54.743274
+                                                },
+                                                "closeTime": {
+                                                    "value": "1500"
+                                                },
+                                                "isAlwaysOpen": {
+                                                    "value": false
+                                                },
+                                                "isClosedTemporarily": {
+                                                    "value": false
+                                                },
+                                                "offDays": [
+                                                    {
+                                                        "id": "b2d89175-53f5-42a1-8353-16faa5fbec0b",
+                                                        "url": "\u002Fdata\u002Ffabdropdowns\u002Fdays\u002Ffriday",
+                                                        "name": "Friday",
+                                                        "displayName": "Friday",
+                                                        "fields": {
+                                                            "DropdownText": {
+                                                                "value": "Friday"
+                                                            },
+                                                            "DropdownValue": {
+                                                                "value": "Friday"
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "id": "0cba0853-e65f-4e12-bb05-fa9767a4f682",
+                                                        "url": "\u002Fdata\u002Ffabdropdowns\u002Fdays\u002Fsaturday",
+                                                        "name": "Saturday",
+                                                        "displayName": "Saturday",
+                                                        "fields": {
+                                                            "DropdownText": {
+                                                                "value": "Saturday"
+                                                            },
+                                                            "DropdownValue": {
+                                                                "value": "saturday"
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "openTime": {
+                                                    "value": "0700"
+                                                },
+                                                "disabledFacilities": [
+                                                ],
+                                                "facilities": [
+                                                ],
+                                                "additionalBranchDetails": {
+                                                    "value": ""
+                                                },
+                                                "branchTypes": [
+                                                    {
+                                                        "id": "5436ba34-a79a-49a0-8a48-ae40898ac525",
+                                                        "url": "\u002Fdata\u002Fbranchbankingexperiences\u002Fpersonal",
+                                                        "name": "Personal",
+                                                        "displayName": "Personal",
+                                                        "fields": {
+                                                            "title": {
+                                                                "value": "Personal Banking"
+                                                            },
+                                                            "typeIcon": {
+                                                                "value": {
+                                                                }
+                                                            },
+                                                            "titleTag": null
+                                                        }
+                                                    }
+                                                ],
+                                                "link": {
+                                                    "value": ""
+                                                },
+                                                "title": {
+                                                    "value": "Rahba Police Station"
+                                                },
+                                                "branchServices": [
+                                                    {
+                                                        "id": "e28ef623-b8b9-48d6-91d5-640698359e89",
+                                                        "url": "\u002Fdata\u002Fbranchservices\u002Fatms",
+                                                        "name": "ATMs",
+                                                        "displayName": "ATMs",
+                                                        "fields": {
+                                                            "serviceTypeIcon": {
+                                                                "value": {
+                                                                    "src": "https:\u002F\u002Fwww.bankfab.com\u002F-\u002Fmedia\u002Fproject\u002Ffab2\u002Ffab2\u002Fdata\u002Fmedia\u002Fsvgs\u002Ficons\u002Ficon-branch-atm.svg?iar=0&hash=4F4C9CD5874182278D2733AF2144BBDD",
+                                                                    "alt": "",
+                                                                    "title": "ATM"
+                                                                }
+                                                            },
+                                                            "title": {
+                                                                "value": "ATM"
+                                                            },
+                                                            "titleTag": null
+                                                        }
+                                                    }
+                                                ],
+                                                "titleTag": null,
+                                                "items": [
+                                                    {
+                                                        "id": "5b03f6c6-a37a-4052-8dbd-84a8669d2b27",
+                                                        "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Frahba-police-station\u002Fcontacts",
+                                                        "name": "contacts",
+                                                        "displayName": "contacts",
+                                                        "fields": {
+                                                        }
+                                                    },
+                                                    {
+                                                        "id": "7643b496-3e1b-4d35-b3db-99eb8266321b",
+                                                        "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Frahba-police-station\u002Ftimings",
+                                                        "name": "timings",
+                                                        "displayName": "timings",
+                                                        "fields": {
+                                                            "items": [
+                                                                {
+                                                                    "id": "849216f9-f88d-4336-95c8-aed9674723ad",
+                                                                    "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Frahba-police-station\u002Ftimings\u002Fteller-services",
+                                                                    "name": "Teller Services",
+                                                                    "displayName": "Teller Services",
+                                                                    "fields": {
+                                                                        "serviceType": {
+                                                                            "value": "Teller Services"
+                                                                        },
+                                                                        "title": {
+                                                                            "value": "ATM Services"
+                                                                        },
+                                                                        "titleTag": null,
+                                                                        "items": [{
+                                                                            "id": "bce7e579-809d-4214-97b6-a7d0e690ba6c",
+                                                                            "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Frahba-police-station\u002Ftimings\u002Fteller-services\u002Fsunday---thursday",
+                                                                            "name": "Sunday - Thursday",
+                                                                            "displayName": "Sunday - Thursday",
+                                                                            "fields": {
+                                                                                "startTime": {
+                                                                                    "id": "278aa43c-1a2a-484a-9f04-60d9596ac960",
+                                                                                    "url": "\u002Fdata\u002Ffabdropdowns\u002Fbranch-timings\u002F0700",
+                                                                                    "name": "0700",
+                                                                                    "displayName": "0700",
+                                                                                    "fields": {
+                                                                                        "DropdownText": {
+                                                                                            "value": "0700"
+                                                                                        },
+                                                                                        "DropdownValue": {
+                                                                                            "value": "0700"
+                                                                                        }
+                                                                                    }
+                                                                                },
+                                                                                "endDay": {
+                                                                                    "id": "0da961b0-a397-41a3-8ed6-8a19370ffda4",
+                                                                                    "url": "\u002Fdata\u002Ffabdropdowns\u002Fdays\u002Fthursday",
+                                                                                    "name": "Thursday",
+                                                                                    "displayName": "Thursday",
+                                                                                    "fields": {
+                                                                                        "DropdownText": {
+                                                                                            "value": "Thursday"
+                                                                                        },
+                                                                                        "DropdownValue": {
+                                                                                            "value": "Thursday"
+                                                                                        }
+                                                                                    }
+                                                                                },
+                                                                                "endTime": {
+                                                                                    "id": "a063f5df-c692-42d9-974f-84d0c3bcd1c7",
+                                                                                    "url": "\u002Fdata\u002Ffabdropdowns\u002Fbranch-timings\u002F1500",
+                                                                                    "name": "1500",
+                                                                                    "displayName": "1500",
+                                                                                    "fields": {
+                                                                                        "DropdownText": {
+                                                                                            "value": "1500"
+                                                                                        },
+                                                                                        "DropdownValue": {
+                                                                                            "value": "1500"
+                                                                                        }
+                                                                                    }},
+                                                                                    "isClosed": {
+                                                                                        "value": false
+                                                                                    },
+                                                                                    "startDay": {
+                                                                                        "id": "dc6b29c8-1fd9-4d76-b48a-5dcc0ef0a1df",
+                                                                                        "url": "\u002Fdata\u002Ffabdropdowns\u002Fdays\u002Fsunday",
+                                                                                        "name": "Sunday",
+                                                                                        "displayName": "Sunday",
+                                                                                        "fields": {
+                                                                                            "DropdownText": {
+                                                                                                "value": "Sunday"
+                                                                                            },
+                                                                                            "DropdownValue": {
+                                                                                                "value": "Sunday"
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "id": "79be5a25-1f32-4d7e-9ee9-6455fe931f6b",
+                                                                                "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Frahba-police-station\u002Ftimings\u002Fteller-services\u002Ffriday---saturday",
+                                                                                "name": "Friday - Saturday",
+                                                                                "displayName": "Friday - Saturday",
+                                                                                "fields": {
+                                                                                    "startTime": null,
+                                                                                    "endDay": {
+                                                                                        "id": "0cba0853-e65f-4e12-bb05-fa9767a4f682",
+                                                                                        "url": "\u002Fdata\u002Ffabdropdowns\u002Fdays\u002Fsaturday",
+                                                                                        "name": "Saturday",
+                                                                                        "displayName": "Saturday",
+                                                                                        "fields": {
+                                                                                            "DropdownText": {
+                                                                                                "value": "Saturday"},
+                                                                                                "DropdownValue": {
+                                                                                                    "value": "saturday"
+                                                                                                }
+                                                                                            }
+                                                                                        },
+                                                                                        "endTime": null,
+                                                                                        "isClosed": {"value": true
+                                                                                    },
+                                                                                    "startDay": {
+                                                                                        "id": "b2d89175-53f5-42a1-8353-16faa5fbec0b",
+                                                                                        "url": "\u002Fdata\u002Ffabdropdowns\u002Fdays\u002Ffriday",
+                                                                                        "name": "Friday",
+                                                                                        "displayName": "Friday",
+                                                                                        "fields": {
+                                                                                            "DropdownText": {
+                                                                                                "value": "Friday"
+                                                                                            },
+                                                                                            "DropdownValue": {
+                                                                                                "value": "Friday"
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }

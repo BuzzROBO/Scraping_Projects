@@ -1,0 +1,1 @@
+https://www.graana.com/_next/data/FlzYTh3p0kA2mhg_0Aatx/property/1000-sqft-flat-rent-bahria-town-rawalpindi-936349.json?id=1000-sqft-flat-rent-bahria-town-rawalpindi-936349

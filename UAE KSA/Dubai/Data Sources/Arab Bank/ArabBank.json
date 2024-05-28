@@ -1,0 +1,5542 @@
+{
+    "branches": [
+        {
+            "id": "0mbRbINA0scaEJY2bWDb",
+            "name": "Birzeit",
+            "district": "",
+            "latitude": "31.969175",
+            "longitude": "35.193286",
+            "zoom": "20"
+        },
+        {
+            "id": "15h5w4FjKZU0OPlVE8RK",
+            "name": "Wadi Saqra ",
+            "district": "",
+            "latitude": "31.960713",
+            "longitude": "35.895378",
+            "zoom": "20"
+        },
+        {
+            "id": "17FXXF2LQEwnLuYrEDd9",
+            "name": "Al-Irsal",
+            "district": "",
+            "latitude": "31.917162",
+            "longitude": "35.207169",
+            "zoom": "20"
+        },
+        {
+            "id": "1Zpu6j60E50u4wmhy1WK",
+            "name": "Mecca Street",
+            "district": "",
+            "latitude": "31.975807",
+            "longitude": "35.848749",
+            "zoom": "20"
+        },
+        {
+            "id": "27BKbXhmrWIQfAC8TUHa",
+            "name": "Rafeedia branch",
+            "district": "",
+            "latitude": "32.223258",
+            "longitude": "35.234989",
+            "zoom": "20"
+        },
+        {
+            "id": "2hfO53lRymzBEMZQV0bb",
+            "name": "Rahmaniyah Branch",
+            "district": "",
+            "latitude": "32.014972",
+            "longitude": "35.833861",
+            "zoom": "20"
+        },
+        {
+            "id": "3ZAFNgxkEbBLc6Lx2Pei",
+            "name": "Sweifieh",
+            "district": "",
+            "latitude": "31.958148",
+            "longitude": "35.867292",
+            "zoom": "20"
+        },
+        {
+            "id": "3cfPEsIl2N75ESdEBZoC",
+            "name": "Loran ",
+            "district": "",
+            "latitude": "31.252447",
+            "longitude": "29.97249",
+            "zoom": "20"
+        },
+        {
+            "id": "43wekSjAH1CEVyAVwuyx",
+            "name": "City Mall",
+            "district": "",
+            "latitude": "31.980628",
+            "longitude": "35.838336",
+            "zoom": "20"
+        },
+        {
+            "id": "4HytIHDLIwgtKkS1rjG9",
+            "name": "Ali Amin",
+            "district": "",
+            "latitude": "30.054",
+            "longitude": "31.336",
+            "zoom": "20"
+        },
+        {
+            "id": "4KySV9GjDWEMhYVfNlAf",
+            "name": "Yatta",
+            "district": "",
+            "latitude": "31.457",
+            "longitude": "35.11",
+            "zoom": "20"
+        },
+        {
+            "id": "4oklkg10TwZ9loYfkPrw",
+            "name": "City Stars",
+            "district": "",
+            "latitude": "30.0741428",
+            "longitude": "31.3450436",
+            "zoom": "20"
+        },
+        {
+            "id": "50bTMqduRqpgQsTooZ9h",
+            "name": "Ajloun",
+            "district": "",
+            "latitude": "32.33178",
+            "longitude": "35.75189",
+            "zoom": "20"
+        },
+        {
+            "id": "59smbogO0MN7UqapLMdl",
+            "name": "Al Manarah Branch",
+            "district": "",
+            "latitude": "31.905055",
+            "longitude": "35.204727",
+            "zoom": "20"
+        },
+        {
+            "id": "61BCEJecPT4R7MyWMho8",
+            "name": "Jubeiha",
+            "district": "",
+            "latitude": "32.01882",
+            "longitude": "35.86581",
+            "zoom": "20"
+        },
+        {
+            "id": "6m9gT9qkto9hZs4sOwPz",
+            "name": "Mohandessin",
+            "district": "",
+            "latitude": "30.055",
+            "longitude": "31.203",
+            "zoom": "20"
+        },
+        {
+            "id": "6srgQp4OJKRxbZ2lLdrE",
+            "name": "Beit Jala",
+            "district": "",
+            "latitude": "31.711826",
+            "longitude": "35.197192",
+            "zoom": "20"
+        },
+        {
+            "id": "7AX1MyS1JGqlAJqbmXy9",
+            "name": "Mecca Mall",
+            "district": "",
+            "latitude": "31.977182",
+            "longitude": "35.84293",
+            "zoom": "20"
+        },
+        {
+            "id": "7laTI7r3qkTGKmXUAjCX",
+            "name": "Zarqa",
+            "district": "",
+            "latitude": "32.063124",
+            "longitude": "36.091832",
+            "zoom": "20"
+        },
+        {
+            "id": "8AYUh7WDOHHggeh0728a",
+            "name": "Wadi Seer",
+            "district": "",
+            "latitude": "31.954632",
+            "longitude": "35.84141",
+            "zoom": "20"
+        },
+        {
+            "id": "8DqgQh9n1tYgMRmtWBfX",
+            "name": "Baqaa",
+            "district": "",
+            "latitude": "32.076817",
+            "longitude": "35.84529",
+            "zoom": "20"
+        },
+        {
+            "id": "8MlYyAfFkyqy1gQyKI0l",
+            "name": "Al Tireh",
+            "district": "",
+            "latitude": "31.911713",
+            "longitude": "35.186432",
+            "zoom": "20"
+        },
+        {
+            "id": "8TxYAiidOAbQE32NXhxK",
+            "name": "Abu Alanda",
+            "district": "",
+            "latitude": "31.8980695",
+            "longitude": "35.9657648",
+            "zoom": "20"
+        },
+        {
+            "id": "8l4TOh1IClwvPMQI11at",
+            "name": "Heliopolis",
+            "district": "",
+            "latitude": "30.090947",
+            "longitude": "31.331278",
+            "zoom": "20"
+        },
+        {
+            "id": "8rPfPVlX5fpHCr6yYFek",
+            "name": "Self service- Uthaina",
+            "district": "",
+            "latitude": "31.966776",
+            "longitude": "35.872601",
+            "zoom": "20"
+        },
+        {
+            "id": "9BoRzk0ZidKaJTrwzfuk",
+            "name": "Dabouq",
+            "district": "",
+            "latitude": "31.9977",
+            "longitude": "35.8219",
+            "zoom": "20"
+        },
+        {
+            "id": "9CarzkcK7234A4yIWIY8",
+            "name": "North Hashmi",
+            "district": "",
+            "latitude": "31.979448",
+            "longitude": "35.942516",
+            "zoom": "20"
+        },
+        {
+            "id": "9UTKeNVG0lDNgxf9Z9fh",
+            "name": "New Cairo",
+            "district": "",
+            "latitude": "30.0208021",
+            "longitude": "31.420479",
+            "zoom": "20"
+        },
+        {
+            "id": "9pfQMLDMxbNsysD93I1b",
+            "name": "Sahab",
+            "district": "",
+            "latitude": "31.85242",
+            "longitude": "36.00743",
+            "zoom": "20"
+        },
+        {
+            "id": "Ajh2iJOCtJPK8zHdQ7Z5",
+            "name": "Russaifeh",
+            "district": "",
+            "latitude": "32.01664",
+            "longitude": "36.04531",
+            "zoom": "20"
+        },
+        {
+            "id": "BentWhf93RzyFUwZhTmv",
+            "name": "Shaikh Othman",
+            "district": "",
+            "latitude": "12.872158",
+            "longitude": "44.988558",
+            "zoom": "20"
+        },
+        {
+            "id": "CDA1G9IemU2nZe7KeBSK",
+            "name": "Saida",
+            "district": "",
+            "latitude": "33.562459",
+            "longitude": "35.373812",
+            "zoom": "20"
+        },
+        {
+            "id": "COhtsP5hcGjuuBQ9IX63",
+            "name": "Zaytouneh University",
+            "district": "",
+            "latitude": "31.83433",
+            "longitude": "35.893728",
+            "zoom": "20"
+        },
+        {
+            "id": "CggVVZtWTsjQ5p2nS9kL",
+            "name": "Wehdat",
+            "district": "",
+            "latitude": "31.931029",
+            "longitude": "35.934223",
+            "zoom": "20"
+        },
+        {
+            "id": "ClqTYTYMXoPu2zExp7pc",
+            "name": "Um Uthaina",
+            "district": "",
+            "latitude": "31.973052",
+            "longitude": "35.873248",
+            "zoom": "20"
+        },
+        {
+            "id": "CrLcFEukaAMkRFOZy5VJ",
+            "name": "Qabatiya",
+            "district": "",
+            "latitude": "32.409014",
+            "longitude": "35.27873",
+            "zoom": "20"
+        },
+        {
+            "id": "D5qxMKcSjGqyg4RFxv0Q",
+            "name": "Almaza",
+            "district": "",
+            "latitude": "30.092",
+            "longitude": "31.341",
+            "zoom": "20"
+        },
+        {
+            "id": "DQngjNIME0eVID6LGO5l",
+            "name": "Taiz Street",
+            "district": "",
+            "latitude": "15.335367",
+            "longitude": "44.222589",
+            "zoom": "20"
+        },
+        {
+            "id": "Dwzai2beDAaxTzybThU2",
+            "name": "Souq Bab Al Madina Mall",
+            "district": "",
+            "latitude": "32.0713717",
+            "longitude": "36.0989606",
+            "zoom": "20"
+        },
+        {
+            "id": "EHw3xRbVJjLEnNF4iTXN",
+            "name": "Al Mahatta",
+            "district": "",
+            "latitude": "31.956202",
+            "longitude": "35.9545179",
+            "zoom": "20"
+        },
+        {
+            "id": "EKSEaE2vcMfuKjODLAug",
+            "name": "Al-Rayyan",
+            "district": "",
+            "latitude": "32.02882",
+            "longitude": "35.86724",
+            "zoom": "20"
+        },
+        {
+            "id": "ETJVJ82Gopv1XtxdHDvz",
+            "name": "Hegaz",
+            "district": "",
+            "latitude": "30.11075",
+            "longitude": "31.338",
+            "zoom": "20"
+        },
+        {
+            "id": "EcPRwI8mjAhXBYmkQtcf",
+            "name": "Al Yasmeen ",
+            "district": "",
+            "latitude": "31.91474",
+            "longitude": "35.887865",
+            "zoom": "20"
+        },
+        {
+            "id": "EeLTRVv0Gj00OzD6NmIF",
+            "name": "Jenin",
+            "district": "",
+            "latitude": "32.462313",
+            "longitude": "35.297742",
+            "zoom": "20"
+        },
+        {
+            "id": "FraynawDnYyXj7oCCQX2",
+            "name": "Khalda",
+            "district": "",
+            "latitude": "31.997103",
+            "longitude": "35.846956",
+            "zoom": "20"
+        },
+        {
+            "id": "G92G0njOM9dTArKQJALt",
+            "name": "Hashemite University",
+            "district": "",
+            "latitude": "32.087974",
+            "longitude": "36.18786",
+            "zoom": "20"
+        },
+        {
+            "id": "GeiHozEqA8zR0UrOKaO3",
+            "name": "Tulkarem Al-Balad ",
+            "district": "",
+            "latitude": "32.309868",
+            "longitude": "35.026925",
+            "zoom": "20"
+        },
+        {
+            "id": "Gm9yeMbGzpaARsxtd3YW",
+            "name": "AL Rihan",
+            "district": "",
+            "latitude": "31.951574",
+            "longitude": "35.183972",
+            "zoom": "20"
+        },
+        {
+            "id": "H2XygyDL5uG5iSp5esC6",
+            "name": "Tulkarem",
+            "district": "",
+            "latitude": "32.316877",
+            "longitude": "35.0326",
+            "zoom": "20"
+        },
+        {
+            "id": "H8lbUw3OUJHfNwbTcfV0",
+            "name": "Mokattam",
+            "district": "",
+            "latitude": "30.008",
+            "longitude": "31.314",
+            "zoom": "20"
+        },
+        {
+            "id": "HTk7xARW8WnSdPwWn7Te",
+            "name": "Zamalek",
+            "district": "",
+            "latitude": "30.059",
+            "longitude": "31.217",
+            "zoom": "20"
+        },
+        {
+            "id": "Hkps5DNNHnL4a9i3SPhp",
+            "name": "Taj Mall",
+            "district": "",
+            "latitude": "31.941092",
+            "longitude": "35.888214",
+            "zoom": "20"
+        },
+        {
+            "id": "IBVVhOYnvLdeczKWbv5s",
+            "name": "Sheikh zayed",
+            "district": "",
+            "latitude": "30.03",
+            "longitude": "31.001",
+            "zoom": "20"
+        },
+        {
+            "id": "IJSWyy0Zek2MyEXWiS9s",
+            "name": "Sporting",
+            "district": "",
+            "latitude": "31.211",
+            "longitude": "29.932",
+            "zoom": "20"
+        },
+        {
+            "id": "IfRICvlfhZXq46cO1kYO",
+            "name": "Tareq (Tabarbour)",
+            "district": "",
+            "latitude": "32.003391",
+            "longitude": "35.93711",
+            "zoom": "20"
+        },
+        {
+            "id": "JN7K9OplhyV3t1NzqIT7",
+            "name": "Taiz",
+            "district": "",
+            "latitude": "13.578146",
+            "longitude": "44.011681",
+            "zoom": "20"
+        },
+        {
+            "id": "JRx1G2teoDP7m1iusD8M",
+            "name": "Souq Al Khodar",
+            "district": "",
+            "latitude": "31.864538",
+            "longitude": "35.957716",
+            "zoom": "20"
+        },
+        {
+            "id": "JUWq1i8Onut4rdyPS7Cc",
+            "name": "Amman",
+            "district": "",
+            "latitude": "31.951907",
+            "longitude": "35.93312",
+            "zoom": "20"
+        },
+        {
+            "id": "JbG8ubEgnagD7ZqM0CZ0",
+            "name": "Nasr City",
+            "district": "",
+            "latitude": "30.063",
+            "longitude": "31.344",
+            "zoom": "20"
+        },
+        {
+            "id": "KhGjcpWeslKwSNi59HGZ",
+            "name": "Eidoon",
+            "district": "",
+            "latitude": "32.533613",
+            "longitude": "35.852224",
+            "zoom": "20"
+        },
+        {
+            "id": "LIZeuX6IPubfbI3SkvCD",
+            "name": "Dura",
+            "district": "",
+            "latitude": "31.505953",
+            "longitude": "35.035079",
+            "zoom": "20"
+        },
+        {
+            "id": "MNokSYyfWcbbPct8VAfj",
+            "name": "Marka",
+            "district": "",
+            "latitude": "31.98077756",
+            "longitude": "35.98577213",
+            "zoom": "20"
+        },
+        {
+            "id": "MPiNfALpWuLvqPtoxXrk",
+            "name": "Jericho",
+            "district": "",
+            "latitude": "31.857621",
+            "longitude": "35.460241",
+            "zoom": "20"
+        },
+        {
+            "id": "MRXMRwMQv6d0goYmEXX7",
+            "name": "Irbid",
+            "district": "",
+            "latitude": "32.544887",
+            "longitude": "35.85731",
+            "zoom": "20"
+        },
+        {
+            "id": "MTHfDdvzifxQHTDFuDR4",
+            "name": "Rawabi branch",
+            "district": "",
+            "latitude": "32.01138",
+            "longitude": "35.19021",
+            "zoom": "20"
+        },
+        {
+            "id": "N1TTMBJpoqr8s7ZUhNoJ",
+            "name": "Tahrir",
+            "district": "",
+            "latitude": "30.039",
+            "longitude": "31.216",
+            "zoom": "20"
+        },
+        {
+            "id": "NMIPWpCOsWm2CrmGi8NX",
+            "name": "Rabieh",
+            "district": "",
+            "latitude": "31.972315",
+            "longitude": "35.884046",
+            "zoom": "20"
+        },
+        {
+            "id": "NQZhxR4x2f4fO2huXHXJ",
+            "name": "Sanaa",
+            "district": "",
+            "latitude": "15.347721",
+            "longitude": "44.204076",
+            "zoom": "20"
+        },
+        {
+            "id": "O07CVuymH04ljq8rTSN8",
+            "name": "Nozha",
+            "district": "",
+            "latitude": "30.081",
+            "longitude": "31.341",
+            "zoom": "20"
+        },
+        {
+            "id": "OaGmzOM2rpoNXxB4RmMA",
+            "name": "IBB",
+            "district": "",
+            "latitude": "13.975331",
+            "longitude": "44.172152",
+            "zoom": "20"
+        },
+        {
+            "id": "Ol1gf7namO1HU09HiWQ5",
+            "name": "Rawnaq",
+            "district": "",
+            "latitude": "31.956532",
+            "longitude": "35.855523",
+            "zoom": "20"
+        },
+        {
+            "id": "OmElGuh6RAmFyTvJepC2",
+            "name": "Ramallah Al Balad Branch",
+            "district": "",
+            "latitude": "31.904924",
+            "longitude": "35.196945",
+            "zoom": "20"
+        },
+        {
+            "id": "P2gh4zg5KS6rZpICJAyV",
+            "name": "Southern Abdoun",
+            "district": "",
+            "latitude": "31.940584",
+            "longitude": "35.884985",
+            "zoom": "20"
+        },
+        {
+            "id": "PEyGiuOIVer62HGvDCUu",
+            "name": "Hebron",
+            "district": "",
+            "latitude": "31.53393",
+            "longitude": "35.089291",
+            "zoom": "20"
+        },
+        {
+            "id": "PZuvUFAHsOBKuWT9WKQQ",
+            "name": "Marj Al Hamam",
+            "district": "",
+            "latitude": "31.892771",
+            "longitude": "35.842713",
+            "zoom": "20"
+        },
+        {
+            "id": "PiSGjq7Admlw4AVBWnHd",
+            "name": "Mall of Egypt ",
+            "district": "",
+            "latitude": "29.973",
+            "longitude": "31.016",
+            "zoom": "20"
+        },
+        {
+            "id": "QAk96RVQobeISIFvdfz3",
+            "name": "Tanta",
+            "district": "",
+            "latitude": "30.794",
+            "longitude": "30.996",
+            "zoom": "20"
+        },
+        {
+            "id": "QpkqbXnZoE2lxpcruxGt",
+            "name": "Madaba",
+            "district": "",
+            "latitude": "31.7183",
+            "longitude": "35.792687",
+            "zoom": "20"
+        },
+        {
+            "id": "RHFT3OPG0qJVPj3A1lR8",
+            "name": "New Zarqa",
+            "district": "",
+            "latitude": "32.085709",
+            "longitude": "36.091793",
+            "zoom": "20"
+        },
+        {
+            "id": "RctierE3C6BDnHnUWFug",
+            "name": "Salt Gate Branch",
+            "district": "",
+            "latitude": "32.056901",
+            "longitude": "35.749695",
+            "zoom": "20"
+        },
+        {
+            "id": "Ry9Xp2H16289pEAcQUUS",
+            "name": "Obour",
+            "district": "",
+            "latitude": "30.176",
+            "longitude": "31.474",
+            "zoom": "20"
+        },
+        {
+            "id": "RyloR6MoASPnmpbuykN1",
+            "name": "Tubas",
+            "district": "",
+            "latitude": "32.318745",
+            "longitude": "35.372082",
+            "zoom": "20"
+        },
+        {
+            "id": "S4NUX2FK5qZapeuw7NGy",
+            "name": "New Maadi",
+            "district": "",
+            "latitude": "29.969",
+            "longitude": "31.279",
+            "zoom": "20"
+        },
+        {
+            "id": "SAI8WFuy7n3rYkfArVbo",
+            "name": "Al-Bireh",
+            "district": "",
+            "latitude": "31.906707",
+            "longitude": "35.210892",
+            "zoom": "20"
+        },
+        {
+            "id": "SDjaKWZFJf3FKUxyEdpw",
+            "name": "Thawra",
+            "district": "",
+            "latitude": "30.048",
+            "longitude": "31.206",
+            "zoom": "20"
+        },
+        {
+            "id": "STgeJztRFBWrcr6PLlok",
+            "name": "Alexandria",
+            "district": "",
+            "latitude": "31.197",
+            "longitude": "29.8985",
+            "zoom": "20"
+        },
+        {
+            "id": "SfST47QaVFw3sR1KObmy",
+            "name": "Ein Sara",
+            "district": "",
+            "latitude": "31.553132",
+            "longitude": "35.098196",
+            "zoom": "20"
+        },
+        {
+            "id": "Stnyib2HhElxO2ZEWQZK",
+            "name": "MSA",
+            "district": "",
+            "latitude": "29.956",
+            "longitude": "30.958",
+            "zoom": "20"
+        },
+        {
+            "id": "TOQzyW7R9q38HFLM5TMf",
+            "name": "Nuzha",
+            "district": "",
+            "latitude": "31.98508",
+            "longitude": "35.92422",
+            "zoom": "20"
+        },
+        {
+            "id": "TTjwB32cj1mj1VywmKkX",
+            "name": "Tagamoa El Awel",
+            "district": "",
+            "latitude": "30.053",
+            "longitude": "31.432",
+            "zoom": "20"
+        },
+        {
+            "id": "UHA1PttCG6Pn2XZnyks6",
+            "name": "Mansoura",
+            "district": "",
+            "latitude": "31.047",
+            "longitude": "31.376",
+            "zoom": "20"
+        },
+        {
+            "id": "UexvNWYbqOtzg8Uypmfy",
+            "name": "Sports City",
+            "district": "",
+            "latitude": "31.990121",
+            "longitude": "35.911336",
+            "zoom": "20"
+        },
+        {
+            "id": "V3no7vbru6b9cth53I3r",
+            "name": "Verdun",
+            "district": "",
+            "latitude": "33.886502",
+            "longitude": "35.483635",
+            "zoom": "20"
+        },
+        {
+            "id": "V8sQnwclTpJrdIPDzFfp",
+            "name": "Bethlehem",
+            "district": "",
+            "latitude": "31.70766",
+            "longitude": "35.20512",
+            "zoom": "20"
+        },
+        {
+            "id": "Veu0gxSiivfOzaE6WHPe",
+            "name": "Arkan ",
+            "district": "",
+            "latitude": "30.02059",
+            "longitude": "31.00528",
+            "zoom": "20"
+        },
+        {
+            "id": "VhVQTuofwYZ1ZuvpsBwb",
+            "name": "Tagamoa",
+            "district": "",
+            "latitude": "30.018",
+            "longitude": "31.418",
+            "zoom": "20"
+        },
+        {
+            "id": "W3HAWrCMcvXVOENoe8au",
+            "name": "Al-Khader ",
+            "district": "",
+            "latitude": "31.694233",
+            "longitude": "35.171646",
+            "zoom": "20"
+        },
+        {
+            "id": "Wvu4OPKKcbtaYT5F5O7Q",
+            "name": "Airport Road Branch",
+            "district": "",
+            "latitude": "31.92234",
+            "longitude": "35.85925",
+            "zoom": "20"
+        },
+        {
+            "id": "XEHWcZeXKzjzm3mrgJl8",
+            "name": "Wadi Mousa",
+            "district": "",
+            "latitude": "30.321813",
+            "longitude": "35.479891",
+            "zoom": "20"
+        },
+        {
+            "id": "XdbVuUkeoGtlNOJKTIGU",
+            "name": "Hurriyyah Mall Branch",
+            "district": "",
+            "latitude": "31.90378",
+            "longitude": "35.8878",
+            "zoom": "20"
+        },
+        {
+            "id": "XeMLvOdzASZ70gO9L6Fk",
+            "name": "Maan",
+            "district": "",
+            "latitude": "30.2021556",
+            "longitude": "35.729941",
+            "zoom": "20"
+        },
+        {
+            "id": "YO6CmKH9uSs6b8j4rI0H",
+            "name": "Geziret El Arab",
+            "district": "",
+            "latitude": "30.056",
+            "longitude": "31.202",
+            "zoom": "20"
+        },
+        {
+            "id": "YdHAhS1oQaJRECtOs7R2",
+            "name": "Luweibdeh",
+            "district": "",
+            "latitude": "31.956",
+            "longitude": "35.9276",
+            "zoom": "20"
+        },
+        {
+            "id": "YkseAuYkk0yMlolHY9o9",
+            "name": "Maadi",
+            "district": "",
+            "latitude": "29.95663",
+            "longitude": "31.26083",
+            "zoom": "20"
+        },
+        {
+            "id": "bGw1wBK9jZ6XkMZ8tJlB",
+            "name": "Cairo",
+            "district": "",
+            "latitude": "30.0515",
+            "longitude": "31.247",
+            "zoom": "20"
+        },
+        {
+            "id": "bW5mwkYXIQsvdGssZpT2",
+            "name": "Abdali Mall",
+            "district": "",
+            "latitude": "31.9635151",
+            "longitude": "35.9076242",
+            "zoom": "20"
+        },
+        {
+            "id": "c8kkHYjA9YACYhODNjeS",
+            "name": "Ashrafieh",
+            "district": "",
+            "latitude": "31.940617",
+            "longitude": "35.938348",
+            "zoom": "20"
+        },
+        {
+            "id": "cBTKQBHOn2oTM9Cod9eT",
+            "name": "MUST",
+            "district": "",
+            "latitude": "29.996",
+            "longitude": "30.966",
+            "zoom": "20"
+        },
+        {
+            "id": "ci89DlPpzajGwDakR9dE",
+            "name": "Al-Ram",
+            "district": "",
+            "latitude": "31.8487",
+            "longitude": "35.228015",
+            "zoom": "20"
+        },
+        {
+            "id": "dy0ih3W9CpdYIjBtGGCD",
+            "name": "Abdoun",
+            "district": "",
+            "latitude": "31.948412",
+            "longitude": "35.893375",
+            "zoom": "20"
+        },
+        {
+            "id": "e9oCeSSXuWsF11EXWZd3",
+            "name": "Tafileh",
+            "district": "",
+            "latitude": "30.836756",
+            "longitude": "35.605161",
+            "zoom": "20"
+        },
+        {
+            "id": "fE9fHTYwLhaHVoYZqsEF",
+            "name": "Tripoli",
+            "district": "",
+            "latitude": "34.436817",
+            "longitude": "35.836486",
+            "zoom": "20"
+        },
+        {
+            "id": "fFOzGP2BMnOm0OZmMIwG",
+            "name": "Nablus Branch",
+            "district": "",
+            "latitude": "32.221524",
+            "longitude": "35.260717",
+            "zoom": "20"
+        },
+        {
+            "id": "fO7qIkd9ExPm3pDrJtfy",
+            "name": "Salfit",
+            "district": "",
+            "latitude": "32.08272",
+            "longitude": "35.180476",
+            "zoom": "20"
+        },
+        {
+            "id": "fbwNWbYvLV1m3eBITh6n",
+            "name": "Jabal Hussein",
+            "district": "",
+            "latitude": "31.968385",
+            "longitude": "35.914567",
+            "zoom": "20"
+        },
+        {
+            "id": "gdDrgQlbBG9xb1wNBa2y",
+            "name": "Madeenah Monawara",
+            "district": "",
+            "latitude": "31.99739",
+            "longitude": "35.871515",
+            "zoom": "20"
+        },
+        {
+            "id": "gs4qGTlR7e2tbdGg1xMK",
+            "name": "Abu Nussair",
+            "district": "",
+            "latitude": "32.051198",
+            "longitude": "35.8825168",
+            "zoom": "20"
+        },
+        {
+            "id": "hU95KpvpJtut0cgDmnzL",
+            "name": "Roxy",
+            "district": "",
+            "latitude": "30.089",
+            "longitude": "31.311",
+            "zoom": "20"
+        },
+        {
+            "id": "hgkY4e4lsNTXlDJbbkUi",
+            "name": "Aqaba",
+            "district": "",
+            "latitude": "29.528256",
+            "longitude": "35.004276",
+            "zoom": "20"
+        },
+        {
+            "id": "i7JpjJg2raHB67Rsymsg",
+            "name": "Al Masyoon",
+            "district": "",
+            "latitude": "31.889674",
+            "longitude": "35.200442",
+            "zoom": "20"
+        },
+        {
+            "id": "iHpkwmQFlvUTpgpDtHhU",
+            "name": "Haram",
+            "district": "",
+            "latitude": "30.01",
+            "longitude": "31.202",
+            "zoom": "20"
+        },
+        {
+            "id": "il241l41zHu55cGTtDEn",
+            "name": "Asyut",
+            "district": "",
+            "latitude": "27.190062",
+            "longitude": "31.18642",
+            "zoom": "20"
+        },
+        {
+            "id": "jK6XUpKpqbhn0hvQ2R4q",
+            "name": "Betonia",
+            "district": "",
+            "latitude": "31.898759",
+            "longitude": "35.178149",
+            "zoom": "20"
+        },
+        {
+            "id": "jaZiaVAh6rXpjZ2dRg1g",
+            "name": "Zizinia",
+            "district": "",
+            "latitude": "31.24051",
+            "longitude": "29.96362",
+            "zoom": "20"
+        },
+        {
+            "id": "k5QMmS6cdglNuZzx1YW4",
+            "name": "Bethany Branch",
+            "district": "",
+            "latitude": "31.768972",
+            "longitude": "35.254714",
+            "zoom": "20"
+        },
+        {
+            "id": "kELWaNFLoxeNe9dLx7WK",
+            "name": "10th, of Ramadan",
+            "district": "",
+            "latitude": "30.307",
+            "longitude": "31.713",
+            "zoom": "20"
+        },
+        {
+            "id": "lJftXfT7cicFdSTYjIHp",
+            "name": "Ras Beirut",
+            "district": "",
+            "latitude": "33.89661",
+            "longitude": "35.480862",
+            "zoom": "20"
+        },
+        {
+            "id": "lp63hiaX7djV4AuzL0j1",
+            "name": "Applied Science University",
+            "district": "",
+            "latitude": "32.041179",
+            "longitude": "35.902835",
+            "zoom": "20"
+        },
+        {
+            "id": "lsu0aKboZOgVCnhAsg1e",
+            "name": "Hai al basateen",
+            "district": "",
+            "latitude": "32.468781",
+            "longitude": "35.301834",
+            "zoom": "20"
+        },
+        {
+            "id": "n1NAOyRVBhnCP6zeDOjk",
+            "name": "Jerash",
+            "district": "",
+            "latitude": "32.277001",
+            "longitude": "35.89449",
+            "zoom": "20"
+        },
+        {
+            "id": "nDXmvr4nlifvEyUATMYF",
+            "name": "waterway ",
+            "district": "",
+            "latitude": "30.042",
+            "longitude": "31.475",
+            "zoom": "20"
+        },
+        {
+            "id": "oC7Kqrkefu73gS2MhfJG",
+            "name": "Fuheis",
+            "district": "",
+            "latitude": "32.0023394",
+            "longitude": "35.7761172",
+            "zoom": "20"
+        },
+        {
+            "id": "oDzmSm3ZJ20ylGXqQO43",
+            "name": "Thaqafa Branch- Irbid ",
+            "district": "",
+            "latitude": "32.538827",
+            "longitude": "35.876161",
+            "zoom": "20"
+        },
+        {
+            "id": "ohDjKgMXO0OLrX8qLkHI",
+            "name": "Beirut",
+            "district": "",
+            "latitude": "33.895853",
+            "longitude": "35.503049",
+            "zoom": "20"
+        },
+        {
+            "id": "p1ogA3e00Mu0zUk5rhPX",
+            "name": "Askar Branch",
+            "district": "",
+            "latitude": "32.214053",
+            "longitude": "35.2915",
+            "zoom": "20"
+        },
+        {
+            "id": "pIErok2NcvR5wB1iaUBp",
+            "name": "Sodic",
+            "district": "",
+            "latitude": "30.059",
+            "longitude": "30.94",
+            "zoom": "20"
+        },
+        {
+            "id": "pY5v2mCYWqKjU85DmRxa",
+            "name": "Shobra",
+            "district": "",
+            "latitude": "30.1",
+            "longitude": "31.243",
+            "zoom": "20"
+        },
+        {
+            "id": "qEtRfdUWnIP9MNyzplYd",
+            "name": "Shmeisani",
+            "district": "",
+            "latitude": "31.965306",
+            "longitude": "35.898637",
+            "zoom": "20"
+        },
+        {
+            "id": "qtZ5U9fTLoHIJ3AXOeyi",
+            "name": "Smouha ",
+            "district": "",
+            "latitude": "31.209",
+            "longitude": "29.94",
+            "zoom": "20"
+        },
+        {
+            "id": "rfL9xV9IjvLV0oP1G1f5",
+            "name": "Portsaid ",
+            "district": "",
+            "latitude": "31.269",
+            "longitude": "32.309",
+            "zoom": "20"
+        },
+        {
+            "id": "rjMxmFU3XdtZIXjeWazy",
+            "name": "Thaniyah Branch",
+            "district": "",
+            "latitude": "31.167379",
+            "longitude": "35.73468",
+            "zoom": "20"
+        },
+        {
+            "id": "skPn9YKFrlbx6YJOIWmD",
+            "name": "Bedia ",
+            "district": "",
+            "latitude": "32.11474",
+            "longitude": "35.079528",
+            "zoom": "20"
+        },
+        {
+            "id": "swVfuUaUPbECd1tKeONh",
+            "name": "Fifth Circle",
+            "district": "",
+            "latitude": "31.961352",
+            "longitude": "35.879197",
+            "zoom": "20"
+        },
+        {
+            "id": "toVgzLFPjM3pcCnb5YRd",
+            "name": "Gardens",
+            "district": "",
+            "latitude": "31.985183",
+            "longitude": "35.881922",
+            "zoom": "20"
+        },
+        {
+            "id": "uI33yMmglAaCVxtUFbZ5",
+            "name": "Dokki",
+            "district": "",
+            "latitude": "30.043",
+            "longitude": "31.203",
+            "zoom": "20"
+        },
+        {
+            "id": "vq1OIvHFn0CQOGHm6Naa",
+            "name": "Hodidah",
+            "district": "",
+            "latitude": "14.802932",
+            "longitude": "42.943282",
+            "zoom": "20"
+        },
+        {
+            "id": "wCH5HOoioWrt83NuMEDp",
+            "name": "Al-Rimal",
+            "district": "",
+            "latitude": "31.519709",
+            "longitude": "34.445379",
+            "zoom": "20"
+        },
+        {
+            "id": "wQzhfWc3JziaTnB7swfy",
+            "name": "Queen Alia Airport",
+            "district": "",
+            "latitude": "31.7216455",
+            "longitude": "35.986339",
+            "zoom": "20"
+        },
+        {
+            "id": "wTgM40NcQlXkSeiucd67",
+            "name": "Hazmieh",
+            "district": "",
+            "latitude": "33.851111",
+            "longitude": "35.540028",
+            "zoom": "20"
+        },
+        {
+            "id": "wgzB6wwkdAK0OGFT7Q99",
+            "name": "Sheraton",
+            "district": "",
+            "latitude": "30.099",
+            "longitude": "31.373",
+            "zoom": "20"
+        },
+        {
+            "id": "x9OBjA9VovVCF5HRjtUf",
+            "name": "Jabal Amman",
+            "district": "",
+            "latitude": "31.953032",
+            "longitude": "35.911785",
+            "zoom": "20"
+        },
+        {
+            "id": "xLJM0ztTkbYi687VS0cg",
+            "name": "Smart Village",
+            "district": "",
+            "latitude": "30.081",
+            "longitude": "31.018",
+            "zoom": "20"
+        },
+        {
+            "id": "xSfvG1WndzKGvVsCYi56",
+            "name": "Qalqiliya",
+            "district": "",
+            "latitude": "32.191303",
+            "longitude": "34.965641",
+            "zoom": "20"
+        },
+        {
+            "id": "xroWNfQr3gHpUQicVESC",
+            "name": "Al-Shalala",
+            "district": "",
+            "latitude": "31.525261",
+            "longitude": "35.106844",
+            "zoom": "20"
+        },
+        {
+            "id": "xu4Xo2gGErmq8dVva97f",
+            "name": "6 th of October",
+            "district": "",
+            "latitude": "29.971",
+            "longitude": "30.942",
+            "zoom": "20"
+        },
+        {
+            "id": "z3flNQY9xJ6gzKA6b2Tv",
+            "name": "Madaba Street",
+            "district": "",
+            "latitude": "31.914785",
+            "longitude": "35.938468",
+            "zoom": "20"
+        },
+        {
+            "id": "zczmrWeWsuu9tMjthAxK",
+            "name": "Mafraq",
+            "district": "",
+            "latitude": "32.343654",
+            "longitude": "36.210135",
+            "zoom": "20"
+        },
+        {
+            "id": "19fW8GtdWT0PJWClwlY2",
+            "name": "Abu Dhabi Branch",
+            "district": "",
+            "latitude": "24.483529",
+            "longitude": "54.353306",
+            "zoom": "20"
+        },
+        {
+            "id": "1q8gFlDVtMcQAGgGQ7Be",
+            "name": "Manama (Main Branch)",
+            "district": "",
+            "latitude": "26.241",
+            "longitude": "50.589",
+            "zoom": "20"
+        },
+        {
+            "id": "6FCmZSKnjby8bryRGWsd",
+            "name": "Al Zahiya Branch",
+            "district": "",
+            "latitude": "24.495341",
+            "longitude": "54.376176",
+            "zoom": "20"
+        },
+        {
+            "id": "9IzMJEGiNBYd9K8ulTat",
+            "name": "Sharjah Branch",
+            "district": "",
+            "latitude": "25.336307",
+            "longitude": "55.375641",
+            "zoom": "20"
+        },
+        {
+            "id": "BK1WJOmnOD7ZkMchNCMe",
+            "name": "Salwa Branch",
+            "district": "",
+            "latitude": "25.251024",
+            "longitude": "51.473847",
+            "zoom": "20"
+        },
+        {
+            "id": "Ck97ingwzxuNmj40rMux",
+            "name": "Doha Branch",
+            "district": "",
+            "latitude": "25.282114",
+            "longitude": "51.535653",
+            "zoom": "20"
+        },
+        {
+            "id": "CsIoVlVihKeKN3cWmVYo",
+            "name": "Business Bay Branch",
+            "district": "",
+            "latitude": "25.192096",
+            "longitude": "55.262058",
+            "zoom": "20"
+        },
+        {
+            "id": "CzrZNIqN93Vb87vBg03V",
+            "name": "Muharraq",
+            "district": "",
+            "latitude": "26.2793344",
+            "longitude": "50.6621753",
+            "zoom": "20"
+        },
+        {
+            "id": "O8pdBH9ZrrHJUJGxJNIc",
+            "name": "Aden",
+            "district": "",
+            "latitude": "12.791515",
+            "longitude": "45.004372",
+            "zoom": "20"
+        },
+        {
+            "id": "RC9Rpc6QoHNpctgXOkfJ",
+            "name": "Dubai Branch",
+            "district": "",
+            "latitude": "25.258105",
+            "longitude": "55.321354",
+            "zoom": "20"
+        },
+        {
+            "id": "UXQ4AN0OzXSLWqaaJhD1",
+            "name": "Mukalaa",
+            "district": "",
+            "latitude": "14.534725",
+            "longitude": "49.125575",
+            "zoom": "20"
+        },
+        {
+            "id": "UnoG8dKQ9jp3MOw6gvH6",
+            "name": "Al Ain Branch",
+            "district": "",
+            "latitude": "24.221719",
+            "longitude": "55.758532",
+            "zoom": "20"
+        },
+        {
+            "id": "WWDxcE1mVLmhQG2tIRol",
+            "name": "Seef",
+            "district": "",
+            "latitude": "26.237",
+            "longitude": "50.543",
+            "zoom": "20"
+        },
+        {
+            "id": "Wi6IdyreaWnDWNFPA4g1",
+            "name": "Doha",
+            "district": "",
+            "latitude": "25.282114",
+            "longitude": "51.535653",
+            "zoom": "20"
+        },
+        {
+            "id": "XZmGYdxbC7TieOQwfS7P",
+            "name": "Hamad Town",
+            "district": "",
+            "latitude": "26.149",
+            "longitude": "50.487",
+            "zoom": "20"
+        },
+        {
+            "id": "jwcpCcKh2s9duCF6Li16",
+            "name": "Ras Al Khaima Branch",
+            "district": "",
+            "latitude": "25.795198",
+            "longitude": "55.970382",
+            "zoom": "20"
+        },
+        {
+            "id": "skFniRrv7iVYXhdLTJuf",
+            "name": "Sheikh Zayed Road Branch",
+            "district": "",
+            "latitude": "25.130826",
+            "longitude": "55.21095",
+            "zoom": "20"
+        },
+        {
+            "id": "vlyK53FrHNptSjPhkVLW",
+            "name": "Riffa",
+            "district": "",
+            "latitude": "26.141389",
+            "longitude": "50.579255",
+            "zoom": "20"
+        }
+    ],
+    "ATMS": [
+        {
+            "id": "06B4rW0CJf7lGdYd2P0n",
+            "name": "EZZ STEEL FACTORY",
+            "district": "",
+            "latitude": "31.119446",
+            "longitude": "29.802036",
+            "zoom": "20"
+        },
+        {
+            "id": "0CzR8FN3WYN2KKxKitqa",
+            "name": "MODERN SCHOOL OF EGYPT",
+            "district": "",
+            "latitude": "30.003105",
+            "longitude": "31.456575",
+            "zoom": "20"
+        },
+        {
+            "id": "0G0Ql3SSTfPkaNVjCDTf",
+            "name": "Gardens Hospital",
+            "district": "",
+            "latitude": "31.98569",
+            "longitude": "35.87789",
+            "zoom": "20"
+        },
+        {
+            "id": "0Or6Gx93lxsJEKEikKpl",
+            "name": "AL Sultan gas station",
+            "district": "",
+            "latitude": "31.763581",
+            "longitude": "35.281326",
+            "zoom": "20"
+        },
+        {
+            "id": "0UqtD3LBUJKSYYFP060L",
+            "name": "CAIRO POULTRY COMPANY",
+            "district": "",
+            "latitude": "30.248391",
+            "longitude": "31.734009",
+            "zoom": "20"
+        },
+        {
+            "id": "0WG1nS8jCbjz6uGtQmWX",
+            "name": "Irbid Eidoun",
+            "district": "",
+            "latitude": "32.533613",
+            "longitude": "35.852224",
+            "zoom": "20"
+        },
+        {
+            "id": "0lMmlP8w87MYBeEL9jQS",
+            "name": "New Cairo Branch ATM 2",
+            "district": "",
+            "latitude": "30.020714",
+            "longitude": "31.42066",
+            "zoom": "20"
+        },
+        {
+            "id": "0wnuOyrL86veDGI59bvR",
+            "name": "Sin El -Fil ",
+            "district": "",
+            "latitude": "33.872908",
+            "longitude": "35.541759",
+            "zoom": "20"
+        },
+        {
+            "id": "0zRVlsQ1DOzXah6wCWFD",
+            "name": "Bethany branch 2",
+            "district": "",
+            "latitude": "31.769551",
+            "longitude": "35.255889",
+            "zoom": "20"
+        },
+        {
+            "id": "1AC96nRXkHS76VC23wWp",
+            "name": "MSE SCHOOL",
+            "district": "",
+            "latitude": "30.0375058",
+            "longitude": "31.4294355",
+            "zoom": "20"
+        },
+        {
+            "id": "1EVxCBEuE0xRta1kyM2F",
+            "name": "7 11",
+            "district": "",
+            "latitude": "31.976148",
+            "longitude": "35.890213",
+            "zoom": "20"
+        },
+        {
+            "id": "1FPsBzIhFlaCwyy7wDd6",
+            "name": "Bravo supermarket",
+            "district": "",
+            "latitude": "31.895121",
+            "longitude": "35.204916",
+            "zoom": "20"
+        },
+        {
+            "id": "1MaMq4RO9vD9AMGtGEGd",
+            "name": "Consolidated Consitants Group",
+            "district": "",
+            "latitude": "31.95485",
+            "longitude": "35.897481",
+            "zoom": "20"
+        },
+        {
+            "id": "1Sl8fxkiMABFPePrvWU8",
+            "name": "Alwatanya towers",
+            "district": "",
+            "latitude": "31.901807",
+            "longitude": "35.211074",
+            "zoom": "20"
+        },
+        {
+            "id": "1iWfQUQ6bevX0T7T4w4x",
+            "name": "Samsung Showroom",
+            "district": "",
+            "latitude": "33.93643",
+            "longitude": "35.590123",
+            "zoom": "20"
+        },
+        {
+            "id": "1uj4oya0AUpuYx4WLdsc",
+            "name": "Zed Park 2",
+            "district": "",
+            "latitude": "30.0433369",
+            "longitude": "30.9928725",
+            "zoom": "20"
+        },
+        {
+            "id": "1ylUKisSwJiifM8fytZX",
+            "name": "Amman",
+            "district": "",
+            "latitude": "31.951907",
+            "longitude": "35.93312",
+            "zoom": "20"
+        },
+        {
+            "id": "22iLgLM3QezGkNo1aWFr",
+            "name": "City Stars 2",
+            "district": "",
+            "latitude": "30.073471",
+            "longitude": "31.346222",
+            "zoom": "20"
+        },
+        {
+            "id": "27TcJSGVwURt7XBVW9rD",
+            "name": "Askar",
+            "district": "",
+            "latitude": "32.215025",
+            "longitude": "35.283183",
+            "zoom": "20"
+        },
+        {
+            "id": "2EEPRHljatX2eStW9ojh",
+            "name": "Rasheed Hospital",
+            "district": "",
+            "latitude": "31.972035",
+            "longitude": "35.834233",
+            "zoom": "20"
+        },
+        {
+            "id": "2EPLoHpe0HUkTdHxcoFE",
+            "name": "Shaikh Othman",
+            "district": "",
+            "latitude": "12.872158",
+            "longitude": "44.988558",
+            "zoom": "20"
+        },
+        {
+            "id": "2Eq1YpicvWtO9R7HtXHS",
+            "name": "Manaseer Makra",
+            "district": "",
+            "latitude": "31.995557",
+            "longitude": "36.019471",
+            "zoom": "20"
+        },
+        {
+            "id": "2UwGS48oRNFajLVjtEWG",
+            "name": "Safeway Shafa Badran",
+            "district": "",
+            "latitude": "32.0425915",
+            "longitude": "35.9027577",
+            "zoom": "20"
+        },
+        {
+            "id": "2k9Sp3IDqlmM9GWt6s7V",
+            "name": "Dura",
+            "district": "",
+            "latitude": "31.505953",
+            "longitude": "35.035079",
+            "zoom": "20"
+        },
+        {
+            "id": "2onI690bxDDnNSLJWUpX",
+            "name": "KHBP",
+            "district": "",
+            "latitude": "31.972",
+            "longitude": "35.834",
+            "zoom": "20"
+        },
+        {
+            "id": "3JShpCd2vRiToMihhQEI",
+            "name": "British chemicals company",
+            "district": "",
+            "latitude": "29.9227193",
+            "longitude": "30.9080581",
+            "zoom": "20"
+        },
+        {
+            "id": "3QiHAP17LmdeRQTMBP02",
+            "name": "Ramallah Al Balad",
+            "district": "",
+            "latitude": "31.904795",
+            "longitude": "35.197116",
+            "zoom": "20"
+        },
+        {
+            "id": "3yHq5CTWf8uP6abuWvCU",
+            "name": "Maadi branch ATM",
+            "district": "",
+            "latitude": "29.956518",
+            "longitude": "31.261116",
+            "zoom": "20"
+        },
+        {
+            "id": "3zRP9uLPFDwbOHWu0RTX",
+            "name": "Hebron ",
+            "district": "",
+            "latitude": "31.53393",
+            "longitude": "35.089291",
+            "zoom": "20"
+        },
+        {
+            "id": "40GyfpPpt07WcIlfqxbC",
+            "name": "Jordan Hospital",
+            "district": "",
+            "latitude": "31.960628",
+            "longitude": "35.900198",
+            "zoom": "20"
+        },
+        {
+            "id": "41LsMXz5YMoxAgLDpO9t",
+            "name": "Specialty Hospital",
+            "district": "",
+            "latitude": "31.978747",
+            "longitude": "35.900375",
+            "zoom": "20"
+        },
+        {
+            "id": "42W6Wm9X18DW4eIjuHbd",
+            "name": "Ayla",
+            "district": "",
+            "latitude": "29.5482455",
+            "longitude": "34.9893038",
+            "zoom": "20"
+        },
+        {
+            "id": "45h3sQ6PRU60bLL13s4T",
+            "name": "Al-Najah Uni.",
+            "district": "",
+            "latitude": "32.220462",
+            "longitude": "35.243905",
+            "zoom": "20"
+        },
+        {
+            "id": "46sAGCb8VHCO9K32q5ZJ",
+            "name": "Al Doha",
+            "district": "",
+            "latitude": "31.699904",
+            "longitude": "35.178894",
+            "zoom": "20"
+        },
+        {
+            "id": "4Cv7MjX2Touw8cuR0jEX",
+            "name": "Hodidah",
+            "district": "",
+            "latitude": "14.802932",
+            "longitude": "42.943282",
+            "zoom": "20"
+        },
+        {
+            "id": "4h7jsIHru8LzTpv1ESpz",
+            "name": "Beithlehem branch 2",
+            "district": "",
+            "latitude": "31.70766",
+            "longitude": "35.20512",
+            "zoom": "20"
+        },
+        {
+            "id": "4poJINBuxuDZfNN5heMp",
+            "name": "Al-Kafreeyat ",
+            "district": "",
+            "latitude": "32.306613",
+            "longitude": "35.028663",
+            "zoom": "20"
+        },
+        {
+            "id": "535pg5BzvXHKTq440DqJ",
+            "name": "Sweileh",
+            "district": "",
+            "latitude": "32.022049",
+            "longitude": "35.84226",
+            "zoom": "20"
+        },
+        {
+            "id": "58JhL6jDuGod9ve6O8Dz",
+            "name": "National Express",
+            "district": "",
+            "latitude": "31.980785",
+            "longitude": "35.824842",
+            "zoom": "20"
+        },
+        {
+            "id": "5CGUy5AbsBmPZvtszYe3",
+            "name": "Jenin branch 2",
+            "district": "",
+            "latitude": "32.462313",
+            "longitude": "35.297742",
+            "zoom": "20"
+        },
+        {
+            "id": "5DsQE1mLSPWeslKWdGOJ",
+            "name": "Tagamoaa 5",
+            "district": "",
+            "latitude": "30.017363",
+            "longitude": "31.420746",
+            "zoom": "20"
+        },
+        {
+            "id": "5ZSNZXqPZvAVWN8W0Iy8",
+            "name": "NOZHA BRANCH ",
+            "district": "",
+            "latitude": "30.081249",
+            "longitude": "31.340328",
+            "zoom": "20"
+        },
+        {
+            "id": "5hqKO0uNk6IjFwR7kJLh",
+            "name": "Madineh Munawara 2",
+            "district": "",
+            "latitude": "31.99739",
+            "longitude": "35.871515",
+            "zoom": "20"
+        },
+        {
+            "id": "5kS4MEUWze7uHIsHwFpO",
+            "name": "Safeway - Shmeisani",
+            "district": "",
+            "latitude": "31.981925",
+            "longitude": "35.894469",
+            "zoom": "20"
+        },
+        {
+            "id": "5nJoq05SJpIZi9aj9sgz",
+            "name": "Palestine Medical Center",
+            "district": "",
+            "latitude": "31.8990392",
+            "longitude": "35.2060111",
+            "zoom": "20"
+        },
+        {
+            "id": "5qfXqtr1dy9vuFPdJZrS",
+            "name": "Fawry Khousos",
+            "district": "",
+            "latitude": "30.0202987",
+            "longitude": "31.0035038",
+            "zoom": "20"
+        },
+        {
+            "id": "68hD2KhK4sg5koK4IwVR",
+            "name": "Jopetrol  Markazeya/Drive Thru ATM",
+            "district": "",
+            "latitude": "31.9859383",
+            "longitude": "35.8665808",
+            "zoom": "20"
+        },
+        {
+            "id": "6FqNjdLPnuZ3CJh5glpa",
+            "name": "Total gas station Sammnoud",
+            "district": "",
+            "latitude": "30.969505",
+            "longitude": "31.224731",
+            "zoom": "20"
+        },
+        {
+            "id": "6WkP4LvkCfmIt69PvcdX",
+            "name": "Hikme Pharmaceutical 2",
+            "district": "",
+            "latitude": "31.94903539",
+            "longitude": "35.850256375",
+            "zoom": "20"
+        },
+        {
+            "id": "7GIYxacYShCeTU4pRJUv",
+            "name": "ALMAZA BRANCH",
+            "district": "",
+            "latitude": "30.092537",
+            "longitude": "31.341675",
+            "zoom": "20"
+        },
+        {
+            "id": "7IQIOX5UUOBnw26buNHH",
+            "name": "Nozha school",
+            "district": "",
+            "latitude": "30.152172",
+            "longitude": "31.437115",
+            "zoom": "20"
+        },
+        {
+            "id": "7IskzkEXGHKXZ61NR1q6",
+            "name": "Bethany ",
+            "district": "",
+            "latitude": "31.769551",
+            "longitude": "35.255889",
+            "zoom": "20"
+        },
+        {
+            "id": "7SOTQMUzb4VQZA9awArq",
+            "name": "West square mall - beverly hills",
+            "district": "",
+            "latitude": "30.059916",
+            "longitude": "30.946985",
+            "zoom": "20"
+        },
+        {
+            "id": "7XecodQAcKPOrkDRdkJ3",
+            "name": "Arkan ATM",
+            "district": "",
+            "latitude": "30.02059",
+            "longitude": "31.00528",
+            "zoom": "20"
+        },
+        {
+            "id": "7nxEMmccIMKSXbcTTEmq",
+            "name": "Zarqa",
+            "district": "",
+            "latitude": "32.063124",
+            "longitude": "36.091832",
+            "zoom": "20"
+        },
+        {
+            "id": "7rQ013G2FcPqvu4A1A9N",
+            "name": "Hai al basateen branch",
+            "district": "",
+            "latitude": "32.468781",
+            "longitude": "35.301834",
+            "zoom": "20"
+        },
+        {
+            "id": "8D6rVZRbSYhX8AiVKFXh",
+            "name": "Verdun ",
+            "district": "",
+            "latitude": "33.886502",
+            "longitude": "35.483635",
+            "zoom": "20"
+        },
+        {
+            "id": "8cOhl69Bctujo9lY518p",
+            "name": "5th Drive Thru/Drive Thru ATM",
+            "district": "",
+            "latitude": "31.961352",
+            "longitude": "35.879197",
+            "zoom": "20"
+        },
+        {
+            "id": "8fiBYE2yXx70Li7B2cNK",
+            "name": "CITY STARS SHOPPING MALL",
+            "district": "",
+            "latitude": "30.073379",
+            "longitude": "31.345502",
+            "zoom": "20"
+        },
+        {
+            "id": "8k1yzRoI0OUp17QoRIwQ",
+            "name": "TOSHIBA - QUESINA ",
+            "district": "",
+            "latitude": "30.540998",
+            "longitude": "31.179569",
+            "zoom": "20"
+        },
+        {
+            "id": "8nbz9hYUOzZZeC1cl5yr",
+            "name": "Chillout Madinaty",
+            "district": "",
+            "latitude": "30.104372",
+            "longitude": "31.601168",
+            "zoom": "20"
+        },
+        {
+            "id": "8vG6s9nE5Pjfz3K945CF",
+            "name": "Birzeit Uni.",
+            "district": "",
+            "latitude": "31.9677",
+            "longitude": "35.1933",
+            "zoom": "20"
+        },
+        {
+            "id": "94QwtSWnVCszZ6QmSwH3",
+            "name": "Avenue Mall",
+            "district": "",
+            "latitude": "31.956972",
+            "longitude": "35.869046",
+            "zoom": "20"
+        },
+        {
+            "id": "9GIkbUgUZt9uJW1BPLv2",
+            "name": "PRICE WATER HOUSE ",
+            "district": "",
+            "latitude": "30.028534",
+            "longitude": "31.466574",
+            "zoom": "20"
+        },
+        {
+            "id": "9IdIC9aGWJNG6FCpI69A",
+            "name": "Smart Buy 7th Circle/Drive Thru ATM",
+            "district": "",
+            "latitude": "31.95232",
+            "longitude": "35.85518",
+            "zoom": "20"
+        },
+        {
+            "id": "AFd8lgiiU1LLViHlEtju",
+            "name": "New Cairo Drive Thru",
+            "district": "",
+            "latitude": "30.021362",
+            "longitude": "31.420149",
+            "zoom": "20"
+        },
+        {
+            "id": "ALx9Sg7NLwOgkoQbmCbU",
+            "name": "Bedia ",
+            "district": "",
+            "latitude": "32.11474",
+            "longitude": "35.079528",
+            "zoom": "20"
+        },
+        {
+            "id": "ASVh3HKjImGuudGKeloG",
+            "name": "Hay Nazzal",
+            "district": "",
+            "latitude": "31.92605",
+            "longitude": "35.9047207",
+            "zoom": "20"
+        },
+        {
+            "id": "AgFSCvqXS3XUXUShhOE0",
+            "name": "CAIRO POULTRY FACTORY",
+            "district": "",
+            "latitude": "30.848455",
+            "longitude": "29.903873",
+            "zoom": "20"
+        },
+        {
+            "id": "AixgWqhtdywQFASneXqP",
+            "name": "Zahret Al-Marj Pharmacy",
+            "district": "",
+            "latitude": "31.88328",
+            "longitude": "35.89602",
+            "zoom": "20"
+        },
+        {
+            "id": "ApEYG9Ni7d3YvLRFKLU2",
+            "name": "Beit Sahour",
+            "district": "",
+            "latitude": "31.704109",
+            "longitude": "35.222586",
+            "zoom": "20"
+        },
+        {
+            "id": "B0aFth5MMt27ajNuY0yG",
+            "name": "AAST Abo Kier",
+            "district": "",
+            "latitude": "31.309618",
+            "longitude": "30.064833",
+            "zoom": "20"
+        },
+        {
+            "id": "B6BuNU5bGCcIUn0sLabv",
+            "name": "Ibn Al-Haitham Hospital",
+            "district": "",
+            "latitude": "31.996983",
+            "longitude": "35.873054",
+            "zoom": "20"
+        },
+        {
+            "id": "BBnnwWwCJ3kGr3OiaJUw",
+            "name": "Madaba",
+            "district": "",
+            "latitude": "31.7183",
+            "longitude": "35.792687",
+            "zoom": "20"
+        },
+        {
+            "id": "BDYNXqjM7eHW9sxuJ6aM",
+            "name": "Al Mahata",
+            "district": "",
+            "latitude": "31.956202",
+            "longitude": "35.9545179",
+            "zoom": "20"
+        },
+        {
+            "id": "BXnh5lZ6EBAyZHCowH0Y",
+            "name": "MISR LANGUAGE SCHOOL",
+            "district": "",
+            "latitude": "29.980686",
+            "longitude": "31.12097",
+            "zoom": "20"
+        },
+        {
+            "id": "BbX8iLO4SgCK8a2xPttW",
+            "name": "Manaseer Tabarbour",
+            "district": "",
+            "latitude": "31.992345",
+            "longitude": "35.936376",
+            "zoom": "20"
+        },
+        {
+            "id": "BuFamaASdwnaNXkG7hgu",
+            "name": "Qalqielia ",
+            "district": "",
+            "latitude": "32.191303",
+            "longitude": "34.965641",
+            "zoom": "20"
+        },
+        {
+            "id": "BwaASwBSMOI33WMZrrzR",
+            "name": "SHOBRA BRANCH ",
+            "district": "",
+            "latitude": "30.099964",
+            "longitude": "31.242583",
+            "zoom": "20"
+        },
+        {
+            "id": "BxIjQlspZ4lLVdYbqg2z",
+            "name": "HEGAZ BRANCH",
+            "district": "",
+            "latitude": "30.110643",
+            "longitude": "31.338541",
+            "zoom": "20"
+        },
+        {
+            "id": "CB5bqO71RdO3IXKu0clk",
+            "name": "Tulkarem Al Balad",
+            "district": "",
+            "latitude": "32.309878",
+            "longitude": "35.026933",
+            "zoom": "20"
+        },
+        {
+            "id": "CCpHoRCeJpnQpKZJqNEC",
+            "name": "Zed Park 1",
+            "district": "",
+            "latitude": "30.0426825",
+            "longitude": "30.9938314",
+            "zoom": "20"
+        },
+        {
+            "id": "CV993GHlOA3cvI8FVaQC",
+            "name": "Arab Society for Rehabilitation",
+            "district": "",
+            "latitude": "31.717344",
+            "longitude": "35.187728",
+            "zoom": "20"
+        },
+        {
+            "id": "CaZASwE1gDJ8Rgm1leA3",
+            "name": "Marina Wadi Degla",
+            "district": "",
+            "latitude": "29.71797",
+            "longitude": "32.380394",
+            "zoom": "20"
+        },
+        {
+            "id": "CdgqpJx118yV1aAgo3ob",
+            "name": "Al-Nijmeh ATM",
+            "district": "",
+            "latitude": "32.11436",
+            "longitude": "35.08373",
+            "zoom": "20"
+        },
+        {
+            "id": "ChhxblLBLSz8DKH9Ntm1",
+            "name": "Nablus Municipality Mall",
+            "district": "",
+            "latitude": "32.221642",
+            "longitude": "35.261478",
+            "zoom": "20"
+        },
+        {
+            "id": "Cqz6anhlPfdGE7ywx3g9",
+            "name": "Deir Ibzei",
+            "district": "",
+            "latitude": "31.9181397",
+            "longitude": "35.1252526",
+            "zoom": "20"
+        },
+        {
+            "id": "D8gSeAnJLxxFXi1CjYEZ",
+            "name": "Al-Manara",
+            "district": "",
+            "latitude": "31.905095",
+            "longitude": "35.204723",
+            "zoom": "20"
+        },
+        {
+            "id": "DGqJ57oyDzgGTZ0calRH",
+            "name": "KHATEEB WE ALAMY",
+            "district": "",
+            "latitude": "30.054567",
+            "longitude": "31.202473",
+            "zoom": "20"
+        },
+        {
+            "id": "DKzpogAFPrMSWu1V49Fs",
+            "name": "Open air mall madinaty",
+            "district": "",
+            "latitude": "30.10708",
+            "longitude": "31.628826",
+            "zoom": "20"
+        },
+        {
+            "id": "DTes7vE3MghWhhmgyoo1",
+            "name": "Al Bireh Cultrual Center ",
+            "district": "",
+            "latitude": "31.905331",
+            "longitude": "35.205581",
+            "zoom": "20"
+        },
+        {
+            "id": "DZvq172zWd6AiUH8xIeE",
+            "name": "Duwar Al-Sa’a",
+            "district": "",
+            "latitude": "31.903483",
+            "longitude": "35.203478",
+            "zoom": "20"
+        },
+        {
+            "id": "Di99CX2o7KbEV3QsSBd7",
+            "name": "Bravo Bait Wazan",
+            "district": "",
+            "latitude": "32.133087",
+            "longitude": "35.121887",
+            "zoom": "20"
+        },
+        {
+            "id": "DrSwGnAWrk0V3ryNvnYa",
+            "name": "TANTA  BRANCH ",
+            "district": "",
+            "latitude": "30.793676",
+            "longitude": "30.995775",
+            "zoom": "20"
+        },
+        {
+            "id": "DtquV01wnm6yJi3Nopyb",
+            "name": "Sigma Building",
+            "district": "",
+            "latitude": "31.961569",
+            "longitude": "35.908014",
+            "zoom": "20"
+        },
+        {
+            "id": "DvHgD6R6blShTZm2tKsb",
+            "name": "AAST El-Alamein",
+            "district": "",
+            "latitude": "30.073471",
+            "longitude": "31.346222",
+            "zoom": "20"
+        },
+        {
+            "id": "DyZsQHrqaructSmEAsTg",
+            "name": "Al Aqqad",
+            "district": "",
+            "latitude": "32.214628",
+            "longitude": "35.243651",
+            "zoom": "20"
+        },
+        {
+            "id": "E4KL5tAs7P8wS6pi4kaO",
+            "name": "Thahriyeh",
+            "district": "",
+            "latitude": "31.4091396",
+            "longitude": "34.9740967",
+            "zoom": "20"
+        },
+        {
+            "id": "EkPkHwIFBOJUxF9Js0sw",
+            "name": "Ghuweirieh",
+            "district": "",
+            "latitude": "32.07177738",
+            "longitude": "36.09446972",
+            "zoom": "20"
+        },
+        {
+            "id": "FCGPU4RKH57MYlRV0ACc",
+            "name": "DAR EL FOUAD HOSPITAL",
+            "district": "",
+            "latitude": "30.044329",
+            "longitude": "31.295908",
+            "zoom": "20"
+        },
+        {
+            "id": "FJDdyIbLsbaCC9MRW29E",
+            "name": "Chillout Khamayel",
+            "district": "",
+            "latitude": "30.038731",
+            "longitude": "31.038734",
+            "zoom": "20"
+        },
+        {
+            "id": "FRWEG0y6AHBKnhkSKv64",
+            "name": "Petra ",
+            "district": "",
+            "latitude": "30.3248568",
+            "longitude": "35.4684285",
+            "zoom": "20"
+        },
+        {
+            "id": "FYmBXx10Uhbu4E34v82J",
+            "name": "Qalqilia ZOO",
+            "district": "",
+            "latitude": "32.195853",
+            "longitude": "34.969232",
+            "zoom": "20"
+        },
+        {
+            "id": "FbYPMLILqMdpnboLWRc1",
+            "name": "Nuzha 2",
+            "district": "",
+            "latitude": "31.98508",
+            "longitude": "35.92422",
+            "zoom": "20"
+        },
+        {
+            "id": "FlwUeRZLHreD27klkCXj",
+            "name": "Shoman",
+            "district": "",
+            "latitude": "31.95064",
+            "longitude": "35.92061",
+            "zoom": "20"
+        },
+        {
+            "id": "FuunPp74xfSYv2CTUPlL",
+            "name": "Hyatt Amman Hotel",
+            "district": "",
+            "latitude": "31.955892",
+            "longitude": "35.909496",
+            "zoom": "20"
+        },
+        {
+            "id": "GNc8RE1omLM7eR8pP0eX",
+            "name": "Jopetrol Al-Fuhies Gate",
+            "district": "",
+            "latitude": "32.023906",
+            "longitude": "35.799711",
+            "zoom": "20"
+        },
+        {
+            "id": "GS2HGnDywBbvJQOmjGiW",
+            "name": "SAN STEFANO MALL",
+            "district": "",
+            "latitude": "31.245466",
+            "longitude": "29.966969",
+            "zoom": "20"
+        },
+        {
+            "id": "GgKSX333zvPRalfkb0GQ",
+            "name": "Queen Alia Airport",
+            "district": "",
+            "latitude": "31.72183",
+            "longitude": "35.98639",
+            "zoom": "20"
+        },
+        {
+            "id": "GkRxet0U7VjylXeA4fKO",
+            "name": "Sanaa ",
+            "district": "",
+            "latitude": "15.347721",
+            "longitude": "44.204076",
+            "zoom": "20"
+        },
+        {
+            "id": "GoPbEQG7uNNfyIe7T6ra",
+            "name": "Bethlehem University",
+            "district": "",
+            "latitude": "31.709586",
+            "longitude": "35.201429",
+            "zoom": "20"
+        },
+        {
+            "id": "GubmUTng6l5cZSFxZPiD",
+            "name": "Al Ram ",
+            "district": "",
+            "latitude": "31.8487",
+            "longitude": "35.228015",
+            "zoom": "20"
+        },
+        {
+            "id": "GxCVS1szKUI7f1jr8fWO",
+            "name": "ZAMALEK BRANCH ",
+            "district": "",
+            "latitude": "30.06612",
+            "longitude": "31.221262",
+            "zoom": "20"
+        },
+        {
+            "id": "H3TxkYZzmHVyfPF1Ec0m",
+            "name": "egyptian language school kattamya",
+            "district": "",
+            "latitude": "29.9927788",
+            "longitude": "31.4241957",
+            "zoom": "20"
+        },
+        {
+            "id": "H53fER0MZFe9JigEEej5",
+            "name": "Mu\u0027tah",
+            "district": "",
+            "latitude": "31.914",
+            "longitude": "35.85",
+            "zoom": "20"
+        },
+        {
+            "id": "H6rZWRICxQWLxZs05A62",
+            "name": "PORTSAID BRANCH",
+            "district": "",
+            "latitude": "31.269268",
+            "longitude": "32.30862",
+            "zoom": "20"
+        },
+        {
+            "id": "H8MiX7QhlPhIn99QEfGY",
+            "name": "Kia Motors",
+            "district": "",
+            "latitude": "31.9432475",
+            "longitude": "35.8491056",
+            "zoom": "20"
+        },
+        {
+            "id": "HE7b4QMoZzFaUqnxEDZb",
+            "name": "Al-Debas",
+            "district": "",
+            "latitude": "32.310575",
+            "longitude": "35.027917",
+            "zoom": "20"
+        },
+        {
+            "id": "HFwRWjnTFFgjfk8GnfxO",
+            "name": "Salfit",
+            "district": "",
+            "latitude": "32.082793",
+            "longitude": "35.181098",
+            "zoom": "20"
+        },
+        {
+            "id": "HPVOvlRIIydwhgUfN4wk",
+            "name": "Total Mostorod",
+            "district": "",
+            "latitude": "30.161587",
+            "longitude": "31.286486",
+            "zoom": "20"
+        },
+        {
+            "id": "HR9y2uIX7biajRnpP6LS",
+            "name": "Aqaba Container Terminal ",
+            "district": "",
+            "latitude": "29.466405",
+            "longitude": "34.980033",
+            "zoom": "20"
+        },
+        {
+            "id": "HRYJskZGftczuIKJPi4w",
+            "name": "City Mall Food Court",
+            "district": "",
+            "latitude": "31.980628",
+            "longitude": "35.838336",
+            "zoom": "20"
+        },
+        {
+            "id": "HjtQ2FxnHvwMlnlX6WOm",
+            "name": "Total Hurriye Street 1/Drive Thru ATM",
+            "district": "",
+            "latitude": "31.895",
+            "longitude": "35.917",
+            "zoom": "20"
+        },
+        {
+            "id": "HqHCAVVXKdLFlD2uVIDL",
+            "name": "Beit Our ATM",
+            "district": "",
+            "latitude": "31.894084",
+            "longitude": "35.090031",
+            "zoom": "20"
+        },
+        {
+            "id": "Htsi9EfvKCGjfwsptyxR",
+            "name": "Fawry Talbya",
+            "district": "",
+            "latitude": "31.24051",
+            "longitude": "29.96362",
+            "zoom": "20"
+        },
+        {
+            "id": "HuSOF2SfT5kibbldKLk4",
+            "name": "Karkafeh",
+            "district": "",
+            "latitude": "31.712525",
+            "longitude": "35.207255",
+            "zoom": "20"
+        },
+        {
+            "id": "IU09H0YHOd0UHVD1B2be",
+            "name": "Safeway 7th",
+            "district": "",
+            "latitude": "31.954568",
+            "longitude": "35.856065",
+            "zoom": "20"
+        },
+        {
+            "id": "IcVzIi9hCgUTItKRGV10",
+            "name": "Boulevard 1",
+            "district": "",
+            "latitude": "31.965502",
+            "longitude": "35.903755",
+            "zoom": "20"
+        },
+        {
+            "id": "IixuDexPWAf42C9bINGH",
+            "name": "Marka 2",
+            "district": "",
+            "latitude": "31.9807775617545",
+            "longitude": "35.9857721343168",
+            "zoom": "20"
+        },
+        {
+            "id": "InbyJfdbIwPqcbh8GyAJ",
+            "name": "Al-Sheikh Build.",
+            "district": "",
+            "latitude": "31.899749",
+            "longitude": "35.210452",
+            "zoom": "20"
+        },
+        {
+            "id": "ItIPRMTVi57En8aygo3h",
+            "name": "TAGAMOA EL AWEL BRANCH",
+            "district": "",
+            "latitude": "30.053427",
+            "longitude": "31.431547",
+            "zoom": "20"
+        },
+        {
+            "id": "J5KLVqkqa2loOU8mqBKQ",
+            "name": "SHERATON BRANCH ",
+            "district": "",
+            "latitude": "30.099136",
+            "longitude": "31.372644",
+            "zoom": "20"
+        },
+        {
+            "id": "J9rUvOzsDEYMo7zsEdAz",
+            "name": "Al Masyoon",
+            "district": "",
+            "latitude": "31.889674",
+            "longitude": "35.200442",
+            "zoom": "20"
+        },
+        {
+            "id": "JAfYAhDpD93TcdO8RR97",
+            "name": "Jdita",
+            "district": "",
+            "latitude": "33.81761",
+            "longitude": "35.846272",
+            "zoom": "20"
+        },
+        {
+            "id": "JBJYLD9Q2wub4p28dTRd",
+            "name": "REHAB MALL 2",
+            "district": "",
+            "latitude": "30.061487",
+            "longitude": "31.482403",
+            "zoom": "20"
+        },
+        {
+            "id": "JCVg28L6I2LcNJnaRlL2",
+            "name": "Mega Gas Station",
+            "district": "",
+            "latitude": "32.32375",
+            "longitude": "35.0295",
+            "zoom": "20"
+        },
+        {
+            "id": "JI5Y8a1jlBShueNyST2s",
+            "name": "Dabouq 2",
+            "district": "",
+            "latitude": "31.9977",
+            "longitude": "35.8219",
+            "zoom": "20"
+        },
+        {
+            "id": "JIaWbHMdlGeSh9cBMMKz",
+            "name": "Zain 8th",
+            "district": "",
+            "latitude": "31.963049",
+            "longitude": "35.844623",
+            "zoom": "20"
+        },
+        {
+            "id": "JLSElzKzLkcKj3qdPmpt",
+            "name": "International Pharmacy",
+            "district": "",
+            "latitude": "31.758072",
+            "longitude": "35.957095",
+            "zoom": "20"
+        },
+        {
+            "id": "JeR50iXW89tMToJcnnsO",
+            "name": "Qabatia",
+            "district": "",
+            "latitude": "32.410002",
+            "longitude": "35.283161",
+            "zoom": "20"
+        },
+        {
+            "id": "JvKeo5DfyHX7BbeOOLl5",
+            "name": "Um Uthaina /Drive Thru ATM",
+            "district": "",
+            "latitude": "31.973",
+            "longitude": "35.873",
+            "zoom": "20"
+        },
+        {
+            "id": "JvQrKZUGQlBN5D864pPo",
+            "name": "Marj Al-Hamam ",
+            "district": "",
+            "latitude": "31.892771",
+            "longitude": "35.842713",
+            "zoom": "20"
+        },
+        {
+            "id": "KBVNc1Ekx0S292umknBW",
+            "name": "Wadi Al Haria",
+            "district": "",
+            "latitude": "31.508614",
+            "longitude": "35.091232",
+            "zoom": "20"
+        },
+        {
+            "id": "KJXHJufA9wp6IpI7RFng",
+            "name": "Al-Mashaghel Circle",
+            "district": "",
+            "latitude": "31.993779196",
+            "longitude": "35.92978063579",
+            "zoom": "20"
+        },
+        {
+            "id": "KKNyaq5YDq9SPn6PDhJF",
+            "name": "Al-Nakheel Area ",
+            "district": "",
+            "latitude": "31.903",
+            "longitude": "35.859",
+            "zoom": "20"
+        },
+        {
+            "id": "KRzLeZN5xGiSvteufegI",
+            "name": "Millennium Hotel ATM",
+            "district": "",
+            "latitude": "31.895766",
+            "longitude": "35.204944",
+            "zoom": "20"
+        },
+        {
+            "id": "KWhSSgZJ5pq3jUIf9m8f",
+            "name": "Salt Gate Branch",
+            "district": "",
+            "latitude": "32.056901",
+            "longitude": "35.749695",
+            "zoom": "20"
+        },
+        {
+            "id": "KnSlgacv7KplYK7wstwN",
+            "name": "Royal Court",
+            "district": "",
+            "latitude": "31.958769",
+            "longitude": "35.944937",
+            "zoom": "20"
+        },
+        {
+            "id": "L2ybdZKhmjZHaJ9pQD0H",
+            "name": "Beirut Arab University",
+            "district": "",
+            "latitude": "33.873",
+            "longitude": "35.497",
+            "zoom": "20"
+        },
+        {
+            "id": "LFFeJ6u1KPWAE12YgmUY",
+            "name": "Airport Road Branch",
+            "district": "",
+            "latitude": "31.92234",
+            "longitude": "35.85925",
+            "zoom": "20"
+        },
+        {
+            "id": "LYQXSXZPVE5FQIDJbpTj",
+            "name": "South Shouneh",
+            "district": "",
+            "latitude": "31.897718",
+            "longitude": "35.622256",
+            "zoom": "20"
+        },
+        {
+            "id": "LbH1jfAONuMQoSKoYIdh",
+            "name": "head Office",
+            "district": "",
+            "latitude": "31.965",
+            "longitude": "35.899",
+            "zoom": "20"
+        },
+        {
+            "id": "LsLtnBJlwJVsZX3AO4Hq",
+            "name": "Bir Nabala",
+            "district": "",
+            "latitude": "31.85121941",
+            "longitude": "35.8085208",
+            "zoom": "20"
+        },
+        {
+            "id": "M9tns85QdOYBaNGJlXOg",
+            "name": "Taiz Street",
+            "district": "",
+            "latitude": "15.335367",
+            "longitude": "44.222589",
+            "zoom": "20"
+        },
+        {
+            "id": "MBINR7gSZnCSRJOlgLFU",
+            "name": "TOTAL KATAMEYA",
+            "district": "",
+            "latitude": "29.983232",
+            "longitude": "31.367228",
+            "zoom": "20"
+        },
+        {
+            "id": "MIJchQsEZX61Lgpckfyw",
+            "name": "Beddo Branch",
+            "district": "",
+            "latitude": "31.836",
+            "longitude": "35.151",
+            "zoom": "20"
+        },
+        {
+            "id": "MQWrtieI931eUJUlIvfL",
+            "name": "ARAB ACADEMY/MAIMI ",
+            "district": "",
+            "latitude": "31.264893",
+            "longitude": "29.997932",
+            "zoom": "20"
+        },
+        {
+            "id": "MQuQTM51fNdWTcEBD0xC",
+            "name": "BONJOUR MARKET MAADI DEGLA",
+            "district": "",
+            "latitude": "29.9614056",
+            "longitude": "31.2758717",
+            "zoom": "20"
+        },
+        {
+            "id": "Mdzrk3U1c1LOWu6TrSzJ",
+            "name": "South Marka -Racing Club Circle",
+            "district": "",
+            "latitude": "31.959374",
+            "longitude": "35.979106",
+            "zoom": "20"
+        },
+        {
+            "id": "MqyGtDxq2igNgp77Bzte",
+            "name": "ORANGE TELECOM ATM  ",
+            "district": "",
+            "latitude": "30.0724365",
+            "longitude": "31.0155422",
+            "zoom": "20"
+        },
+        {
+            "id": "MvDu2GWWYgQoqQW6Tr6S",
+            "name": "Chillout Suez ",
+            "district": "",
+            "latitude": "30.080193",
+            "longitude": "31.397442",
+            "zoom": "20"
+        },
+        {
+            "id": "N3hBNkpcsu12WBhNiGZ4",
+            "name": "Abdoun 2",
+            "district": "",
+            "latitude": "31.948412",
+            "longitude": "35.893375",
+            "zoom": "20"
+        },
+        {
+            "id": "N5DKwqromc5MOCGlM4bX",
+            "name": "Eye Specialty Hospital",
+            "district": "",
+            "latitude": "31.99802",
+            "longitude": "35.8729",
+            "zoom": "20"
+        },
+        {
+            "id": "N7iVsqCoieXwA0fBB9JP",
+            "name": "Yaser Mall",
+            "district": "",
+            "latitude": "31.955",
+            "longitude": "35.834",
+            "zoom": "20"
+        },
+        {
+            "id": "N9KwTOjPE3ztUgnWW4kz",
+            "name": "Hussein Cancer Center",
+            "district": "",
+            "latitude": "32.005",
+            "longitude": "35.875",
+            "zoom": "20"
+        },
+        {
+            "id": "NBaKiBRDiUSAOUI0Ol7h",
+            "name": "Al-Rasheed",
+            "district": "",
+            "latitude": "32.02112276",
+            "longitude": "35.8865656",
+            "zoom": "20"
+        },
+        {
+            "id": "NIzpW3bUGCt914eQuak2",
+            "name": "AL Rihan",
+            "district": "",
+            "latitude": "31.951574",
+            "longitude": "35.183972",
+            "zoom": "20"
+        },
+        {
+            "id": "NULloPN3891hRCuFSLQu",
+            "name": "Khadouri",
+            "district": "",
+            "latitude": "32.524129",
+            "longitude": "35.038028",
+            "zoom": "20"
+        },
+        {
+            "id": "NcM6ZBgb5iRFG5do84Xm",
+            "name": "Jabal Al Nasser",
+            "district": "",
+            "latitude": "31.9396414632251",
+            "longitude": "35.9777872201665",
+            "zoom": "20"
+        },
+        {
+            "id": "NjF8lFO9D5QfqshMMAdF",
+            "name": "Aqaba Regional",
+            "district": "",
+            "latitude": "29.539",
+            "longitude": "35.014",
+            "zoom": "20"
+        },
+        {
+            "id": "NkNtbvp9XJzx0ZHNZNWN",
+            "name": "Ghada supermarket ATM",
+            "district": "",
+            "latitude": "32.0106241862026",
+            "longitude": "35.8821485775495",
+            "zoom": "20"
+        },
+        {
+            "id": "NlfgKuW1tTxRap0raTIx",
+            "name": "Beirut Downtown",
+            "district": "",
+            "latitude": "33.895853",
+            "longitude": "35.503049",
+            "zoom": "20"
+        },
+        {
+            "id": "Nw9u8iHqqIXK57NcoZ0f",
+            "name": "THAWRA BRANCH",
+            "district": "",
+            "latitude": "30.047594",
+            "longitude": "31.214211",
+            "zoom": "20"
+        },
+        {
+            "id": "NzJ9jlmAR5XNGE0EAz4M",
+            "name": "Al Shalaleh branch ",
+            "district": "",
+            "latitude": "31.525306",
+            "longitude": "35.106841",
+            "zoom": "20"
+        },
+        {
+            "id": "O7y3Lbi5wIxh8RTI7V2Q",
+            "name": "Al Quds University",
+            "district": "",
+            "latitude": "31.75741",
+            "longitude": "35.261189",
+            "zoom": "20"
+        },
+        {
+            "id": "O8Bi9m81G4sMZZ7Fq480",
+            "name": "Hebron center",
+            "district": "",
+            "latitude": "31.531234",
+            "longitude": "35.09749",
+            "zoom": "20"
+        },
+        {
+            "id": "OCVIGjt08WLgLV6JfVZn",
+            "name": "Total Yajouz Drive-Thru ATM",
+            "district": "",
+            "latitude": "32.027607",
+            "longitude": "35.897831",
+            "zoom": "20"
+        },
+        {
+            "id": "ODFC0QLdDAQfvtUxC2mB",
+            "name": "MUST BRANCH",
+            "district": "",
+            "latitude": "29.994564",
+            "longitude": "30.967136",
+            "zoom": "20"
+        },
+        {
+            "id": "OEtl9iEArynWx2A1JgSq",
+            "name": "Manaseer Koridour Abdoun Drive Thru ATM",
+            "district": "",
+            "latitude": "31.925059",
+            "longitude": "35.8689553",
+            "zoom": "20"
+        },
+        {
+            "id": "OJjW0ktdisu4Yoy63bAj",
+            "name": "Muhajereen",
+            "district": "",
+            "latitude": "31.944688",
+            "longitude": "35.929552",
+            "zoom": "20"
+        },
+        {
+            "id": "OlK53lpsjjnpVLPz8AuC",
+            "name": "SODIC BRANCH",
+            "district": "",
+            "latitude": "30.058018",
+            "longitude": "30.940193",
+            "zoom": "20"
+        },
+        {
+            "id": "OogtFKUl9TvAIFqM7DqU",
+            "name": "MALL OF EGYPT BRANCH",
+            "district": "",
+            "latitude": "29.972263",
+            "longitude": "31.016958",
+            "zoom": "20"
+        },
+        {
+            "id": "Oyl1oTNiqX7YjnbatiEj",
+            "name": "Hebron gate",
+            "district": "",
+            "latitude": "31.3337",
+            "longitude": "35.0601",
+            "zoom": "20"
+        },
+        {
+            "id": "P4PAkpb74LkHnlHVXCVg",
+            "name": "Irbid Mall",
+            "district": "",
+            "latitude": "32.541181",
+            "longitude": "35.844561",
+            "zoom": "20"
+        },
+        {
+            "id": "PDDt96w67vs2COx6COZ1",
+            "name": "Ikea Amman",
+            "district": "",
+            "latitude": "31.82651285",
+            "longitude": "35.90158869",
+            "zoom": "20"
+        },
+        {
+            "id": "PFw5jqOO0VeibT9rkF6K",
+            "name": "Rawabi branch ",
+            "district": "",
+            "latitude": "32.01138",
+            "longitude": "35.19021",
+            "zoom": "20"
+        },
+        {
+            "id": "POwUD3fwjisXMTSzCjX5",
+            "name": "Irbid City Center",
+            "district": "",
+            "latitude": "32.53585046",
+            "longitude": "35.865315",
+            "zoom": "20"
+        },
+        {
+            "id": "PQrjEUZlvVddbIxiZ3XP",
+            "name": "HARAM BRANCH",
+            "district": "",
+            "latitude": "30.009916",
+            "longitude": "31.202456",
+            "zoom": "20"
+        },
+        {
+            "id": "PTaOVmq95xBzywCjWT5S",
+            "name": "Ctown Istiklal Mall",
+            "district": "",
+            "latitude": "31.979696",
+            "longitude": "35.921988",
+            "zoom": "20"
+        },
+        {
+            "id": "PbuvumLu0pxcnnFo2iFP",
+            "name": "IBB ",
+            "district": "",
+            "latitude": "13.975331",
+            "longitude": "44.172152",
+            "zoom": "20"
+        },
+        {
+            "id": "PfHvDmZVJjy13aEDFoQy",
+            "name": "Baqa\u0027a 2",
+            "district": "",
+            "latitude": "32.076817",
+            "longitude": "35.84529",
+            "zoom": "20"
+        },
+        {
+            "id": "PfzcX1YfhJg1HPYR8iuI",
+            "name": "Total Shafa Badran/Drive Thru ATM",
+            "district": "",
+            "latitude": "32.02810679",
+            "longitude": "35.90086612",
+            "zoom": "20"
+        },
+        {
+            "id": "QJK0pXrcy0W4ACaJ0HQW",
+            "name": "Asyut Branch",
+            "district": "",
+            "latitude": "27.4939674",
+            "longitude": "30.7887354",
+            "zoom": "20"
+        },
+        {
+            "id": "QT4JIcfrY530ib9hSR8r",
+            "name": "Irbid Thaqafeh 2",
+            "district": "",
+            "latitude": "32.538827",
+            "longitude": "35.876161",
+            "zoom": "20"
+        },
+        {
+            "id": "QgeLjFB8WQJ6MaelwGgQ",
+            "name": "City centre Almaza",
+            "district": "",
+            "latitude": "30.080841",
+            "longitude": "31.366163",
+            "zoom": "20"
+        },
+        {
+            "id": "QgzaDm71iX3vLDzYRwlM",
+            "name": "Al-Bireh",
+            "district": "",
+            "latitude": "31.907",
+            "longitude": "35.210892",
+            "zoom": "20"
+        },
+        {
+            "id": "QuIZgitp8nnaKSIvAYIj",
+            "name": "EMARAT MISR STATION - WAHAT ROAD",
+            "district": "",
+            "latitude": "29.956769",
+            "longitude": "30.9582324",
+            "zoom": "20"
+        },
+        {
+            "id": "RDewVo3zyAgTgvJgc5DE",
+            "name": "TOTAL AUC",
+            "district": "",
+            "latitude": "30.025995",
+            "longitude": "31.488749",
+            "zoom": "20"
+        },
+        {
+            "id": "RIWrDElw1hkEpklPPo1o",
+            "name": "Mivida",
+            "district": "",
+            "latitude": "30.000046",
+            "longitude": "31.539698",
+            "zoom": "20"
+        },
+        {
+            "id": "RUk7HZ9iKrABbDYzQ8QO",
+            "name": "ARKAN PLAZA",
+            "district": "",
+            "latitude": "30.020208",
+            "longitude": "31.003801",
+            "zoom": "20"
+        },
+        {
+            "id": "RsqpO1a0undt0DV2z9wX",
+            "name": "Qaser Al Fonon",
+            "district": "",
+            "latitude": "32.483275",
+            "longitude": "35.299419",
+            "zoom": "20"
+        },
+        {
+            "id": "S81nQenCyAztSv78pDjH",
+            "name": "Carrefour Yasmin",
+            "district": "",
+            "latitude": "31.923",
+            "longitude": "35.897",
+            "zoom": "20"
+        },
+        {
+            "id": "S99yWOHQ16OZ8A2kke72",
+            "name": "Aqaba",
+            "district": "",
+            "latitude": "29.528256",
+            "longitude": "35.004276",
+            "zoom": "20"
+        },
+        {
+            "id": "SVu25o1IQlgY4TPOmUPm",
+            "name": "Al-Dababiyeh Circle- Tabrbour ",
+            "district": "",
+            "latitude": "32.01241",
+            "longitude": "35.95151",
+            "zoom": "20"
+        },
+        {
+            "id": "Sc0AI5AQlnAXp5GtN0lN",
+            "name": "Betonia branch ",
+            "district": "",
+            "latitude": "31.898759",
+            "longitude": "35.178149",
+            "zoom": "20"
+        },
+        {
+            "id": "SwvW3T3fiDOBKq5NgN63",
+            "name": "Mujama’a Al-Mahakem",
+            "district": "",
+            "latitude": "32.464277",
+            "longitude": "35.294298",
+            "zoom": "20"
+        },
+        {
+            "id": "SzmKNwk3pJjkhxvjHwIR",
+            "name": "Al-manarah branch 3",
+            "district": "",
+            "latitude": "31.905095",
+            "longitude": "35.204723",
+            "zoom": "20"
+        },
+        {
+            "id": "T7iFVHZB1fFsKyUvxlcE",
+            "name": "Russaifeh",
+            "district": "",
+            "latitude": "32.01664",
+            "longitude": "36.04531",
+            "zoom": "20"
+        },
+        {
+            "id": "TBxpFJ1k9N7His1KnEfm",
+            "name": "Total Station – Ghazeer",
+            "district": "",
+            "latitude": "34.011466",
+            "longitude": "35.649718",
+            "zoom": "20"
+        },
+        {
+            "id": "TCSyfLR85wBU2Hm7Wv7n",
+            "name": "NEW MAADI BRANCH",
+            "district": "",
+            "latitude": "29.969378",
+            "longitude": "31.278639",
+            "zoom": "20"
+        },
+        {
+            "id": "TDipaXUaP2UOLWVAg5W3",
+            "name": "LORAN BRANCH",
+            "district": "",
+            "latitude": "31.252466",
+            "longitude": "29.972567",
+            "zoom": "20"
+        },
+        {
+            "id": "TOxnjybpbC7fIy3pA45Z",
+            "name": "Royal Hospital",
+            "district": "",
+            "latitude": "31.9887974786922",
+            "longitude": "35.9169831731438",
+            "zoom": "20"
+        },
+        {
+            "id": "TVW9czJsEeejYvu3zvMx",
+            "name": "PETROTRADE",
+            "district": "",
+            "latitude": "30.067186",
+            "longitude": "31.335384",
+            "zoom": "20"
+        },
+        {
+            "id": "TVvdW3YRXdQQOYQz3KDZ",
+            "name": "Sahab",
+            "district": "",
+            "latitude": "31.85242",
+            "longitude": "36.00743",
+            "zoom": "20"
+        },
+        {
+            "id": "TZ56PMPxQH4Qhvjrsn43",
+            "name": "Hai Al Hussein",
+            "district": "",
+            "latitude": "32.0674665",
+            "longitude": "36.087904",
+            "zoom": "20"
+        },
+        {
+            "id": "TZeELvMPT41XFOj1BoWP",
+            "name": "MALL OF ARABIA   ",
+            "district": "",
+            "latitude": "30.005774",
+            "longitude": "30.975151",
+            "zoom": "20"
+        },
+        {
+            "id": "TdyGn99TPJXJR1Ci528f",
+            "name": "Jericho ",
+            "district": "",
+            "latitude": "31.857621",
+            "longitude": "35.460241",
+            "zoom": "20"
+        },
+        {
+            "id": "TgZvhBIx1DJiWkaWQGJk",
+            "name": "Al-manarah branch 2",
+            "district": "",
+            "latitude": "31.905095",
+            "longitude": "35.204723",
+            "zoom": "20"
+        },
+        {
+            "id": "TwTXU6Csc5zI6kjOs8Kw",
+            "name": "Al-Khawajah Gas Station ",
+            "district": "",
+            "latitude": "31.871189",
+            "longitude": "35.221771",
+            "zoom": "20"
+        },
+        {
+            "id": "U1mIJDHZKenUk0VZdmSl",
+            "name": "South Abdoun 2",
+            "district": "",
+            "latitude": "31.940584",
+            "longitude": "35.884985",
+            "zoom": "20"
+        },
+        {
+            "id": "U8qvfSQlPSj3Uyvs6ITx",
+            "name": "Isra\u0027 university",
+            "district": "",
+            "latitude": "31.789383",
+            "longitude": "35.927095",
+            "zoom": "20"
+        },
+        {
+            "id": "U9Z2yfUdNxqQGzp5Ts5E",
+            "name": "Hashemite University",
+            "district": "",
+            "latitude": "32.087974",
+            "longitude": "36.18786",
+            "zoom": "20"
+        },
+        {
+            "id": "UI7zK8Advui7gpsN2R3E",
+            "name": "Applied Scientific University",
+            "district": "",
+            "latitude": "32.040899",
+            "longitude": "35.902706",
+            "zoom": "20"
+        },
+        {
+            "id": "UJqMWJeGO0XyOegLKyhw",
+            "name": "Beit Jala Branch",
+            "district": "",
+            "latitude": "31.7118",
+            "longitude": "35.1967",
+            "zoom": "20"
+        },
+        {
+            "id": "UMdamMYDALnXyo3WGjmP",
+            "name": "Al-Samou",
+            "district": "",
+            "latitude": "31.3996975",
+            "longitude": "35.066947",
+            "zoom": "20"
+        },
+        {
+            "id": "UMqxY9fxlUyS0HOIbIvU",
+            "name": "Shmeisani",
+            "district": "",
+            "latitude": "31.965306",
+            "longitude": "35.898637",
+            "zoom": "20"
+        },
+        {
+            "id": "UN1keUgm84i4RbsjmwWj",
+            "name": "SHEIKH ZAYED BRANCH",
+            "district": "",
+            "latitude": "30.030149",
+            "longitude": "31.001013",
+            "zoom": "20"
+        },
+        {
+            "id": "UNGInNW2WNBClT8nhNML",
+            "name": "Mobil Maadi",
+            "district": "",
+            "latitude": "30.073471",
+            "longitude": "31.346222",
+            "zoom": "20"
+        },
+        {
+            "id": "UPU2AWFQNV6kJfxPQMbm",
+            "name": "Haouz ATM",
+            "district": "",
+            "latitude": "31.507343",
+            "longitude": "35.078251",
+            "zoom": "20"
+        },
+        {
+            "id": "Ufr5FxlcWkJnHuAGKLnR",
+            "name": "Mecca Street",
+            "district": "",
+            "latitude": "31.975807",
+            "longitude": "35.848749",
+            "zoom": "20"
+        },
+        {
+            "id": "UmZrFquxNkWQjoV46LgD",
+            "name": "Kharibet Al-Souk",
+            "district": "",
+            "latitude": "31.870904",
+            "longitude": "35.929979",
+            "zoom": "20"
+        },
+        {
+            "id": "UsIvtjkttvEm9bNfk0aa",
+            "name": "Obeidiya",
+            "district": "",
+            "latitude": "31.7093485",
+            "longitude": "35.269407",
+            "zoom": "20"
+        },
+        {
+            "id": "UvSUJbGfOR996iJUL2yx",
+            "name": "Seashell Hospital",
+            "district": "",
+            "latitude": "29.9922121262225",
+            "longitude": "31.5088997554947",
+            "zoom": "20"
+        },
+        {
+            "id": "Ve97gAD6pBrfYFeGa66S",
+            "name": "Yasmeen 2",
+            "district": "",
+            "latitude": "31.91474",
+            "longitude": "35.887865",
+            "zoom": "20"
+        },
+        {
+            "id": "WCDB4Rfhi6KjLQDzMQBu",
+            "name": "Plaza Mall ATM",
+            "district": "",
+            "latitude": "31.924211",
+            "longitude": "35.212533",
+            "zoom": "20"
+        },
+        {
+            "id": "WEhqOSiOHGyegJgilHYl",
+            "name": "IAA School",
+            "district": "",
+            "latitude": "31.981",
+            "longitude": "35.825",
+            "zoom": "20"
+        },
+        {
+            "id": "WUHyHsHKJQPlUJDsxIsh",
+            "name": "Al najah hospital",
+            "district": "",
+            "latitude": "32.2385962",
+            "longitude": "35.2463149",
+            "zoom": "20"
+        },
+        {
+            "id": "WnFyfl7kdWuQhp4VnwEY",
+            "name": "Fawry Miami",
+            "district": "",
+            "latitude": "29.956518",
+            "longitude": "31.261116",
+            "zoom": "20"
+        },
+        {
+            "id": "WuwdPvfMP4vJChp5Q2hZ",
+            "name": "Al-Baraa Gas Station",
+            "district": "",
+            "latitude": "32.404531",
+            "longitude": "35.209036",
+            "zoom": "20"
+        },
+        {
+            "id": "WwJV64DZNem7y26dgof8",
+            "name": "Tulkarem ",
+            "district": "",
+            "latitude": "32.316877",
+            "longitude": "35.0326",
+            "zoom": "20"
+        },
+        {
+            "id": "WxRUm1B1VkQ06NG3woEq",
+            "name": "DOWN TOWN MALL -KATAMEYA",
+            "district": "",
+            "latitude": "30.01832",
+            "longitude": "31.412918",
+            "zoom": "20"
+        },
+        {
+            "id": "X3HLrMawVpNvPBaPot5f",
+            "name": "Jericho circle ",
+            "district": "",
+            "latitude": "31.856148",
+            "longitude": "35.459999",
+            "zoom": "20"
+        },
+        {
+            "id": "XBHLjzcYWx1MnChcEQTd",
+            "name": "Mazaya Mall ATM",
+            "district": "",
+            "latitude": "31.936624",
+            "longitude": "35.193496",
+            "zoom": "20"
+        },
+        {
+            "id": "XDb64uffPZCsgZsUP655",
+            "name": "Plaza Outlet Center",
+            "district": "",
+            "latitude": "31.9762302",
+            "longitude": "35.8443788",
+            "zoom": "20"
+        },
+        {
+            "id": "XHsFaw46jZHBrUXgpwuO",
+            "name": "Karak",
+            "district": "",
+            "latitude": "31.174815",
+            "longitude": "35.703343",
+            "zoom": "20"
+        },
+        {
+            "id": "XJqsrnHQOYLi96uy7Ri0",
+            "name": "Fuheis",
+            "district": "",
+            "latitude": "32.002315",
+            "longitude": "35.77598",
+            "zoom": "20"
+        },
+        {
+            "id": "XSPKty3yINS4GoDYMH89",
+            "name": "Jerash offsite ATM",
+            "district": "",
+            "latitude": "32.2921674160084",
+            "longitude": "35.893439018388",
+            "zoom": "20"
+        },
+        {
+            "id": "XWzHwbGzgARGsZsvOL0q",
+            "name": "Nablus Governorate",
+            "district": "",
+            "latitude": "32.215",
+            "longitude": "35.274",
+            "zoom": "20"
+        },
+        {
+            "id": "XbQJ28eQxDGeJnxzNiO1",
+            "name": "Orthodox Club",
+            "district": "",
+            "latitude": "31.948",
+            "longitude": "35.896",
+            "zoom": "20"
+        },
+        {
+            "id": "XhaoHzTCRIfY2GwqnMmW",
+            "name": "Baqa\u0027a",
+            "district": "",
+            "latitude": "32.076817",
+            "longitude": "35.84529",
+            "zoom": "20"
+        },
+        {
+            "id": "XrlylU5wv40nYgg7luqC",
+            "name": "Tarqomia ",
+            "district": "",
+            "latitude": "31.577235",
+            "longitude": "35.020604",
+            "zoom": "20"
+        },
+        {
+            "id": "Xrzna7QwtqdW5LApkcNx",
+            "name": "opel co.",
+            "district": "",
+            "latitude": "31.223066",
+            "longitude": "29.970371",
+            "zoom": "20"
+        },
+        {
+            "id": "Y2FcnQ5iwZ5pNVeOwmqv",
+            "name": "Mohandesin ATM 2",
+            "district": "",
+            "latitude": "30.052307",
+            "longitude": "31.199091",
+            "zoom": "20"
+        },
+        {
+            "id": "YCvvU4BQ0zKfsgfFm6VM",
+            "name": "Kattameya clinic",
+            "district": "",
+            "latitude": "30.0596731",
+            "longitude": "31.4456161",
+            "zoom": "20"
+        },
+        {
+            "id": "YHcZzUWhBHCNWd6RBBuW",
+            "name": "Nablus Branch 3 ATM",
+            "district": "",
+            "latitude": "32.221524",
+            "longitude": "35.260717",
+            "zoom": "20"
+        },
+        {
+            "id": "YJKsyFfEBsPBpftkpU6S",
+            "name": "Intercontinental Hotel\\\\\\\\ Amman",
+            "district": "",
+            "latitude": "31.953378",
+            "longitude": "35.913663",
+            "zoom": "20"
+        },
+        {
+            "id": "YUZtmn7Xfjq3UqBm3Ii5",
+            "name": "FATHALLAH MARKET",
+            "district": "",
+            "latitude": "31.28031",
+            "longitude": "30.0149",
+            "zoom": "20"
+        },
+        {
+            "id": "YUv5k4KaePmjyM5wGfBT",
+            "name": "Carrefour Mugableen",
+            "district": "",
+            "latitude": "31.908415",
+            "longitude": "35.930218",
+            "zoom": "20"
+        },
+        {
+            "id": "YWv5uE7I09Tkmn2XI3RR",
+            "name": "Beni Zaid",
+            "district": "",
+            "latitude": "32.03882",
+            "longitude": "35.103557",
+            "zoom": "20"
+        },
+        {
+            "id": "YZ9zmLp6gZnEswIsitls",
+            "name": "New Zarqa 2",
+            "district": "",
+            "latitude": "32.085709",
+            "longitude": "36.091793",
+            "zoom": "20"
+        },
+        {
+            "id": "YeTlAnQWGr7GPfWdTfL8",
+            "name": "Um Uthaina Self Service 2",
+            "district": "",
+            "latitude": "31.966776",
+            "longitude": "35.872601",
+            "zoom": "20"
+        },
+        {
+            "id": "Yu1B1gm6SueZ0Jm7EkP3",
+            "name": "al Irsal ITM",
+            "district": "",
+            "latitude": "31.917205",
+            "longitude": "35.20714",
+            "zoom": "20"
+        },
+        {
+            "id": "Z8q5YxWXL6J3DNIRvDjE",
+            "name": "SMART VILLAGE  BRANCH ",
+            "district": "",
+            "latitude": "30.078558",
+            "longitude": "31.017788",
+            "zoom": "20"
+        },
+        {
+            "id": "ZAHsH7tBXZnWFEHkE9fr",
+            "name": "City Stars 1",
+            "district": "",
+            "latitude": "30.073471",
+            "longitude": "31.346222",
+            "zoom": "20"
+        },
+        {
+            "id": "ZXBc0gTB4eWwAugmVuyN",
+            "name": "Sweiss Gas Station",
+            "district": "",
+            "latitude": "31.88100142",
+            "longitude": "35.22929192",
+            "zoom": "20"
+        },
+        {
+            "id": "ZbpOMXQi2pQzuKPxIpMc",
+            "name": "Abo Alanda- Abu Hassn Complex/Drive Thru ATM",
+            "district": "",
+            "latitude": "31.90525",
+            "longitude": "35.964799",
+            "zoom": "20"
+        },
+        {
+            "id": "Zqn2gfWy1OM28ixIDerF",
+            "name": "Royal Hotel",
+            "district": "",
+            "latitude": "31.95379015",
+            "longitude": "35.9089777",
+            "zoom": "20"
+        },
+        {
+            "id": "ZrgiUMCLXdBCrg2lM07f",
+            "name": "Taj Mall 2",
+            "district": "",
+            "latitude": "31.941092",
+            "longitude": "35.888214",
+            "zoom": "20"
+        },
+        {
+            "id": "ZzNynzYVYnfyIOgYtB64",
+            "name": "Al-Khader",
+            "district": "",
+            "latitude": "31.694233",
+            "longitude": "35.171646",
+            "zoom": "20"
+        },
+        {
+            "id": "a13hNPdxVUpErtOcgXDY",
+            "name": "Tareq (Tabarbour)",
+            "district": "",
+            "latitude": "32.003391",
+            "longitude": "35.93711",
+            "zoom": "20"
+        },
+        {
+            "id": "a6FuWpg2rGCvwCh30Mnd",
+            "name": "Al huda station",
+            "district": "",
+            "latitude": "31.885444",
+            "longitude": "35.199035",
+            "zoom": "20"
+        },
+        {
+            "id": "a6Ids6GUbA0ZA508CnB0",
+            "name": "Jopetrol Istiklal 2",
+            "district": "",
+            "latitude": "31.9764",
+            "longitude": "35.92882",
+            "zoom": "20"
+        },
+        {
+            "id": "a8Ik8WPFB00cEig4QKYx",
+            "name": "Khalda 2",
+            "district": "",
+            "latitude": "31.997103",
+            "longitude": "35.846956",
+            "zoom": "20"
+        },
+        {
+            "id": "aDBlU9nrZb9B4aTYXcsY",
+            "name": "DAR EL HANDASA COMPANY",
+            "district": "",
+            "latitude": "30.07562",
+            "longitude": "31.024498",
+            "zoom": "20"
+        },
+        {
+            "id": "aJD9H62VffoJfGheDjod",
+            "name": "Confetti Library",
+            "district": "",
+            "latitude": "31.993",
+            "longitude": "35.814",
+            "zoom": "20"
+        },
+        {
+            "id": "aN1IVPmeqE0mzQoU4cUD",
+            "name": "Atari \u0026 Elyan Gas station",
+            "district": "",
+            "latitude": "31.899175",
+            "longitude": "35.177364",
+            "zoom": "20"
+        },
+        {
+            "id": "acVmUfB0vFtYTioWgOwC",
+            "name": "Abu Nuseir",
+            "district": "",
+            "latitude": "32.051198",
+            "longitude": "35.8825168",
+            "zoom": "20"
+        },
+        {
+            "id": "aigwsiNyoZxE6CwZ9aLS",
+            "name": "Jubeiha",
+            "district": "",
+            "latitude": "32.01882",
+            "longitude": "35.86581",
+            "zoom": "20"
+        },
+        {
+            "id": "ajMeonyMuxnoTJzwmWhg",
+            "name": "Ein Um Al-Sharayet",
+            "district": "",
+            "latitude": "31.886231",
+            "longitude": "35.212855",
+            "zoom": "20"
+        },
+        {
+            "id": "ampOndHFl6hPhvtA1GKh",
+            "name": "Safeway Marj Al-Hamam",
+            "district": "",
+            "latitude": "31.888",
+            "longitude": "35.858",
+            "zoom": "20"
+        },
+        {
+            "id": "auxmebSZbrtY2OTZIMYk",
+            "name": "Mellennium Hospital ",
+            "district": "",
+            "latitude": "30.033165",
+            "longitude": "31.210573",
+            "zoom": "20"
+        },
+        {
+            "id": "b2ufhRR8E4ixfKDyMoe0",
+            "name": "Ein Sara branch",
+            "district": "",
+            "latitude": "31.552857",
+            "longitude": "35.0981948",
+            "zoom": "20"
+        },
+        {
+            "id": "bItHJwkzhVPPkYwRTwzA",
+            "name": "Salt",
+            "district": "",
+            "latitude": "32.041351",
+            "longitude": "35.72903",
+            "zoom": "20"
+        },
+        {
+            "id": "bJlxQXXyopkGIAxntAm0",
+            "name": "Head Office GF3",
+            "district": "",
+            "latitude": "31.965306",
+            "longitude": "35.898637",
+            "zoom": "20"
+        },
+        {
+            "id": "bO1NXWgybCMPtCUxbz48",
+            "name": "Dora ",
+            "district": "",
+            "latitude": "33.895",
+            "longitude": "35.545",
+            "zoom": "20"
+        },
+        {
+            "id": "bVcZxdg5dADLTXzvH5t6",
+            "name": "TRIANGLE COMPANY",
+            "district": "",
+            "latitude": "29.982481",
+            "longitude": "31.358864",
+            "zoom": "20"
+        },
+        {
+            "id": "bcGeiuqSB8kT70kgvDdF",
+            "name": "Obour Club",
+            "district": "",
+            "latitude": "30.234022",
+            "longitude": "31.458395",
+            "zoom": "20"
+        },
+        {
+            "id": "bgx28Uzwag3Zg9B7Le9o",
+            "name": "Chillout Triumph",
+            "district": "",
+            "latitude": "30.006599",
+            "longitude": "31.399824",
+            "zoom": "20"
+        },
+        {
+            "id": "bphUEyoP7nYKqqfR9ZQQ",
+            "name": "Ramtha",
+            "district": "",
+            "latitude": "32.5609205",
+            "longitude": "36.0107832",
+            "zoom": "20"
+        },
+        {
+            "id": "bqGiwK6Kd137Adi2pgzI",
+            "name": "Irbid Arabella Mall",
+            "district": "",
+            "latitude": "32.538221",
+            "longitude": "35.862529",
+            "zoom": "20"
+        },
+        {
+            "id": "bvqHIrWkzIjTi0HO7yUk",
+            "name": "Abdali Mall 2",
+            "district": "",
+            "latitude": "31.9635151",
+            "longitude": "35.9076242",
+            "zoom": "20"
+        },
+        {
+            "id": "c7cqZNOJJ7x4Kfd9RlsE",
+            "name": "Abela",
+            "district": "",
+            "latitude": "31.962458",
+            "longitude": "35.898766",
+            "zoom": "20"
+        },
+        {
+            "id": "cC1LzazwdHDTh9a6RGsh",
+            "name": "Irbid Hikma Street",
+            "district": "",
+            "latitude": "32.5710712712168",
+            "longitude": "35.8620465731341",
+            "zoom": "20"
+        },
+        {
+            "id": "cbuGiHy0yQHfaYre3MBa",
+            "name": "Jericho Rest",
+            "district": "",
+            "latitude": "31.860838",
+            "longitude": "35.47834",
+            "zoom": "20"
+        },
+        {
+            "id": "cmfE1058oorCoNUnz4hw",
+            "name": "HELIOPOLIS BRANCH",
+            "district": "",
+            "latitude": "30.112656",
+            "longitude": "31.344124",
+            "zoom": "20"
+        },
+        {
+            "id": "cmhjP4HhyoeX1QIziYTX",
+            "name": "Al Watania for fertilizers \u0026 Agrochemicals company",
+            "district": "",
+            "latitude": "30.828506",
+            "longitude": "29.915112",
+            "zoom": "20"
+        },
+        {
+            "id": "cpFLDMUojyst7mIsqA6C",
+            "name": "Ramida",
+            "district": "",
+            "latitude": "29.9374121",
+            "longitude": "30.8949115",
+            "zoom": "20"
+        },
+        {
+            "id": "cpSKgcJfhg4YAEHCWA7e",
+            "name": "al rimal 2",
+            "district": "",
+            "latitude": "31.519709",
+            "longitude": "34.445379",
+            "zoom": "20"
+        },
+        {
+            "id": "d0uMs2EVdiLtu8UoHPgc",
+            "name": "Jenin ",
+            "district": "",
+            "latitude": "32.462313",
+            "longitude": "35.297742",
+            "zoom": "20"
+        },
+        {
+            "id": "dMnUt5YOlCi9sBRuDsFy",
+            "name": "Wadi Saqra",
+            "district": "",
+            "latitude": "31.960713",
+            "longitude": "35.895378",
+            "zoom": "20"
+        },
+        {
+            "id": "dNb9jw8UKnO5s2L5ksJL",
+            "name": "SMOUHA BRANCH",
+            "district": "",
+            "latitude": "31.213383",
+            "longitude": "29.939541",
+            "zoom": "20"
+        },
+        {
+            "id": "diGGB21j9S1goqqzdEKS",
+            "name": "EL DELTA FACTORY (OLYMPIC)",
+            "district": "",
+            "latitude": "30.239878",
+            "longitude": "31.745859",
+            "zoom": "20"
+        },
+        {
+            "id": "dk762i6bjdulkEXcy0IL",
+            "name": "EMARAT EL MAADI",
+            "district": "",
+            "latitude": "29.9860123",
+            "longitude": "31.3064777",
+            "zoom": "20"
+        },
+        {
+            "id": "dmCAtGFYJfp0TwEAszf7",
+            "name": "Mecca Mall outside",
+            "district": "",
+            "latitude": "31.977015",
+            "longitude": "35.843217",
+            "zoom": "20"
+        },
+        {
+            "id": "dv5im3yMlEBkvjPMMh0B",
+            "name": "Manaseer Saro",
+            "district": "",
+            "latitude": "32.042191",
+            "longitude": "35.781097",
+            "zoom": "20"
+        },
+        {
+            "id": "e9f92YMz8mkODGILRCaN",
+            "name": "Matrix Club",
+            "district": "",
+            "latitude": "30.8420154349538",
+            "longitude": "31.0169630445871",
+            "zoom": "20"
+        },
+        {
+            "id": "eRpaVRWUYZRaNCTNDwuO",
+            "name": "MSA UNIVERSITY ",
+            "district": "",
+            "latitude": "29.956228",
+            "longitude": "30.95826",
+            "zoom": "20"
+        },
+        {
+            "id": "eYDZF85cV9jDbVab9wm8",
+            "name": "Wadi Seer 2",
+            "district": "",
+            "latitude": "31.954632",
+            "longitude": "35.84141",
+            "zoom": "20"
+        },
+        {
+            "id": "ehbpAPj0ycLHTe8l866l",
+            "name": "Hashmi Shamali",
+            "district": "",
+            "latitude": "31.968697",
+            "longitude": "35.960103",
+            "zoom": "20"
+        },
+        {
+            "id": "epYgevjF6ymGsqm3UMQ7",
+            "name": "Attel",
+            "district": "",
+            "latitude": "32.370411",
+            "longitude": "35.071557",
+            "zoom": "20"
+        },
+        {
+            "id": "eqf3AfJMAIooULigEqZZ",
+            "name": "Murjan Mall",
+            "district": "",
+            "latitude": "31.981",
+            "longitude": "35.866",
+            "zoom": "20"
+        },
+        {
+            "id": "esqSGFEzDwYXL7a7j1zV",
+            "name": "Jordan University",
+            "district": "",
+            "latitude": "32.015636",
+            "longitude": "35.873301",
+            "zoom": "20"
+        },
+        {
+            "id": "f2WM0wSDbHcDLP4GAH90",
+            "name": "Beit Jala",
+            "district": "",
+            "latitude": "31.714962",
+            "longitude": "35.186307",
+            "zoom": "20"
+        },
+        {
+            "id": "fCGAnMx0HoPLodsLtxBF",
+            "name": "Manaseer Madaba",
+            "district": "",
+            "latitude": "31.723691",
+            "longitude": "35.809089",
+            "zoom": "20"
+        },
+        {
+            "id": "fF97FZboFGfG9qckfwi1",
+            "name": "Sameh Mall - Yajouz",
+            "district": "",
+            "latitude": "32.0279493",
+            "longitude": "36.0340362",
+            "zoom": "20"
+        },
+        {
+            "id": "fRqWsYaJO9Vi2KzD4giN",
+            "name": "Total Al-Jezeh/Drive Thru ATM",
+            "district": "",
+            "latitude": "31.805396",
+            "longitude": "35.911987",
+            "zoom": "20"
+        },
+        {
+            "id": "fTy7wcU1YJqFfgfkbkie",
+            "name": "Dabaa",
+            "district": "",
+            "latitude": "31.051113",
+            "longitude": "28.473469",
+            "zoom": "20"
+        },
+        {
+            "id": "fY2Qxbd9uZKqqwysriQZ",
+            "name": "CAIRO INTERNATIONAL AIRPORT-HALL 3",
+            "district": "",
+            "latitude": "30.1119696",
+            "longitude": "31.3967522",
+            "zoom": "20"
+        },
+        {
+            "id": "flauR4aFFrj2BCM4XTEB",
+            "name": "Ramallah mall",
+            "district": "",
+            "latitude": "31.9078",
+            "longitude": "35.2067",
+            "zoom": "20"
+        },
+        {
+            "id": "fnhIUYJYtfsLisVcKIeL",
+            "name": "Beit Jala Branch",
+            "district": "",
+            "latitude": "31.711826",
+            "longitude": "35.197192",
+            "zoom": "20"
+        },
+        {
+            "id": "g5AWJ2ARGg4pjH5CWfNO",
+            "name": "Amal Hospital",
+            "district": "",
+            "latitude": "31.973",
+            "longitude": "35.911",
+            "zoom": "20"
+        },
+        {
+            "id": "gRxx8tw3ugggtb5bDhGf",
+            "name": "Total Abdullah Ghosheh Street/Drive Thru ATM",
+            "district": "",
+            "latitude": "31.971378",
+            "longitude": "35.853968",
+            "zoom": "20"
+        },
+        {
+            "id": "gSh6KcBFs1CQkzIE9mXo",
+            "name": "Hikma Pharmaceutical 1",
+            "district": "",
+            "latitude": "31.942757",
+            "longitude": "35.84636",
+            "zoom": "20"
+        },
+        {
+            "id": "gZfeCR9o5354Yc2h0E3r",
+            "name": "CAIRO FESTIVAL CITY",
+            "district": "",
+            "latitude": "30.027966",
+            "longitude": "31.407648",
+            "zoom": "20"
+        },
+        {
+            "id": "gdVmDnjQJ4vusGAkQX2i",
+            "name": "Nablus branch 2",
+            "district": "",
+            "latitude": "32.22183",
+            "longitude": "35.26067",
+            "zoom": "20"
+        },
+        {
+            "id": "ghjcBaGCp8OS5yjnduSb",
+            "name": "New Cairo Branch ATM 1",
+            "district": "",
+            "latitude": "30.020714",
+            "longitude": "31.42066",
+            "zoom": "20"
+        },
+        {
+            "id": "gtVdkeCpSzE6gjzvkXDH",
+            "name": "Ajloun",
+            "district": "",
+            "latitude": "32.33178",
+            "longitude": "35.75189",
+            "zoom": "20"
+        },
+        {
+            "id": "gyu3jnUv4VVPi2zXNVAY",
+            "name": "ALI AMIN  BRANCH ",
+            "district": "",
+            "latitude": "30.053806",
+            "longitude": "31.336466",
+            "zoom": "20"
+        },
+        {
+            "id": "h4ehZRb9ubsHsAOHfIHW",
+            "name": "Irbid 2",
+            "district": "",
+            "latitude": "32.544887",
+            "longitude": "35.85731",
+            "zoom": "20"
+        },
+        {
+            "id": "hB6AhhVPNMIB71ocZZh0",
+            "name": "Total 8th/Drive Thru ATM",
+            "district": "",
+            "latitude": "31.94",
+            "longitude": "35.849",
+            "zoom": "20"
+        },
+        {
+            "id": "hKoSKMmrCeJ6X4hIL2ap",
+            "name": "AlSunna",
+            "district": "",
+            "latitude": "31.956648",
+            "longitude": "35.87856",
+            "zoom": "20"
+        },
+        {
+            "id": "hL6e8srP3GzX8VdpyUtb",
+            "name": "Al-Hikma Pharmaceutical- Salt",
+            "district": "",
+            "latitude": "32.06411",
+            "longitude": "35.72477",
+            "zoom": "20"
+        },
+        {
+            "id": "hkSJAONKZhPrqN8UOGb5",
+            "name": "SWEDY FACTORY",
+            "district": "",
+            "latitude": "30.2479",
+            "longitude": "31.759575",
+            "zoom": "20"
+        },
+        {
+            "id": "hmXvcLjbc4qb3cjBkI8v",
+            "name": "Queen Alia Airport",
+            "district": "",
+            "latitude": "31.933",
+            "longitude": "35.854",
+            "zoom": "20"
+        },
+        {
+            "id": "hmqHkWa2NsMaYyzPtTMf",
+            "name": "Queen Rania St. Drive Thru ATM",
+            "district": "",
+            "latitude": "31.98975258",
+            "longitude": "35.89327125",
+            "zoom": "20"
+        },
+        {
+            "id": "hty40JNGuQAGpx1cUYQj",
+            "name": "SPORTING  BRANCH ",
+            "district": "",
+            "latitude": "31.213655",
+            "longitude": "29.939449",
+            "zoom": "20"
+        },
+        {
+            "id": "i4eOfawELDqu6yElnQs4",
+            "name": "Swefieh 2",
+            "district": "",
+            "latitude": "31.958148",
+            "longitude": "35.867292",
+            "zoom": "20"
+        },
+        {
+            "id": "iEHIL3YAfDzTVLPXWmRb",
+            "name": "Amman Mall",
+            "district": "",
+            "latitude": "31.99067",
+            "longitude": "35.866247",
+            "zoom": "20"
+        },
+        {
+            "id": "idiuranpQA5G30UkWs7V",
+            "name": "SOFITEL EL GEZIRA HOTEL",
+            "district": "",
+            "latitude": "30.040476",
+            "longitude": "31.222284",
+            "zoom": "20"
+        },
+        {
+            "id": "ihWhlzCmNORy80PSMoD6",
+            "name": "Taj Mall - Food Court",
+            "district": "",
+            "latitude": "31.941092",
+            "longitude": "35.888214",
+            "zoom": "20"
+        },
+        {
+            "id": "izMqE3AuXznvZJXMCo4K",
+            "name": "Haifa Gas Station",
+            "district": "",
+            "latitude": "31.935775",
+            "longitude": "35.197599",
+            "zoom": "20"
+        },
+        {
+            "id": "j0SesziPPDQzLiIGdMEl",
+            "name": "MISR LANGUAGE SCHOOL",
+            "district": "",
+            "latitude": "29.980686",
+            "longitude": "31.12097",
+            "zoom": "20"
+        },
+        {
+            "id": "j5xdu3Z2mXRcsyZlwO7q",
+            "name": "Hazmieh",
+            "district": "",
+            "latitude": "33.851111",
+            "longitude": "35.540028",
+            "zoom": "20"
+        },
+        {
+            "id": "j6hUPQsx2dHdaNWYsuL1",
+            "name": "Mall of Tanta ",
+            "district": "",
+            "latitude": "30.808149",
+            "longitude": "31.006186",
+            "zoom": "20"
+        },
+        {
+            "id": "jCkEmw98nG1zW4YM4oDc",
+            "name": "CAIRO BRANCH",
+            "district": "",
+            "latitude": "30.053148",
+            "longitude": "31.247204",
+            "zoom": "20"
+        },
+        {
+            "id": "jD0czWys5yNCJunhF5DS",
+            "name": "Mafraq",
+            "district": "",
+            "latitude": "32.343654",
+            "longitude": "36.210135",
+            "zoom": "20"
+        },
+        {
+            "id": "jFuy30srboohfDgSgKFj",
+            "name": "Deir Alla",
+            "district": "",
+            "latitude": "32.18886",
+            "longitude": "35.621987",
+            "zoom": "20"
+        },
+        {
+            "id": "jLq9KTAUKFa1ufAEe7Ah",
+            "name": "Gardens 1",
+            "district": "",
+            "latitude": "31.985183",
+            "longitude": "35.881922",
+            "zoom": "20"
+        },
+        {
+            "id": "jQuljY6zD4FpNcX92D7q",
+            "name": "Mohandesin ATM 1",
+            "district": "",
+            "latitude": "30.054561",
+            "longitude": "31.203436",
+            "zoom": "20"
+        },
+        {
+            "id": "jWz0tnjhSVBp5smjc1LU",
+            "name": "Elixir Beauty Spa",
+            "district": "",
+            "latitude": "31.964953",
+            "longitude": "35.864742",
+            "zoom": "20"
+        },
+        {
+            "id": "ja3LuE6f18r4kMzWsN8J",
+            "name": "Jopetrol Yasmeen",
+            "district": "",
+            "latitude": "31.918",
+            "longitude": "35.903",
+            "zoom": "20"
+        },
+        {
+            "id": "jkm29jRDb71rN9L0KyIW",
+            "name": "Galleria Mall",
+            "district": "",
+            "latitude": "31.959",
+            "longitude": "35.862",
+            "zoom": "20"
+        },
+        {
+            "id": "jqC2GMQ1jPl9MmGTifku",
+            "name": "DOKKI BRANCH",
+            "district": "",
+            "latitude": "30.043175",
+            "longitude": "31.203146",
+            "zoom": "20"
+        },
+        {
+            "id": "kK4oZMHHDnXTEifLkFTJ",
+            "name": "Al-Ekir",
+            "district": "",
+            "latitude": "32.218011",
+            "longitude": "35.268474",
+            "zoom": "20"
+        },
+        {
+            "id": "kO4Bl0zo5G2bE48ShPJG",
+            "name": "Al-Fareed Mugableen",
+            "district": "",
+            "latitude": "31.913609",
+            "longitude": "35.901034",
+            "zoom": "20"
+        },
+        {
+            "id": "kT7f0NOz7anOJooR98dl",
+            "name": "MANSOURA  BRANCH",
+            "district": "",
+            "latitude": "31.047531",
+            "longitude": "31.385197",
+            "zoom": "20"
+        },
+        {
+            "id": "kX1AmWAUPSEyIX2oe10w",
+            "name": "Jabal Hussein Br. 2",
+            "district": "",
+            "latitude": "31.968385",
+            "longitude": "35.914567",
+            "zoom": "20"
+        },
+        {
+            "id": "knQm4B9TDieJuPl5SLtV",
+            "name": "Intercontinental Hotel Aqaba",
+            "district": "",
+            "latitude": "29.534529",
+            "longitude": "34.995124",
+            "zoom": "20"
+        },
+        {
+            "id": "l4IScVMRmT7EzXkcccbz",
+            "name": "Ya’abad",
+            "district": "",
+            "latitude": "32.446958",
+            "longitude": "35.17112",
+            "zoom": "20"
+        },
+        {
+            "id": "l9hxud5DD9Xr60NnpDFD",
+            "name": "Devash company",
+            "district": "",
+            "latitude": "30.397232",
+            "longitude": "30.58066",
+            "zoom": "20"
+        },
+        {
+            "id": "lME3cXvKhHNmD2fOq4Vo",
+            "name": "Halhool",
+            "district": "",
+            "latitude": "31.575601",
+            "longitude": "35.098068",
+            "zoom": "20"
+        },
+        {
+            "id": "lO64n2gXGfqKz7dfhAwV",
+            "name": "Hittin",
+            "district": "",
+            "latitude": "32.005836",
+            "longitude": "36.007886",
+            "zoom": "20"
+        },
+        {
+            "id": "lPP94yTgf4jWxc8hmXUp",
+            "name": "Maan",
+            "district": "",
+            "latitude": "30.2021556",
+            "longitude": "35.729941",
+            "zoom": "20"
+        },
+        {
+            "id": "lcbWrXm4bCKEWzRbT7Ii",
+            "name": "Irbid Mall Grand",
+            "district": "",
+            "latitude": "32.5302175",
+            "longitude": "35.8906024",
+            "zoom": "20"
+        },
+        {
+            "id": "lsSgz3gNehMh02N2Y0FF",
+            "name": "IDEAL STANDARD",
+            "district": "",
+            "latitude": "30.269585",
+            "longitude": "31.76503",
+            "zoom": "20"
+        },
+        {
+            "id": "lvWl6rde5kgiceZxVwJX",
+            "name": "Qalqelia branch 2",
+            "district": "",
+            "latitude": "32.191303",
+            "longitude": "34.965641",
+            "zoom": "20"
+        },
+        {
+            "id": "lyK0BrC64nG5rNRS7yWI",
+            "name": "Titanium Pharmacy",
+            "district": "",
+            "latitude": "31.872",
+            "longitude": "35.837",
+            "zoom": "20"
+        },
+        {
+            "id": "m3GXTOHfqZA3jilBXHN8",
+            "name": "Kings Academy",
+            "district": "",
+            "latitude": "31.752447",
+            "longitude": "35.846994",
+            "zoom": "20"
+        },
+        {
+            "id": "m3pT7T64mMOZfAGxsAZ1",
+            "name": "Sahab Branch",
+            "district": "",
+            "latitude": "31.853",
+            "longitude": "36.007",
+            "zoom": "20"
+        },
+        {
+            "id": "m4OYMRqBkTd6ssGnqnsv",
+            "name": "October ATM 2",
+            "district": "",
+            "latitude": "29.971205",
+            "longitude": "30.942234",
+            "zoom": "20"
+        },
+        {
+            "id": "mBP0WGhuhtF88QdYMGln",
+            "name": "Irsal Branch ",
+            "district": "",
+            "latitude": "31.917205",
+            "longitude": "35.20714",
+            "zoom": "20"
+        },
+        {
+            "id": "mBkT7R7qeP9d1K4WmZkR",
+            "name": "GEZIRET EL ARAB BRANCH ",
+            "district": "",
+            "latitude": "30.055737",
+            "longitude": "31.201603",
+            "zoom": "20"
+        },
+        {
+            "id": "maKsWTfgkcfO3T8YWIfR",
+            "name": "WATERWAY BRANCH",
+            "district": "",
+            "latitude": "30.04254",
+            "longitude": "31.475294",
+            "zoom": "20"
+        },
+        {
+            "id": "nBeKslL2FPz2t0qchS9g",
+            "name": "Gezert elward",
+            "district": "",
+            "latitude": "31.046741",
+            "longitude": "31.370054",
+            "zoom": "20"
+        },
+        {
+            "id": "nHTOkEzT4IhpaPdyhVpl",
+            "name": "Royal\nAutomobile Club",
+            "district": "",
+            "latitude": "31.9652273",
+            "longitude": "35.8455982",
+            "zoom": "20"
+        },
+        {
+            "id": "nNboEKyxzOnwcaJT9hFI",
+            "name": "Bravo Supermarket - Mana’a Center",
+            "district": "",
+            "latitude": "31.909039",
+            "longitude": "35.188909",
+            "zoom": "20"
+        },
+        {
+            "id": "nR99I6fDKZienkfzLMSD",
+            "name": "Tafileh",
+            "district": "",
+            "latitude": "30.836756",
+            "longitude": "35.605161",
+            "zoom": "20"
+        },
+        {
+            "id": "nVKmyQmIvomCFdYMTmZa",
+            "name": "Total gas station Bagour",
+            "district": "",
+            "latitude": "30.39447",
+            "longitude": "31.039337",
+            "zoom": "20"
+        },
+        {
+            "id": "nX4AFOR3nnKXyVYMxfZD",
+            "name": "October ATM 1",
+            "district": "",
+            "latitude": "29.971308",
+            "longitude": "30.941836",
+            "zoom": "20"
+        },
+        {
+            "id": "nkKJpMDrKUNmQDWYTa5n",
+            "name": "Saudi Arabian Embassy",
+            "district": "",
+            "latitude": "31.939",
+            "longitude": "35.889",
+            "zoom": "20"
+        },
+        {
+            "id": "nuBDN8jt9vUaakzEDzfe",
+            "name": "Jerash",
+            "district": "",
+            "latitude": "32.277001",
+            "longitude": "35.89449",
+            "zoom": "20"
+        },
+        {
+            "id": "o2BZ5lmxYfFABrx4HFjO",
+            "name": "Farah Hospital",
+            "district": "",
+            "latitude": "31.951566",
+            "longitude": "35.906434",
+            "zoom": "20"
+        },
+        {
+            "id": "o3K6JN6c8LHmZAbKpEyx",
+            "name": "10TH OF RAMADAN BRANCH",
+            "district": "",
+            "latitude": "30.276546",
+            "longitude": "31.750452",
+            "zoom": "20"
+        },
+        {
+            "id": "o3MNpRyDVoEzxrgNa7hs",
+            "name": "Aqaba",
+            "district": "",
+            "latitude": "29.559",
+            "longitude": "35.004",
+            "zoom": "20"
+        },
+        {
+            "id": "oD1ugYT2AceLYPSGTJBb",
+            "name": "Ain Al-Basha",
+            "district": "",
+            "latitude": "32.0537414",
+            "longitude": "35.8340969",
+            "zoom": "20"
+        },
+        {
+            "id": "oSTUtneuP3joWBnL5C5G",
+            "name": "Jawwal Company Headquarters",
+            "district": "",
+            "latitude": "31.928217",
+            "longitude": "35.214894",
+            "zoom": "20"
+        },
+        {
+            "id": "ocrR2eJDbofnlna7ApW4",
+            "name": "Irbid Huson",
+            "district": "",
+            "latitude": "32.482488",
+            "longitude": "35.885054",
+            "zoom": "20"
+        },
+        {
+            "id": "oluLnouVJeRLNciGL6lT",
+            "name": "MISR DUTY FREE SHOP",
+            "district": "",
+            "latitude": "30.047031",
+            "longitude": "31.196028",
+            "zoom": "20"
+        },
+        {
+            "id": "ooMjNXvWJZw4Dm4IArNB",
+            "name": "Dura Municipality ",
+            "district": "",
+            "latitude": "31.30274",
+            "longitude": "35.01506",
+            "zoom": "20"
+        },
+        {
+            "id": "otAxRwbMXsFuAY7Inmi6",
+            "name": "TOSHIBA BANHA",
+            "district": "",
+            "latitude": "30.453085",
+            "longitude": "31.19603",
+            "zoom": "20"
+        },
+        {
+            "id": "otvMplP1gROi885HkfIh",
+            "name": "Ashrafieh",
+            "district": "",
+            "latitude": "31.940617",
+            "longitude": "35.938348",
+            "zoom": "20"
+        },
+        {
+            "id": "p0A8G4X7ewrthq46Jj3q",
+            "name": "Al Rimal",
+            "district": "",
+            "latitude": "31.519709",
+            "longitude": "34.445379",
+            "zoom": "20"
+        },
+        {
+            "id": "p6T1j2xW6rKmEqYl3FVC",
+            "name": "Irbid Eidoun 2",
+            "district": "",
+            "latitude": "32.533613",
+            "longitude": "35.852224",
+            "zoom": "20"
+        },
+        {
+            "id": "pAio49H4JwThWtp0NvB1",
+            "name": "TOSHIBA COMPANY",
+            "district": "",
+            "latitude": "30.060993",
+            "longitude": "31.2812",
+            "zoom": "20"
+        },
+        {
+            "id": "pQiW2xwAxitIicXSFN14",
+            "name": "Asira Shamalia",
+            "district": "",
+            "latitude": "32.250591",
+            "longitude": "35.26695",
+            "zoom": "20"
+        },
+        {
+            "id": "pdKxw6tyOFeJHefh1CKW",
+            "name": "ALEXANDRIA CITY CENTRE",
+            "district": "",
+            "latitude": "31.166608",
+            "longitude": "29.933383",
+            "zoom": "20"
+        },
+        {
+            "id": "q35KfO9umzgMuhOfnqqE",
+            "name": "Manaseer University Street",
+            "district": "",
+            "latitude": "32.021412",
+            "longitude": "35.861108",
+            "zoom": "20"
+        },
+        {
+            "id": "qBKh9Opc9P7o09nZyx7Y",
+            "name": "Shaheed Street",
+            "district": "",
+            "latitude": "31.98666",
+            "longitude": "35.899034",
+            "zoom": "20"
+        },
+        {
+            "id": "qQBT3NzsqTXssYY8Unnx",
+            "name": "Quweismeh",
+            "district": "",
+            "latitude": "31.918187",
+            "longitude": "35.948341",
+            "zoom": "20"
+        },
+        {
+            "id": "qjcPWbB6RxM4cmF9lZae",
+            "name": "Dar El fouad Nasr City",
+            "district": "",
+            "latitude": "30.0657792",
+            "longitude": "31.3195881",
+            "zoom": "20"
+        },
+        {
+            "id": "qoeWmBeuF57k2tFbqVHM",
+            "name": "Care well Center ",
+            "district": "",
+            "latitude": "31.9484909",
+            "longitude": "35.8695195",
+            "zoom": "20"
+        },
+        {
+            "id": "quS6w7EnLUO0Nt5KZBcC",
+            "name": "Wadi Abdoun",
+            "district": "",
+            "latitude": "31.955",
+            "longitude": "35.884",
+            "zoom": "20"
+        },
+        {
+            "id": "r1tKHzxkxmgzwHCAfq0H",
+            "name": "NASR CITY  BRANCH ",
+            "district": "",
+            "latitude": "30.06304",
+            "longitude": "31.343596",
+            "zoom": "20"
+        },
+        {
+            "id": "r5sAOiF4TykyeZruSvvx",
+            "name": "Circle K EL sherouk",
+            "district": "",
+            "latitude": "30.151043",
+            "longitude": "31.60396",
+            "zoom": "20"
+        },
+        {
+            "id": "rNhCh4TudkjXtjjwIQHF",
+            "name": "Zezinia branch",
+            "district": "",
+            "latitude": "31.24051",
+            "longitude": "29.96362",
+            "zoom": "20"
+        },
+        {
+            "id": "rYqT8jrFyhAY4t9xk6P7",
+            "name": "TOTAL SHEROUK",
+            "district": "",
+            "latitude": "30.169134",
+            "longitude": "31.602217",
+            "zoom": "20"
+        },
+        {
+            "id": "rkLqDY2hPrIbG6dLGT96",
+            "name": "Cozmo",
+            "district": "",
+            "latitude": "31.952413",
+            "longitude": "35.855164",
+            "zoom": "20"
+        },
+        {
+            "id": "s3AhvZZzuMAAUXd4EX1T",
+            "name": "Mazraa",
+            "district": "",
+            "latitude": "33.878483",
+            "longitude": "35.501193",
+            "zoom": "20"
+        },
+        {
+            "id": "s75YBuXVlHTP6VTMbsHR",
+            "name": "Total Al-Zarqa Drive-Thru ATM",
+            "district": "",
+            "latitude": "32.0349440466651",
+            "longitude": "36.0914361604797",
+            "zoom": "20"
+        },
+        {
+            "id": "sBn0y67Y9IzEMLWYjHW6",
+            "name": "Anabta",
+            "district": "",
+            "latitude": "32.307347",
+            "longitude": "35.116982",
+            "zoom": "20"
+        },
+        {
+            "id": "snDmbknQIoG7FeUFuWG9",
+            "name": "Egyption Language school October",
+            "district": "",
+            "latitude": "29.957273",
+            "longitude": "30.9320658",
+            "zoom": "20"
+        },
+        {
+            "id": "stccyU31zOxs9SWLaVDt",
+            "name": "Yatta Branch",
+            "district": "",
+            "latitude": "31.457",
+            "longitude": "35.11",
+            "zoom": "20"
+        },
+        {
+            "id": "syUPOeeam7L3MNQfw728",
+            "name": "Dahiet Al-Rasheed",
+            "district": "",
+            "latitude": "32.005",
+            "longitude": "35.88",
+            "zoom": "20"
+        },
+        {
+            "id": "t3XScI0JxWwxCaJTu406",
+            "name": "Tubas branch ",
+            "district": "",
+            "latitude": "32.318842",
+            "longitude": "35.372068",
+            "zoom": "20"
+        },
+        {
+            "id": "tACDawoHPo8VztDcTGBG",
+            "name": "OBOUR BRANCH",
+            "district": "",
+            "latitude": "30.176727",
+            "longitude": "31.474472",
+            "zoom": "20"
+        },
+        {
+            "id": "tNVseTZFeI8t9IgFoBow",
+            "name": "Jopetrol Al-Zubi Gas Station",
+            "district": "",
+            "latitude": "32.610417",
+            "longitude": "35.862028",
+            "zoom": "20"
+        },
+        {
+            "id": "tWXlQzayHk6BF5IswFNL",
+            "name": "Petra University",
+            "district": "",
+            "latitude": "31.893837",
+            "longitude": "35.871842",
+            "zoom": "20"
+        },
+        {
+            "id": "tYAUuCprWT2Pi2b8HDAT",
+            "name": "Circle K Zayed",
+            "district": "",
+            "latitude": "30.015923",
+            "longitude": "30.974653",
+            "zoom": "20"
+        },
+        {
+            "id": "tg7qQp68mAmr8MbEw1hk",
+            "name": "Saida ",
+            "district": "",
+            "latitude": "33.562459",
+            "longitude": "35.373812",
+            "zoom": "20"
+        },
+        {
+            "id": "to3U6vL3NfuujMwnm1gZ",
+            "name": "Al bireh branch 2",
+            "district": "",
+            "latitude": "31.906707",
+            "longitude": "35.210892",
+            "zoom": "20"
+        },
+        {
+            "id": "tqS0fGlV4Uk355C05xYZ",
+            "name": "Al-Rayyan branch/Drive Thru ATM",
+            "district": "",
+            "latitude": "32.02882",
+            "longitude": "35.86724",
+            "zoom": "20"
+        },
+        {
+            "id": "uGfPHkMfQpmGeNvGQCB5",
+            "name": "Jadara Uni",
+            "district": "",
+            "latitude": "32.423",
+            "longitude": "35.949",
+            "zoom": "20"
+        },
+        {
+            "id": "uHu6Y7XZSc6h2h4jOM9Y",
+            "name": "Huwara",
+            "district": "",
+            "latitude": "32.153216",
+            "longitude": "35.258946",
+            "zoom": "20"
+        },
+        {
+            "id": "uQdFohuriIiQMY3P3BCb",
+            "name": "Al-Asaily Mall",
+            "district": "",
+            "latitude": "31.531859",
+            "longitude": "35.098019",
+            "zoom": "20"
+        },
+        {
+            "id": "ulMB1D2LSqhCqHqpDSdm",
+            "name": "Wehdat Branch",
+            "district": "",
+            "latitude": "31.931029",
+            "longitude": "35.934223",
+            "zoom": "20"
+        },
+        {
+            "id": "um9YQ8FpIQu3S4zgzeYj",
+            "name": "Kempinski Hotel",
+            "district": "",
+            "latitude": "31.968052",
+            "longitude": "35.897001",
+            "zoom": "20"
+        },
+        {
+            "id": "uqBQOUX6vJLFHk6yCbNf",
+            "name": "Mariachi Restaurant",
+            "district": "",
+            "latitude": "31.704",
+            "longitude": "35.20247",
+            "zoom": "20"
+        },
+        {
+            "id": "v2pCBfYlErC2eDrWrXXt",
+            "name": "Sanaa Trading Center (Libyan Center)",
+            "district": "",
+            "latitude": "15.335263",
+            "longitude": "44.183348",
+            "zoom": "20"
+        },
+        {
+            "id": "v78oE1jDMmT5OrIKVS0H",
+            "name": "Palestine Street",
+            "district": "",
+            "latitude": "32.5548192",
+            "longitude": "35.8460287",
+            "zoom": "20"
+        },
+        {
+            "id": "vLgGkYw6GYbsJxy6sJAi",
+            "name": "TAHRIR BRANCH ",
+            "district": "",
+            "latitude": "30.039257",
+            "longitude": "31.215792",
+            "zoom": "20"
+        },
+        {
+            "id": "vMhHitAZA9qm0tvHUK1w",
+            "name": "Birzeit",
+            "district": "",
+            "latitude": "31.969175",
+            "longitude": "35.193286",
+            "zoom": "20"
+        },
+        {
+            "id": "vNdclN44O2JWecboTqrB",
+            "name": "Taiz",
+            "district": "",
+            "latitude": "13.578146",
+            "longitude": "44.011681",
+            "zoom": "20"
+        },
+        {
+            "id": "vPYDiUHlRLFwPtjpya0n",
+            "name": "Manaseer Airport Road",
+            "district": "",
+            "latitude": "31.919444",
+            "longitude": "35.860164",
+            "zoom": "20"
+        },
+        {
+            "id": "vQ67isIY56avUk7zJ06A",
+            "name": "Jounieh",
+            "district": "",
+            "latitude": "31.943",
+            "longitude": "35.866",
+            "zoom": "20"
+        },
+        {
+            "id": "vhyu77YedYK9yp2qFMQJ",
+            "name": "Wadi Musa (ATM Plus)",
+            "district": "",
+            "latitude": "30.321813",
+            "longitude": "35.479891",
+            "zoom": "20"
+        },
+        {
+            "id": "vjpQNJIaYsEoFQIJk6fK",
+            "name": "Nablus Mall ATM",
+            "district": "",
+            "latitude": "32.221642",
+            "longitude": "35.261478",
+            "zoom": "20"
+        },
+        {
+            "id": "vswlh02P3LHArKNlaoi7",
+            "name": "City Mall",
+            "district": "",
+            "latitude": "31.980628",
+            "longitude": "35.838336",
+            "zoom": "20"
+        },
+        {
+            "id": "vyRIgHCB4pblgbnCQ70c",
+            "name": "ALEXANDRIA BRANCH",
+            "district": "",
+            "latitude": "31.240669",
+            "longitude": "29.963678",
+            "zoom": "20"
+        },
+        {
+            "id": "w2wI8GYkh8Hpt0TKR01B",
+            "name": "Bethlehem ",
+            "district": "",
+            "latitude": "31.70766",
+            "longitude": "35.20512",
+            "zoom": "20"
+        },
+        {
+            "id": "wNQuQKhB42ip8pV5k58P",
+            "name": "Paltel",
+            "district": "",
+            "latitude": "32.220153",
+            "longitude": "35.233691",
+            "zoom": "20"
+        },
+        {
+            "id": "wNew2rJFSZl8T4QiPfc3",
+            "name": "Hyundai",
+            "district": "",
+            "latitude": "32.0018369",
+            "longitude": "35.8302496",
+            "zoom": "20"
+        },
+        {
+            "id": "wds7NmCQ7O10w6n4N7iy",
+            "name": "Fifth Circle",
+            "district": "",
+            "latitude": "31.961352",
+            "longitude": "35.879197",
+            "zoom": "20"
+        },
+        {
+            "id": "wmXz0SOmsXQ1bKBtAecT",
+            "name": "Rafidia ",
+            "district": "",
+            "latitude": "32.223258",
+            "longitude": "35.234989",
+            "zoom": "20"
+        },
+        {
+            "id": "xCj84Fu62YaCuejZmj2Y",
+            "name": "Azoon",
+            "district": "",
+            "latitude": "32.1767403",
+            "longitude": "35.058386",
+            "zoom": "20"
+        },
+        {
+            "id": "xLdRLF0utuu99I59gWFI",
+            "name": "GALLERIA 40 MALL",
+            "district": "",
+            "latitude": "30.0166691",
+            "longitude": "31.0007374",
+            "zoom": "20"
+        },
+        {
+            "id": "xQWXZUmcjWBIInUc58f7",
+            "name": "Nablus Branch ATM",
+            "district": "",
+            "latitude": "32.221524",
+            "longitude": "35.260717",
+            "zoom": "20"
+        },
+        {
+            "id": "xoWSMRwyOYHpqd2URGwm",
+            "name": "ROXY BRANCH",
+            "district": "",
+            "latitude": "30.089411",
+            "longitude": "31.311098",
+            "zoom": "20"
+        },
+        {
+            "id": "y1YwSjMTH3Zm6qOvw8uM",
+            "name": "EBIC - ORASCOM",
+            "district": "",
+            "latitude": "29.632883",
+            "longitude": "32.297314",
+            "zoom": "20"
+        },
+        {
+            "id": "y1hfxaPUmZNfSWC9y5xx",
+            "name": "Tharwa Company",
+            "district": "",
+            "latitude": "30.01759",
+            "longitude": "31.413918",
+            "zoom": "20"
+        },
+        {
+            "id": "yB5uaIjlgxBiRQh1BT2l",
+            "name": "Beni Naeem",
+            "district": "",
+            "latitude": "31.5164599",
+            "longitude": "35.1636901",
+            "zoom": "20"
+        },
+        {
+            "id": "yM5bbhYid1SLK7ZRxr85",
+            "name": "MOKATTAM BRANCH",
+            "district": "",
+            "latitude": "30.13334",
+            "longitude": "31.287874",
+            "zoom": "20"
+        },
+        {
+            "id": "yVTWdJ8rvnLzQ1wOVgGM",
+            "name": "Petrol Refinery",
+            "district": "",
+            "latitude": "32.118902",
+            "longitude": "36.112388",
+            "zoom": "20"
+        },
+        {
+            "id": "yY9eY6Eh5VTqOzS8G5zq",
+            "name": "Khadouri",
+            "district": "",
+            "latitude": "32.524129",
+            "longitude": "35.038028",
+            "zoom": "20"
+        },
+        {
+            "id": "yi7BHaa7cM8zjKPeG2e3",
+            "name": "Hamra ",
+            "district": "",
+            "latitude": "33.89661",
+            "longitude": "35.480862",
+            "zoom": "20"
+        },
+        {
+            "id": "zMOmIUecosw5UWgnOSTQ",
+            "name": "IDEAL STANDARD 2",
+            "district": "",
+            "latitude": "30.301949",
+            "longitude": "31.740396",
+            "zoom": "20"
+        },
+        {
+            "id": "zR9QJ1h0VkF9EdZsr414",
+            "name": "Dabouq Branch",
+            "district": "",
+            "latitude": "31.994938",
+            "longitude": "35.813026",
+            "zoom": "20"
+        },
+        {
+            "id": "zRNnlkXE9QX2Fh7j63ZF",
+            "name": "PET Factory",
+            "district": "",
+            "latitude": "30.295555",
+            "longitude": "31.777222",
+            "zoom": "20"
+        },
+        {
+            "id": "zSBJAp6L8rcZLJne2QKc",
+            "name": "Seven Coffee House Drive-Thru ATM",
+            "district": "",
+            "latitude": "32.0025511784453",
+            "longitude": "35.8311109962189",
+            "zoom": "20"
+        },
+        {
+            "id": "zVesKCTXZlkRraiimJAH",
+            "name": "American University",
+            "district": "",
+            "latitude": "32.4053",
+            "longitude": "35.342",
+            "zoom": "20"
+        },
+        {
+            "id": "zeMdM0LsIuXpPgXSq8j6",
+            "name": "Tripoli",
+            "district": "",
+            "latitude": "34.437",
+            "longitude": "35.836",
+            "zoom": "20"
+        },
+        {
+            "id": "zgvBPileF5yh7JrMREXB",
+            "name": "Manaseer Irbid",
+            "district": "",
+            "latitude": "32.54419",
+            "longitude": "35.858533",
+            "zoom": "20"
+        },
+        {
+            "id": "0brwd78P49GyCNZQmF3Y",
+            "name": "ENOC – Dubai Hill",
+            "district": "",
+            "latitude": "25.089917",
+            "longitude": "55.252",
+            "zoom": "20"
+        },
+        {
+            "id": "0bw9eY90hw55RZk1vn6S",
+            "name": "City Center Ajman",
+            "district": "",
+            "latitude": "25.4",
+            "longitude": "55.479",
+            "zoom": "20"
+        },
+        {
+            "id": "1O22LRyp8PMpqn0lOZoT",
+            "name": "City Centre Me’aisem ",
+            "district": "",
+            "latitude": "25.040353",
+            "longitude": "55.196833",
+            "zoom": "20"
+        },
+        {
+            "id": "1l6fuuBBKWggV17dvMqP",
+            "name": "Seef",
+            "district": "",
+            "latitude": "26.237",
+            "longitude": "50.543",
+            "zoom": "20"
+        },
+        {
+            "id": "2jCO5tMO409GbLB1Zpai",
+            "name": "Sahara Centre",
+            "district": "",
+            "latitude": "25.298096",
+            "longitude": "55.373981",
+            "zoom": "20"
+        },
+        {
+            "id": "3RxnK474Z5DZP2Wjvu88",
+            "name": "Abu Dhabi Branch",
+            "district": "",
+            "latitude": "24.483529",
+            "longitude": "54.353306",
+            "zoom": "20"
+        },
+        {
+            "id": "4uk8DLpZ8rb44vxFbZvp",
+            "name": "Al Zahiyah Branch - BNA",
+            "district": "",
+            "latitude": "24.495341",
+            "longitude": "54.376176",
+            "zoom": "20"
+        },
+        {
+            "id": "638hHAFiW0xpA7PugPDY",
+            "name": "Abu Dhabi Branch - BNA",
+            "district": "",
+            "latitude": "24.483529",
+            "longitude": "54.353306",
+            "zoom": "20"
+        },
+        {
+            "id": "7N5AFUcKhFA7cohQxixu",
+            "name": "Doha Branch",
+            "district": "",
+            "latitude": "25.282114",
+            "longitude": "51.535653",
+            "zoom": "20"
+        },
+        {
+            "id": "89tf0vScJvEZpcCWqiSG",
+            "name": "Al-Ain Branch - BNA",
+            "district": "",
+            "latitude": "24.221719",
+            "longitude": "55.758532",
+            "zoom": "20"
+        },
+        {
+            "id": "8Ij69z77uP47T7I5NttF",
+            "name": "Dalma Mall ",
+            "district": "",
+            "latitude": "24.3331427",
+            "longitude": "54.5239257",
+            "zoom": "20"
+        },
+        {
+            "id": "9DHVzcRSuhJVeVnkLKE4",
+            "name": "Deira Branch",
+            "district": "",
+            "latitude": "25.258105",
+            "longitude": "55.321354",
+            "zoom": "20"
+        },
+        {
+            "id": "AKZx6tSL0MXk1daTfIjO",
+            "name": "Souk Extra Silicon Oasis ",
+            "district": "",
+            "latitude": "25.119",
+            "longitude": "55.396",
+            "zoom": "20"
+        },
+        {
+            "id": "AjDX0lFB1H0kVgVYrxjN",
+            "name": "Manama",
+            "district": "",
+            "latitude": "26.240966",
+            "longitude": "50.588586",
+            "zoom": "20"
+        },
+        {
+            "id": "D2E5w3tN3VVDrM8Grdi5",
+            "name": "Ibn Batuta Mall ATM",
+            "district": "",
+            "latitude": "25.045",
+            "longitude": "55.12",
+            "zoom": "20"
+        },
+        {
+            "id": "H8NraZfRmqjnQBxuiAst",
+            "name": "Dubai Airport Terminal 2",
+            "district": "",
+            "latitude": "25.267545",
+            "longitude": "55.356",
+            "zoom": "20"
+        },
+        {
+            "id": "HAikIlUfSGZ4mkhhwF1s",
+            "name": "Mega Mall",
+            "district": "",
+            "latitude": "25.344706",
+            "longitude": "55.398765",
+            "zoom": "20"
+        },
+        {
+            "id": "HRKjQC7xunBuMgC19Oek",
+            "name": "Springs Mall",
+            "district": "",
+            "latitude": "25.066321",
+            "longitude": "55.192197",
+            "zoom": "20"
+        },
+        {
+            "id": "JOyhE1XSy52xejhZEXr2",
+            "name": "ENOC 1035 ATM",
+            "district": "",
+            "latitude": "25.1695425779485",
+            "longitude": "55.2153613198973",
+            "zoom": "20"
+        },
+        {
+            "id": "Ja92NM0OSdL9CHYYPyuZ",
+            "name": "City Center Mirdiff",
+            "district": "",
+            "latitude": "25.217",
+            "longitude": "55.408",
+            "zoom": "20"
+        },
+        {
+            "id": "LhOImsc8hq0JcuXwSNCU",
+            "name": "Sheikh Zayed Road Branch",
+            "district": "",
+            "latitude": "25.130826",
+            "longitude": "55.21095",
+            "zoom": "20"
+        },
+        {
+            "id": "NBnjsrKDsX0prAYeT7r7",
+            "name": "Al Manar Center",
+            "district": "",
+            "latitude": "25.785",
+            "longitude": "55.966",
+            "zoom": "20"
+        },
+        {
+            "id": "OEVLqFjJBIdoM6G9Gppa",
+            "name": "Dubai Hills Mall ATM",
+            "district": "",
+            "latitude": "25.1019069051691",
+            "longitude": "55.2399265597169",
+            "zoom": "20"
+        },
+        {
+            "id": "OFoPiydS3dlxKxudVgd3",
+            "name": "Mukalaa ",
+            "district": "",
+            "latitude": "14.534725",
+            "longitude": "49.125575",
+            "zoom": "20"
+        },
+        {
+            "id": "PiyaZce3bLSbE2PeeaDe",
+            "name": "Sheikh Zayed Road Branch - BNA",
+            "district": "",
+            "latitude": "25.130826",
+            "longitude": "55.21095",
+            "zoom": "20"
+        },
+        {
+            "id": "SZKSn4RZmXxaZqqYfPL3",
+            "name": "Salwa Branch",
+            "district": "",
+            "latitude": "25.251024",
+            "longitude": "51.473847",
+            "zoom": "20"
+        },
+        {
+            "id": "Tpno2kuyKIUwBxrfbrRb",
+            "name": "Dubai Branch - BNA",
+            "district": "",
+            "latitude": "25.258105",
+            "longitude": "55.321354",
+            "zoom": "20"
+        },
+        {
+            "id": "UJLLwH7x37cL65YpXrJD",
+            "name": "Riffa",
+            "district": "",
+            "latitude": "26.141389",
+            "longitude": "50.579255",
+            "zoom": "20"
+        },
+        {
+            "id": "UZOwc5RuFsXf6aW6zZyE",
+            "name": "Carrefour ",
+            "district": "",
+            "latitude": "24.423401",
+            "longitude": "54.451957",
+            "zoom": "20"
+        },
+        {
+            "id": "VBSKGY44QmlVcBxDQyZ7",
+            "name": "Mall of the Emirates ",
+            "district": "",
+            "latitude": "25.11802",
+            "longitude": "55.200476",
+            "zoom": "20"
+        },
+        {
+            "id": "VmY2zVnnkFtuRo7PI6tE",
+            "name": "Marina Mall",
+            "district": "",
+            "latitude": "24.476",
+            "longitude": "54.321",
+            "zoom": "20"
+        },
+        {
+            "id": "VytnwMq7HdUNcP3nK8Uj",
+            "name": "Roxy Cinema - JBR",
+            "district": "",
+            "latitude": "25.078",
+            "longitude": "55.132",
+            "zoom": "20"
+        },
+        {
+            "id": "XQ0j2ZFHcWU03aSsiT0f",
+            "name": "Matajer Al Khan",
+            "district": "",
+            "latitude": "25.318",
+            "longitude": "55.378",
+            "zoom": "20"
+        },
+        {
+            "id": "Xl08lT1xCRumoyeyMaGJ",
+            "name": "The Dubai Mall Food Court",
+            "district": "",
+            "latitude": "25.197",
+            "longitude": "55.279",
+            "zoom": "20"
+        },
+        {
+            "id": "YsVWqM7myLptZ73Nr4yV",
+            "name": "Al Ansari Exchange",
+            "district": "",
+            "latitude": "24.489701",
+            "longitude": "54.368274",
+            "zoom": "20"
+        },
+        {
+            "id": "YzMA1CqMvoeR4SIhp23M",
+            "name": "EPCCO Gas Station",
+            "district": "",
+            "latitude": "25.261938",
+            "longitude": "55.332479",
+            "zoom": "20"
+        },
+        {
+            "id": "YztH4hCXjIMutf4jQnM2",
+            "name": "Business Bay Branch - BNA",
+            "district": "",
+            "latitude": "25.192096",
+            "longitude": "55.262058",
+            "zoom": "20"
+        },
+        {
+            "id": "Z4igqQaoHqOn1PjenOri",
+            "name": "Meadows Village",
+            "district": "",
+            "latitude": "25.0637",
+            "longitude": "55.1573",
+            "zoom": "20"
+        },
+        {
+            "id": "ZWXHCqHUXbPkygLNxkGQ",
+            "name": "The Market Mall - Green Community",
+            "district": "",
+            "latitude": "25.004756",
+            "longitude": "55.164789",
+            "zoom": "20"
+        },
+        {
+            "id": "ZvgR8euj6JvSYDc6ebaw",
+            "name": "Ranches Souk ATM",
+            "district": "",
+            "latitude": "25.0459787",
+            "longitude": "55.2385485",
+            "zoom": "20"
+        },
+        {
+            "id": "aAHxMQ1q3pFPvl7htTh3",
+            "name": "AL Safeer Mall - Ajman",
+            "district": "",
+            "latitude": "25.39",
+            "longitude": "55.445",
+            "zoom": "20"
+        },
+        {
+            "id": "gC5HtFzFx0NcA4eB3WqS",
+            "name": "Jordanian Consulate",
+            "district": "",
+            "latitude": "25.254",
+            "longitude": "55.308",
+            "zoom": "20"
+        },
+        {
+            "id": "hQfnY1wQw87Tmm1axAg9",
+            "name": "Emaar Square",
+            "district": "",
+            "latitude": "25.201",
+            "longitude": "55.272",
+            "zoom": "20"
+        },
+        {
+            "id": "if6apw4GE9YN4deVWOCc",
+            "name": "Arab Company for Shared Services ",
+            "district": "",
+            "latitude": "25.127477",
+            "longitude": "55.428075",
+            "zoom": "20"
+        },
+        {
+            "id": "kK0DVz69JZeTz3s0VSoJ",
+            "name": "ENOC JVC",
+            "district": "",
+            "latitude": "25.0626857",
+            "longitude": "55.2044474",
+            "zoom": "20"
+        },
+        {
+            "id": "kYdN13lwtmoG29EYrqtY",
+            "name": "Jordanian Embassy",
+            "district": "",
+            "latitude": "24.426409",
+            "longitude": "54.431028",
+            "zoom": "20"
+        },
+        {
+            "id": "lijIV5nBcQLTE9zBGerF",
+            "name": "Al-Ain Mall",
+            "district": "",
+            "latitude": "24.222",
+            "longitude": "55.782",
+            "zoom": "20"
+        },
+        {
+            "id": "oetFPtD0yT8uC7miU0rm",
+            "name": "Wahda Mall ATM",
+            "district": "",
+            "latitude": "24.469685",
+            "longitude": "54.372438",
+            "zoom": "20"
+        },
+        {
+            "id": "pY4R3d7JN71NrUXrFwVU",
+            "name": "National Charity School",
+            "district": "",
+            "latitude": "25.238562",
+            "longitude": "55.345808",
+            "zoom": "20"
+        },
+        {
+            "id": "r7EqrZ46DCUSjLEgc3ji",
+            "name": "Aden",
+            "district": "",
+            "latitude": "12.791515",
+            "longitude": "45.004372",
+            "zoom": "20"
+        },
+        {
+            "id": "s5hc0seVCNGP4BLsdUnd",
+            "name": "Hamad Town",
+            "district": "",
+            "latitude": "26.149",
+            "longitude": "50.487",
+            "zoom": "20"
+        },
+        {
+            "id": "s8wK9n8cc6VQNEBpjCeJ",
+            "name": "Ras AlKhaima Branch - BNA",
+            "district": "",
+            "latitude": "25.795198",
+            "longitude": "55.970382",
+            "zoom": "20"
+        },
+        {
+            "id": "sVvjwPxCH1HmmVKV61NE",
+            "name": "Doha Festival City",
+            "district": "",
+            "latitude": "25.386346",
+            "longitude": "51.44184",
+            "zoom": "20"
+        },
+        {
+            "id": "vvXf3gKd5ebQWwMA1zkk",
+            "name": "Yas Mall ",
+            "district": "",
+            "latitude": "24.4884556",
+            "longitude": "54.6087162",
+            "zoom": "20"
+        },
+        {
+            "id": "xD3A6rXV3946JihnEIOj",
+            "name": "Dubai Mall",
+            "district": "",
+            "latitude": "25.197054",
+            "longitude": "55.279115",
+            "zoom": "20"
+        },
+        {
+            "id": "zgegTlPngUw2I8UsrIp4",
+            "name": "Sharjah Branch - BNA",
+            "district": "",
+            "latitude": "25.336307",
+            "longitude": "55.375641",
+            "zoom": "20"
+        }
+    ]
+}

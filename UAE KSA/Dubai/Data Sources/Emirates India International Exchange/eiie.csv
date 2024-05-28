@@ -1,0 +1,56 @@
+d/__type,d/ID,d/Name,d/lat,d/lng,d/Address,d/Area,d/City,d/CBEmiratesCode
+BranchLocator,3,AL AIN,24.221505,55.769989,"Sehmi Jaber Al Ahbabi Bldg.,
+Near Al Ain Co-Operative Socity,
+Al Ain, U.A.E",ABU DHABI,AL AIN,A
+BranchLocator,37,AL WAHDA,24.470594,54.372178,"Shop No. 263, 1st Floor, Al Wahda Mall, Hazza Bin Zayed St, Old Airport",ABU DHABI,ABU DHABI,A
+BranchLocator,44,HAMEEM,24.155493,54.424972,"Shop No. GF 104, Al Dhafra Mall, Abu Dhabi",ABU DHABI,ABU DHABI,A
+BranchLocator,25,MADINAT ZAYED,23.659526,53.727593,"New Industrial Area, Sannyah, Next to JASS supermarket, Madinat Zayed (Badazayed)",ABU DHABI,ABU DHABI,A
+BranchLocator,38,MAFRAQ CENTRE,24.258503,54.625566,"Shop No. 124, Ground Floor, Mafraq Centre, China Camp, Workers City 2, Al Mafraq, Abu Dhabi, UAE.",ABU DHABI,ABU DHABI,A
+BranchLocator,63,MAFRAQ INDUSTRIAL,27.2046  ,77.4977 ,"Mafraq Industrial Area,
+Near Smart Gift Market 
+Abudhabi
+",ABU DHABI,ABU DHABI,A
+BranchLocator,54,MUSAFFAH,24.34458,54.49718,"Musaffah 36, Al madina as sinaiya 1st , Musaffah Abudhabi 20309",ABU DHABI,ABU DHABI,A
+BranchLocator,58,TASAMEEM,24.317173,54.472656,"Tasameem workers city, Musaffah 5 east, Abudhabi",ABU DHABI,ABU DHABI,A
+BranchLocator,32,AL NAHDA,25.297595,55.383415,"Shop No 1, Ground Floor,Al Magrudy Residence, Al Nahda 2nd,Amman Street, Dubai",DUBAI,DUBAI,D
+BranchLocator,36,DIC,24.852405,55.056127,"VILLAGE NO. 1A , SOUK NO. 02 , SAIH SUHAIB STREET. 2 , DUBAI INDUSTRIAL CITY , DUBAI",DUBAI,DUBAI,D
+BranchLocator,43,DIP,24.976768,55.201245,"Pasons Hyper Market. Fakhree Building, Shop No-05 Dubai Investment Park Second-Dubai, U.A.E",DUBAI,DUBAI,D
+BranchLocator,21,DRY DOCKS,25.041912965425848,55.18190681835079,Drydocks World Dubai Accommodation – Gate A - “S” Block bldg – Jumeira 1 Area.,DUBAI,DUBAI,D
+BranchLocator,53,DUBAI SOUTH,24.886129,55.123021,"Shop No 5, Sakany Retail, Sakani Dubai",DUBAI,DUBAI,D
+BranchLocator,39,FRIJ MURAR,25.275526,55.308954,"Shop No. 13, Ground Floor, Zarooni Building, Al Mararr Area, Deira, Dubai, UAE.",DUBAI,DUBAI,D
+BranchLocator,45,GRAND HYPER,25.00986,55.112407,"Shop no. 5 & 6 , Grand hyper , Jebel Ali",DUBAI,JEBEL ALI,D
+BranchLocator,12,JEBEL ALI,25.005792,55.103643,"Shop No.44, Mezzanine Floor, Jabel Ali Mall,
+Near PARCO, Jabel Ali industrial Area, 
+Jabel Ali, Dubai, U.A.E",DUBAI,DUBAI,D
+BranchLocator,14,KARAMA,25.245347,55.300283,"Khalifa Thani Al Tayer Bldg.,
+Opp. Sunrise Super Market, 
+Al Karama, Dubai, U.A.E",DUBAI,DUBAI,D
+BranchLocator,19,SATWA,25.234109,55.278036,"Fatma Abdullah Bakheet Al Suwaidi Bldg.,
+Opp. Fakkri Center, Near Satwa Roundabout,
+Satwa, Dubai, U.A.E",DUBAI,DUBAI,D
+BranchLocator,52,SONAPUR MANGO,25.273435,55.428337,"Shop No 4, Hassan Rashed Al Abbar Bldg, Same building with Sonapur Mango Super Market, Sonapur",DUBAI,DUBAI,D
+BranchLocator,49,TALAL MALL,24.996639,55.142203,"G05, Al Bateel Mall, Jebel Ali First, Dubai, UAE",DUBAI,JEBEL ALI,D
+BranchLocator,55,DIBBA,25.6003868,56.2695982,"Shop no 1, Ground floor, Safeer Mall, Hamad Bin Abdulla Road, Dibba, Fujairah",SHARJAH & NORTHERN EMIRATES,DIBBA,F
+BranchLocator,2,AJMAN,25.411258,55.443589,"SHOP NO 6 &7,Geepas Bldng,P.B. No. 5271,Humaid Bin Abdul Aziz Street,
+Opp.Mashreq Bank
+,Ajman, U.A.E",SHARJAH & NORTHERN EMIRATES,AJMAN,J
+BranchLocator,56,AJMAN NESTO,25.378714,55.463255,"Shop no. 3, ground floor, Fathima Building Amman Street Ajman Sanaya Ajman City",SHARJAH & NORTHERN EMIRATES,AJMAN,J
+BranchLocator,23,RAKIA,25.653329,55.786366,"Opposite Mabani steel,
+Next to Madina Supermarket,
+Al Hamra/Al Jazeera,
+RAK Investment Authority, RAK, U.A.E",SHARJAH & NORTHERN EMIRATES,RAS AL KHAIMAH,R
+BranchLocator,18,RAS AL KHAIMAH,25.795348,55.972656,"Sony Building, Opp. Post office,
+Al Nakheel, RAK, U.A.E",SHARJAH & NORTHERN EMIRATES,RAS AL KHAIMAH,R
+BranchLocator,57,AL KHAN NESTO,25.6004,56.269598,"Shop no. 2 Ground floor, Nesto Hypermarket Al Khan Street Al Majaz 3 Sharjah",SHARJAH & NORTHERN EMIRATES,SHARJAH,S
+BranchLocator,42,GRAND MALL,25.354255,55.395347,"Shop No 1,2 , Ground Floor, Grand Mall Sharjah, Plot no. 113, Al Musalla, Ibrahim Mohammed Al Medfa’a Street, Al Gharb area, Sharjah, UAE.",SHARJAH & NORTHERN EMIRATES,SHARJAH,S
+BranchLocator,15,KHORFAKKAN,25.34835,56.348612,"Sh.Khalid St., Opp. Khorfakkan Post Office,
+Al Rafa'a, Khorfakkan, 
+Sharjah, U.A.E",SHARJAH & NORTHERN EMIRATES,SHARJAH,S
+BranchLocator,31,SAIF-ZONE,25.334005,55.49231,"SAIF Shop A11-01, SAIF-Zone area, Sharjah, UAE",SHARJAH & NORTHERN EMIRATES,SHARJAH,S
+BranchLocator,24,SAJJA - 1,25.301776,55.632598,"Sajja Industrial Area
+Shop No 6, opp Drake & Scull Intl PJSC",SHARJAH & NORTHERN EMIRATES,SHARJAH,S
+BranchLocator,34,SAJJA - 2,25.33361,55.624012,"Shop No 7
+Building of Mohamed & Ahmed Jassim Al Mahmood,
+Al Sajja Industrial Area-2",SHARJAH & NORTHERN EMIRATES,SHARJAH,S
+BranchLocator,47,SAJJA - 3,25.305934,55.628138,"Shop No 8, near Big Bazaar , Sajaa indl area, Sharjah",SHARJAH & NORTHERN EMIRATES,SHARJAH,S
+BranchLocator,48,UMM AL QUWAIN,25.3542173,55.3952722,"UAQ Senan Hypermarket Branch : Unit No 02, Umm Dearaa, Umm Al Quwain, UAE.",SHARJAH & NORTHERN EMIRATES,UMM AL QUWAIN,U

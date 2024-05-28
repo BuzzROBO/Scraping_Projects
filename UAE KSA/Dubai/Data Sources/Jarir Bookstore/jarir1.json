@@ -1,0 +1,400 @@
+{
+                                            "id": "ed1b6e4f-7143-4d8f-b697-e6edc2bd18e2",
+                                            "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Freem-mall-branch",
+                                            "name": "reem-mall-branch",
+                                            "displayName": "reem-mall-branch",
+                                            "fields": {
+                                                "branchTypeIBMB": {
+                                                    "id": "67e0b4dc-807e-4259-87be-c752085947e7",
+                                                    "url": "\u002Fdata\u002Ffabdropdowns\u002Fbranch-type-ibmb\u002F268100001",
+                                                    "name": "268100001",
+                                                    "displayName": "268100001",
+                                                    "fields": {
+                                                        "DropdownText": {
+                                                            "value": "268100001"
+                                                        },
+                                                        "DropdownValue": {
+                                                            "value": ""
+                                                        }
+                                                    }
+                                                },
+                                                "location": {
+                                                    "id": "46f0f4b2-4611-4f00-838c-d1cac719442e",
+                                                    "url": "\u002Fdata\u002Fbranchlocations\u002Fabudhabi",
+                                                    "name": "AbuDhabi",
+                                                    "displayName": "AbuDhabi",
+                                                    "fields": {
+                                                        "city": {
+                                                            "value": "Abu Dhabi"},
+                                                            "country": {
+                                                                "value": "United Arab Emirates"
+                                                            }
+                                                        }
+                                                    },
+                                                    "branchLocationPinColor": {
+                                                        "value": "Blue"
+                                                    },
+                                                    "latitude": {
+                                                        "value": 24.4898
+                                                    },
+                                                    "longitude": {
+                                                        "value": 54.402
+                                                    },
+                                                    "closeTime": {
+                                                        "value": "1000"
+                                                    },
+                                                    "isAlwaysOpen": {
+                                                        "value": false
+                                                    },
+                                                    "isClosedTemporarily": {
+                                                        "value": false
+                                                    },
+                                                    "offDays": [
+                                                        {
+                                                            "id": "dc6b29c8-1fd9-4d76-b48a-5dcc0ef0a1df",
+                                                            "url": "\u002Fdata\u002Ffabdropdowns\u002Fdays\u002Fsunday",
+                                                            "name": "Sunday",
+                                                            "displayName": "Sunday",
+                                                            "fields": {
+                                                                "DropdownText": {
+                                                                    "value": "Sunday"
+                                                                },
+                                                                "DropdownValue": {
+                                                                    "value": "Sunday"
+                                                                }
+                                                            }
+                                                        }
+                                                    ],
+                                                    "openTime": {
+                                                        "value": "1000"
+                                                    },
+                                                    "disabledFacilities": [
+                                                    ],
+                                                    "facilities": [
+                                                    ],
+                                                    "additionalBranchDetails": {
+                                                        "value": ""
+                                                    },
+                                                    "branchTypes": [
+                                                        {
+                                                            "id": "5436ba34-a79a-49a0-8a48-ae40898ac525",
+                                                            "url": "\u002Fdata\u002Fbranchbankingexperiences\u002Fpersonal",
+                                                            "name": "Personal",
+                                                            "displayName": "Personal",
+                                                            "fields": {
+                                                                "title": {
+                                                                    "value": "Personal Banking"
+                                                                },
+                                                                "typeIcon": {
+                                                                    "value": {
+                                                                    }
+                                                                },
+                                                                "titleTag": null
+                                                            }
+                                                        }
+                                                    ],
+                                                    "link": {
+                                                        "value": ""
+                                                    },
+                                                    "title": {
+                                                        "value": "Reem Mall Branch - Digital branch (no teller services)"
+                                                    },
+                                                    "branchServices": [
+                                                        {
+                                                            "id": "713a4c2b-dd1c-4731-b1dd-605caa440029",
+                                                            "url": "\u002Fdata\u002Fbranchservices\u002Fbranches",
+                                                            "name": "Branches",
+                                                            "displayName": "Branches",
+                                                            "fields": {
+                                                                "serviceTypeIcon": {
+                                                                    "value": {
+                                                                        "src": "https:\u002F\u002Fwww.bankfab.com\u002F-\u002Fmedia\u002Fproject\u002Ffab2\u002Ffab2\u002Fdata\u002Fmedia\u002Fsvgs\u002Ficons\u002Ficon-branch-branch.svg?iar=0&hash=A973EE0EF7F3F161761101D29A55FE23",
+                                                                        "alt": "",
+                                                                        "title": "Branches"
+                                                                    }
+                                                                },
+                                                                "title": {
+                                                                    "value": "Branches"
+                                                                },
+                                                                "titleTag": null
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "e28ef623-b8b9-48d6-91d5-640698359e89",
+                                                            "url": "\u002Fdata\u002Fbranchservices\u002Fatms",
+                                                            "name": "ATMs",
+                                                            "displayName": "ATMs",
+                                                            "fields": {
+                                                                "serviceTypeIcon": {"value": {
+                                                                    "src": "https:\u002F\u002Fwww.bankfab.com\u002F-\u002Fmedia\u002Fproject\u002Ffab2\u002Ffab2\u002Fdata\u002Fmedia\u002Fsvgs\u002Ficons\u002Ficon-branch-atm.svg?iar=0&hash=4F4C9CD5874182278D2733AF2144BBDD",
+                                                                    "alt": "",
+                                                                    "title": "ATM"
+                                                                }
+                                                            },
+                                                            "title": {
+                                                                "value": "ATM"
+                                                            },
+                                                            "titleTag": null
+                                                        }
+                                                    },
+                                                    {
+                                                        "id": "abb53254-8948-42e2-92f1-8fa45562f0e7",
+                                                        "url": "\u002Fdata\u002Fbranchservices\u002Fcash-deposits",
+                                                        "name": "Cash Deposits",
+                                                        "displayName": "Cash Deposits",
+                                                        "fields": {
+                                                            "serviceTypeIcon": {
+                                                                "value": {
+                                                                    "src": "https:\u002F\u002Fwww.bankfab.com\u002F-\u002Fmedia\u002Fproject\u002Ffab2\u002Ffab2\u002Fdata\u002Fmedia\u002Fsvgs\u002Ficons\u002Ficon-branch-cash.svg?iar=0&hash=3A0749CD24A95D03F947C19D480FA47C",
+                                                                    "alt": "",
+                                                                    "title": "Cash Deposits"
+                                                                }
+                                                            },
+                                                            "title": {
+                                                                "value": "Cash Deposits"
+                                                            },
+                                                            "titleTag": null
+                                                        }
+                                                    }
+                                                ],
+                                                "titleTag": null,
+                                                "items": [
+                                                    {
+                                                        "id": "75eef9c2-dbe5-4b74-97b5-6a401f6cd477",
+                                                        "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Freem-mall-branch\u002Fcontacts",
+                                                        "name": "contacts",
+                                                        "displayName": "contacts",
+                                                        "fields": {
+                                                        }
+                                                    },
+                                                    {
+                                                        "id": "e2e04074-74e5-4fd3-b18a-a99b764c9e29",
+                                                        "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Freem-mall-branch\u002Ftimings",
+                                                        "name": "timings",
+                                                        "displayName": "timings",
+                                                        "fields": {
+                                                            "items": [
+                                                                {
+                                                                    "id": "408bc663-4017-4c9c-bbc6-10455d0b0038",
+                                                                    "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Freem-mall-branch\u002Ftimings\u002Fteller-services",
+                                                                    "name": "Teller Services",
+                                                                    "displayName": "Teller Services",
+                                                                    "fields": {
+                                                                        "serviceType": {
+                                                                            "value": "Teller Services"
+                                                                        },
+                                                                        "title": {
+                                                                            "value": "Branch, Cash Deposit and ATM Services"
+                                                                        },
+                                                                        "titleTag": null,
+                                                                        "items": [
+                                                                            {
+                                                                                "id": "1bd5eb83-5f37-4861-be19-2dd5d4b157e8",
+                                                                                "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Freem-mall-branch\u002Ftimings\u002Fteller-services\u002Fmonday---thursday",
+                                                                                "name": "Monday - Thursday",
+                                                                                "displayName": "Monday - Thursday",
+                                                                                "fields": {
+                                                                                    "startTime": {
+                                                                                        "id": "dfd5583c-2514-40e8-808a-026b488bcc54",
+                                                                                        "url": "\u002Fdata\u002Ffabdropdowns\u002Fbranch-timings\u002F1000",
+                                                                                        "name": "1000",
+                                                                                        "displayName": "1000",
+                                                                                        "fields": {
+                                                                                            "DropdownText": {
+                                                                                                "value": "1000"
+                                                                                            },
+                                                                                            "DropdownValue": {
+                                                                                                "value": "1000"
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "endDay": {
+                                                                                        "id": "0da961b0-a397-41a3-8ed6-8a19370ffda4",
+                                                                                        "url": "\u002Fdata\u002Ffabdropdowns\u002Fdays\u002Fthursday",
+                                                                                        "name": "Thursday",
+                                                                                        "displayName": "Thursday",
+                                                                                        "fields": {
+                                                                                            "DropdownText": {
+                                                                                                "value": "Thursday"
+                                                                                            },
+                                                                                            "DropdownValue": {
+                                                                                                "value": "Thursday"
+                                                                                            }}
+                                                                                        },
+                                                                                        "endTime": {
+                                                                                            "id": "e3c41002-0f08-458c-bf41-f27c02cfd594",
+                                                                                            "url": "\u002Fdata\u002Ffabdropdowns\u002Fbranch-timings\u002F2200",
+                                                                                            "name": "2200",
+                                                                                            "displayName": "2200",
+                                                                                            "fields": {
+                                                                                                "DropdownText": {
+                                                                                                    "value": "2200"
+                                                                                                },
+                                                                                                "DropdownValue": {
+                                                                                                    "value": "2200"
+                                                                                                }
+                                                                                            }
+                                                                                        },
+                                                                                        "isClosed": {
+                                                                                            "value": false
+                                                                                        },
+                                                                                        "startDay": {
+                                                                                            "id": "2b99a337-04cd-4c7a-a9e6-bba744ba0904",
+                                                                                            "url": "\u002Fdata\u002Ffabdropdowns\u002Fdays\u002Fmonday",
+                                                                                            "name": "Monday",
+                                                                                            "displayName": "Monday",
+                                                                                            "fields": {
+                                                                                                "DropdownText": {
+                                                                                                    "value": "Monday"
+                                                                                                },
+                                                                                                "DropdownValue": {
+                                                                                                    "value": "Monday"
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                },
+                                                                                {
+                                                                                    "id": "50be278b-f2ed-429a-8760-4c49d56061fb",
+                                                                                    "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Freem-mall-branch\u002Ftimings\u002Fteller-services\u002Ffriday",
+                                                                                    "name": "Friday",
+                                                                                    "displayName": "Friday",
+                                                                                    "fields": {
+                                                                                        "startTime": {
+                                                                                            "id": "bf1524be-bbb4-462d-af4e-80150aca4240",
+                                                                                            "url": "\u002Fdata\u002Ffabdropdowns\u002Fbranch-timings\u002F1600",
+                                                                                            "name": "1600",
+                                                                                            "displayName": "1600",
+                                                                                            "fields": {
+                                                                                                "DropdownText": {
+                                                                                                    "value": "1600"
+                                                                                                },
+                                                                                                "DropdownValue": {
+                                                                                                    "value": "1600"
+                                                                                                }
+                                                                                            }
+                                                                                        },
+                                                                                        "endDay": null,
+                                                                                        "endTime": {
+                                                                                            "id": "e3c41002-0f08-458c-bf41-f27c02cfd594",
+                                                                                            "url": "\u002Fdata\u002Ffabdropdowns\u002Fbranch-timings\u002F2200",
+                                                                                            "name": "2200",
+                                                                                            "displayName": "2200",
+                                                                                            "fields": {
+                                                                                                "DropdownText": {
+                                                                                                    "value": "2200"
+                                                                                                },
+                                                                                                "DropdownValue": {
+                                                                                                    "value": "2200"
+                                                                                                }
+                                                                                            }
+                                                                                        },
+                                                                                        "isClosed": {
+                                                                                            "value": false
+                                                                                        },
+                                                                                        "startDay": {
+                                                                                            "id": "b2d89175-53f5-42a1-8353-16faa5fbec0b",
+                                                                                            "url": "\u002Fdata\u002Ffabdropdowns\u002Fdays\u002Ffriday",
+                                                                                            "name": "Friday",
+                                                                                            "displayName": "Friday",
+                                                                                            "fields": {
+                                                                                                "DropdownText": {
+                                                                                                    "value": "Friday"
+                                                                                                },
+                                                                                                "DropdownValue": {
+                                                                                                    "value": "Friday"
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                },
+                                                                                {
+                                                                                    "id": "2b5cae66-9f41-4273-9e77-ff4f7bc24cf0",
+                                                                                    "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Freem-mall-branch\u002Ftimings\u002Fteller-services\u002Fsaturday",
+                                                                                    "name": "saturday",
+                                                                                    "displayName": "saturday",
+                                                                                    "fields": {
+                                                                                        "startTime": {
+                                                                                            "id": "dfd5583c-2514-40e8-808a-026b488bcc54",
+                                                                                            "url": "\u002Fdata\u002Ffabdropdowns\u002Fbranch-timings\u002F1000",
+                                                                                            "name": "1000",
+                                                                                            "displayName": "1000",
+                                                                                            "fields": {
+                                                                                                "DropdownText": {
+                                                                                                    "value": "1000"
+                                                                                                },
+                                                                                                "DropdownValue": {
+                                                                                                    "value": "1000"
+                                                                                                }
+                                                                                            }
+                                                                                        },
+                                                                                        "endDay": null,
+                                                                                        "endTime": {
+                                                                                            "id": "e3c41002-0f08-458c-bf41-f27c02cfd594",
+                                                                                            "url": "\u002Fdata\u002Ffabdropdowns\u002Fbranch-timings\u002F2200",
+                                                                                            "name": "2200",
+                                                                                            "displayName": "2200",
+                                                                                            "fields": {
+                                                                                                "DropdownText": {
+                                                                                                    "value": "2200"
+                                                                                                },
+                                                                                                "DropdownValue": {
+                                                                                                    "value": "2200"
+                                                                                                }
+                                                                                            }
+                                                                                        },
+                                                                                        "isClosed": {
+                                                                                            "value": false
+                                                                                        },
+                                                                                        "startDay": {
+                                                                                            "id": "0cba0853-e65f-4e12-bb05-fa9767a4f682",
+                                                                                            "url": "\u002Fdata\u002Ffabdropdowns\u002Fdays\u002Fsaturday",
+                                                                                            "name": "Saturday",
+                                                                                            "displayName": "Saturday",
+                                                                                            "fields": {
+                                                                                                "DropdownText": {
+                                                                                                    "value": "Saturday"
+                                                                                                },
+                                                                                                "DropdownValue": {
+                                                                                                    "value": "saturday"
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }},
+                                                                                    {
+                                                                                        "id": "e3042936-f30c-46cc-a17c-3f524f030285",
+                                                                                        "url": "\u002Fdata\u002Fbranches\u002Ffab-branches\u002Freem-mall-branch\u002Ftimings\u002Fteller-services\u002Fsunday",
+                                                                                        "name": "sunday",
+                                                                                        "displayName": "sunday",
+                                                                                        "fields": {
+                                                                                            "startTime": null,
+                                                                                            "endDay": null,
+                                                                                            "endTime": null,
+                                                                                            "isClosed": {
+                                                                                                "value": true
+                                                                                            },
+                                                                                            "startDay": {
+                                                                                                "id": "dc6b29c8-1fd9-4d76-b48a-5dcc0ef0a1df",
+                                                                                                "url": "\u002Fdata\u002Ffabdropdowns\u002Fdays\u002Fsunday",
+                                                                                                "name": "Sunday",
+                                                                                                "displayName": "Sunday",
+                                                                                                "fields": {
+                                                                                                    "DropdownText": {
+                                                                                                        "value": "Sunday"
+                                                                                                    },
+                                                                                                    "DropdownValue": {
+                                                                                                        "value": "Sunday"
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }

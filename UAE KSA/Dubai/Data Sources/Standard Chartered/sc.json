@@ -1,0 +1,1467 @@
+{
+    "locations": [
+        {
+            "id": 130396,
+            "name": "Zayed International Airport",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Midfield terminal abu dhabi"
+                ],
+                "postalCode": null,
+                "latitude": "24.4514296",
+                "longitude": "54.6421113",
+                "placeId": "ChIJvSjchTJPXj4ReF4Are9ydlE",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 114875,
+            "name": "Atlantis The Royal",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Atlantis The Royal",
+                    "Palm Jumeirah, Crescent Rd, The Palm Jumeirah, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.1390557",
+                "longitude": "55.1279662",
+                "placeId": "ChIJyTL-aggVXz4R4cAwRc0Ydsw",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 109484,
+            "name": "Jumeirah Village Community",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Circle Mall"
+                ],
+                "postalCode": null,
+                "latitude": "25.0660876",
+                "longitude": "55.216083",
+                "placeId": "ChIJuZnW7f1tXz4RVBkrTufK1Qc",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 100329,
+            "name": "SAE2946 - Nesto Hyper Market",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "SAE2946 - Nesto Hyper Market",
+                    "Nesto Hyper Market Al Nahda 2 Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.2953338",
+                "longitude": "55.3750495",
+                "placeId": "ChIJMZ9jgkddXz4RRS7KSpsnaI8",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 98781,
+            "name": "DIFC Gate Avenue Mall",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "ATM Room between Zone A and Zone B"
+                ],
+                "postalCode": null,
+                "latitude": "25.211318",
+                "longitude": "55.279034",
+                "placeId": "ChIJG7h-uo9CXz4R1pw6Exa8eY0",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 95544,
+            "name": "Mediclinic Hospital",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Mediclinic Hospital",
+                    "Airport Road, Next to Zayed Sports City, Abu Dhabi, UAE"
+                ],
+                "postalCode": null,
+                "latitude": "24.4169497",
+                "longitude": "54.46143159999999",
+                "placeId": "ChIJW4xDSzlCXj4RCrDwDODIRpU",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 78210,
+            "name": "Burjuman Mall – North Wing",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Burjuman Mall – North Wing",
+                    "Near Unicare Medical Center"
+                ],
+                "postalCode": null,
+                "latitude": "25.2547794",
+                "longitude": "55.3029797",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [
+                {
+                    "openDay": 0,
+                    "closeDay": 0,
+                    "openTime": "07:30 AM",
+                    "closeTime": "12:00 AM"
+                },
+                {
+                    "openDay": 1,
+                    "closeDay": 1,
+                    "openTime": "07:30 AM",
+                    "closeTime": "12:00 AM"
+                },
+                {
+                    "openDay": 2,
+                    "closeDay": 2,
+                    "openTime": "07:30 AM",
+                    "closeTime": "12:00 AM"
+                },
+                {
+                    "openDay": 3,
+                    "closeDay": 3,
+                    "openTime": "07:30 AM",
+                    "closeTime": "12:00 AM"
+                },
+                {
+                    "openDay": 4,
+                    "closeDay": 4,
+                    "openTime": "07:30 AM",
+                    "closeTime": "12:00 AM"
+                },
+                {
+                    "openDay": 5,
+                    "closeDay": 5,
+                    "openTime": "07:30 AM",
+                    "closeTime": "12:00 AM"
+                },
+                {
+                    "openDay": 6,
+                    "closeDay": 6,
+                    "openTime": "07:30 AM",
+                    "closeTime": "12:00 AM"
+                }
+            ],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 41212,
+            "name": "Dubai Airport",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Dubai Airport",
+                    "Terminal 2 - Departure, Duty Free, Travelex Store"
+                ],
+                "postalCode": null,
+                "latitude": "25.2577282",
+                "longitude": "55.3545234",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 41210,
+            "name": "Dubai Airport",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Dubai Airport",
+                    "Terminal 1 - Concourse D, Departure, Near Starbucks"
+                ],
+                "postalCode": null,
+                "latitude": "25.255036",
+                "longitude": "55.365158",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 41209,
+            "name": "Port Rashid",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Port Rashid",
+                    "Terminal 3,"
+                ],
+                "postalCode": null,
+                "latitude": "25.2741066",
+                "longitude": "55.2838669",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 41183,
+            "name": "Jumeirah Beach Hotel",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Jumeirah Beach Hotel",
+                    "Beach Lobby"
+                ],
+                "postalCode": null,
+                "latitude": "25.1415843",
+                "longitude": "55.189089",
+                "placeId": "ChIJlbJpDVRqXz4RdilKOU6M90c",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 41182,
+            "name": "Medi Clinic",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Medi Clinic",
+                    "Park View Hospital"
+                ],
+                "postalCode": null,
+                "latitude": "25.067644",
+                "longitude": "55.248873",
+                "placeId": "ChIJVVVVVWJuXz4RWskov-gc-ik",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 32955,
+            "name": "Atlantis, The Palm",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Atlantis hotel Dubai – Restaurant lobby"
+                ],
+                "postalCode": "",
+                "latitude": "25.1304426",
+                "longitude": "55.11714979999999",
+                "placeId": "",
+                "city": "",
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 16095,
+            "name": "KEPCO",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Nuclear Power Plant"
+                ],
+                "postalCode": null,
+                "latitude": "23.9681373",
+                "longitude": "52.235137500000064",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 68,
+            "name": "Emaar Business Park",
+            "types": [
+                "branch"
+            ],
+            "address": {
+                "addressLines": [
+                    "Building #3, Opposite Dubai Internet City (DIC)"
+                ],
+                "postalCode": null,
+                "latitude": "25.0957186",
+                "longitude": "55.16687300000001",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [
+                {
+                    "openDay": 1,
+                    "closeDay": 1,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 2,
+                    "closeDay": 2,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 3,
+                    "closeDay": 3,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 4,
+                    "closeDay": 4,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 5,
+                    "closeDay": 5,
+                    "openTime": "07:30 AM",
+                    "closeTime": "12:30 PM"
+                },
+                {
+                    "openDay": 6,
+                    "closeDay": 6,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                }
+            ],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 70,
+            "name": "Sharjah Branch",
+            "types": [
+                "branch"
+            ],
+            "address": {
+                "addressLines": [
+                    "Shop No. 1 & 2, Belrasheed Building Buhaira Cornish, Al Sour Area"
+                ],
+                "postalCode": null,
+                "latitude": "25.342525",
+                "longitude": "55.385583999999994",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [
+                {
+                    "openDay": 1,
+                    "closeDay": 1,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 2,
+                    "closeDay": 2,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 3,
+                    "closeDay": 3,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 4,
+                    "closeDay": 4,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 5,
+                    "closeDay": 5,
+                    "openTime": "07:30 AM",
+                    "closeTime": "12:30 PM"
+                },
+                {
+                    "openDay": 6,
+                    "closeDay": 6,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                }
+            ],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 75,
+            "name": "Al Ain Branch",
+            "types": [
+                "branch"
+            ],
+            "address": {
+                "addressLines": [
+                    "Al Ain Mall, shop G07, Othman Bin Affan St, Central District, Al Ain"
+                ],
+                "postalCode": null,
+                "latitude": "24.2218253",
+                "longitude": "55.6990472",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [
+                {
+                    "openDay": 1,
+                    "closeDay": 1,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 2,
+                    "closeDay": 2,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 3,
+                    "closeDay": 3,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 4,
+                    "closeDay": 4,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 5,
+                    "closeDay": 5,
+                    "openTime": "07:30 AM",
+                    "closeTime": "12:30 PM"
+                },
+                {
+                    "openDay": 6,
+                    "closeDay": 6,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                }
+            ],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 7661,
+            "name": "DIFC",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "GF, have Subway on your left and walk to the escalator, it'll be on the left, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.214396",
+                "longitude": "55.281701",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7663,
+            "name": "Khalidiya Branch",
+            "types": [
+                "branch"
+            ],
+            "address": {
+                "addressLines": [
+                    "Prestige Tower, Ground Floor, W-10\/C-10 Khalidiya, Abu Dhabi, UAE"
+                ],
+                "postalCode": null,
+                "latitude": "24.4697287",
+                "longitude": "54.342919800000004",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [
+                {
+                    "openDay": 1,
+                    "closeDay": 1,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 2,
+                    "closeDay": 2,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 3,
+                    "closeDay": 3,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 4,
+                    "closeDay": 4,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 5,
+                    "closeDay": 5,
+                    "openTime": "07:30 AM",
+                    "closeTime": "12:30 PM"
+                },
+                {
+                    "openDay": 6,
+                    "closeDay": 6,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                }
+            ],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 55,
+            "name": "Mall of the Emirates",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Toward the metro station, between Cold Stone and DU Service Centre, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.1172088",
+                "longitude": "55.20049990000007",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 57,
+            "name": "Eppco",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Ikhlas Station, Metropolian,  interchange 2, opposite Pepsi factory, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.178277",
+                "longitude": "55.252991",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 58,
+            "name": "ENOC",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Mirdiff Station, near Mirdif City Centre, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.210952",
+                "longitude": "55.416146000000026",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 59,
+            "name": "Arabian Ranches",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Next to Geant Hypermarket, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.0568839",
+                "longitude": "55.2702358",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 60,
+            "name": "Emarat",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Jumeirah, Chicago Beach, Near Burj Arab, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.1473793",
+                "longitude": "55.1966531",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 61,
+            "name": "DUCAB",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Jebel Ali Free Zone, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "24.9620937",
+                "longitude": "55.0224498",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 64,
+            "name": "Jebel Ali Branch",
+            "types": [
+                "branch"
+            ],
+            "address": {
+                "addressLines": [
+                    "The Galleries Bldg in Downtown Jebel Ali"
+                ],
+                "postalCode": null,
+                "latitude": "24.9800953",
+                "longitude": "55.09227090000002",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [
+                {
+                    "openDay": 1,
+                    "closeDay": 1,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 2,
+                    "closeDay": 2,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 3,
+                    "closeDay": 3,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 4,
+                    "closeDay": 4,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                },
+                {
+                    "openDay": 5,
+                    "closeDay": 5,
+                    "openTime": "07:30 AM",
+                    "closeTime": "12:30 PM"
+                },
+                {
+                    "openDay": 6,
+                    "closeDay": 6,
+                    "openTime": "08:00 AM",
+                    "closeTime": "03:30 PM"
+                }
+            ],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 7657,
+            "name": "Shoreline Apartments, Palm Jumeirah",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Shoreline Apartments , Al Shalal Beach Club, Building 7-8, Main entrance, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.1122923",
+                "longitude": "55.1441797",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7659,
+            "name": "Town Centre Meadows",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Next to Fitness First, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.0640056",
+                "longitude": "55.1573777",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "closed"
+        },
+        {
+            "id": 7647,
+            "name": "Rotana Al Ain",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Hotel Lobby, Al Ain"
+                ],
+                "postalCode": null,
+                "latitude": "24.2184719",
+                "longitude": "55.748902000000044",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7648,
+            "name": "Landmark Group",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Jebel Ali"
+                ],
+                "postalCode": null,
+                "latitude": "24.9987012",
+                "longitude": "55.1120654",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7649,
+            "name": "Fairmont Hotel",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Palm Jumeirah, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.1101474",
+                "longitude": "55.1410338",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7651,
+            "name": "Emarat",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Bin Hendi, Sheikh Zayed road, After Hyuandi Show room, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.1345954",
+                "longitude": "55.2159984",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7652,
+            "name": "Knowledge Village",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Near food court, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.103036",
+                "longitude": "55.162186",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7654,
+            "name": "Landmark Head Q",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Tecom, Dubai Media City, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.0874221",
+                "longitude": "55.1512292",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7656,
+            "name": "Time Oak Hotel",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Tecom, Al- Barsha, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.0967537",
+                "longitude": "55.1725666",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 27,
+            "name": "Dubai Airport",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Terminal 3, Al Hamad Exchange, Arrival Hall, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.245259",
+                "longitude": "55.35971",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 43,
+            "name": "Intercontinental Hotel",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Dubai Marina, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.0789862",
+                "longitude": "55.1379251",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7640,
+            "name": "Al Maya Lal Supermarket",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Riqua Street, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.263734",
+                "longitude": "55.322259",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7644,
+            "name": "Al Safeer Centre",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Mussafah, Abu Dhabi"
+                ],
+                "postalCode": null,
+                "latitude": "24.342859",
+                "longitude": "54.530204",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7645,
+            "name": "Le Marche Supermarket",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "U Bora Tower, Business Bay, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.1803791",
+                "longitude": "55.2706718",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7,
+            "name": "Sharjah Branch",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Shop No. 1 & 2, Belrasheed Building Buhaira Cornish, Al Sour Area"
+                ],
+                "postalCode": "",
+                "latitude": "25.342525",
+                "longitude": "55.385583999999994",
+                "placeId": "",
+                "city": "",
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 20,
+            "name": "Arabian Courtyard Hotel",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.262527",
+                "longitude": "55.297273",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 7623,
+            "name": "Al Ain Branch",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Al Ain Branch",
+                    "Main Street, opposite to Hayat Centre, Al Ain"
+                ],
+                "postalCode": null,
+                "latitude": "24.2211756",
+                "longitude": "55.771559000000025",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 7627,
+            "name": "Khalidiya Branch",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Prestige Tower, Ground Floor, W-10\/C-10 Khalidiya, Abu Dhabi, UAE"
+                ],
+                "postalCode": null,
+                "latitude": "24.4695823",
+                "longitude": "54.3422218",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        },
+        {
+            "id": 7629,
+            "name": "SC Tower EBU",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Emaar Square, Down Town Burj Khalifa, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.2021278",
+                "longitude": "55.2723522",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7630,
+            "name": "Jebel Ali Branch",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "The Galleries Bldg in Downtown Jebel Ali, Jebel Ali"
+                ],
+                "postalCode": null,
+                "latitude": "24.980107",
+                "longitude": "55.092257",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7631,
+            "name": "Emaar Business Park",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Building #3, Dubai"
+                ],
+                "postalCode": null,
+                "latitude": "25.0957186",
+                "longitude": "55.166873",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7636,
+            "name": "DUBAL",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Near Cricket ground, Jebel Ali, Jebel Ali"
+                ],
+                "postalCode": null,
+                "latitude": "25.031659",
+                "longitude": "55.093646",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": ""
+        },
+        {
+            "id": 7638,
+            "name": "Pullman Hotel",
+            "types": [
+                "atm"
+            ],
+            "address": {
+                "addressLines": [
+                    "Deira City Center"
+                ],
+                "postalCode": null,
+                "latitude": "25.2506941",
+                "longitude": "55.3341675",
+                "placeId": "",
+                "city": null,
+                "territory": null,
+                "district": null
+            },
+            "is-24-hours": false,
+            "regularHours": [],
+            "barrierFreeAccesses": [],
+            "networks": [],
+            "telephone": [],
+            "status": "open"
+        }
+    ]
+}

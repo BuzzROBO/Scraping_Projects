@@ -1,0 +1,447 @@
+ADIB/DisplayTitle,ADIB/Location,ADIB/Latitude,ADIB/Longitude,ADIB/Timings,ADIB/PhoneNumber,ADIB/Description,ADIB/BranchStatus,ADIB/ATMStatus,ADIB/CashDepositeStatus,ADIB/IsActive,ADIB/Notes,ADIB/PriorityCenterStatus,ADIB/ExtendedhoursStatus,ADIB/ITMStatus,ADIB/DanaBranch,ADIB/BusinessCenters,ADIB/Status,ADIB/ATMID
+Najda Branch ,Abu Dhabi ,24.49356505,54.36789902,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,600543216,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,True ,False ,True ,,
+Al Wahda Mall Branch-Abu Dhabi ,Abu Dhabi ,24.47038531,54.37193693,10:00 AM - 10:00 PM (Monday - Thursday ;Saturday) ;04:00 PM - 10:00 PM (Friday) ;Sunday Closed ,02-6934172 ,,True ,True ,True ,True ,"Ground Floor, New Extension,Al Wahda Mall - Abu Dhabi ",True ,True ,False ,False ,False ,,
+Abu Dhabi Police GHQ Branch ,Abu Dhabi ,24.44949812,54.39376664,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,02-6520816 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Sheikh Zayed Main Branch ,Abu Dhabi ,24.42218084,54.45829221,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,02-6925522 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,True ,False ,True ,,
+Sheikh Khalifa Energy Complex Branch ,Abu Dhabi ,24.49811029,54.36659956,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,02-501 0771 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+ADIA Cash Office Branch ,Abu Dhabi ,24.47324525,54.35094199,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,02-501 0771 ,,True ,True ,True ,True ,ADIA Staff Only ,False ,False ,False ,False ,False ,,
+Al Bateen Branch ,Abu Dhabi ,24.4563014,54.33929407,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,02-5100666 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,True ,False ,False ,,
+Marina Mall Branch ,Abu Dhabi ,24.47662611,54.32068972,10AM-10PM ;4PM-10PM Friday ;Sunday Closed ,02-6520970 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,True ,False ,False ,False ,,
+Nation Towers Branch ,Abu Dhabi ,24.46493495,54.32891717,10AM-10PM ;4PM-10PM Friday ;Sunday Closed ,02-6520961 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,True ,False ,False ,False ,,
+Abu Dhabi Judicial dept. Branch ,Abu Dhabi ,24.41670384,54.44663499,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,02-6100028 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Baniyas Branch ,Abu Dhabi ,24.31873776,54.61156621,Monday - Saturday: 08:00 am - 02:00 pm ;Friday: 08:00 am - 12:00 pm ,02-6934188 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,False ,True ,False ,,
+Mussafah Branch ,Abu Dhabi ,24.37377483,54.5091452,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,02-6934188 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Dalma Mall Branch ,Abu Dhabi ,24.3311768,54.52455037,10AM-10PM ;4PM-10PM Friday ;Sunday Closed ,02-5010778 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,True ,True ,False ,False ,,
+Khalifa A City Branch ,Abu Dhabi ,24.42684896,54.56635788,08:00 AM - 02:00 PM (Monday - Saturday) ;08:00 AM - 12:00 PM (Friday) ;Sunday Closed ,02-5100661 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,False ,False ,False ,,
+Bawabat Al Sharq Mall Branch ,Abu Dhabi ,24.31171339,54.62019758,Monday - Saturday: 10:00 am - 10:00 pm ;Friday: 04:00 pm - 10:00 pm ,02-6520986 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,True ,True ,False ,False ,,
+Shahama Branch ,Abu Dhabi ,24.55007414,54.6855355,08:00 AM - 02:00 PM (Monday -Saturday);08:00 AM - 12:00 PM (Friday) ;Sunday Closed ,02-6935608 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Yas Mall Branch ,Abu Dhabi ,24.48938767,54.6108389,10AM-10PM ;4PM-10PM Friday ;Sunday Closed ,02-6100228 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,True ,False ,False ,False ,,
+Madinat Zayed Branch ,Abu Dhabi ,23.64243499,53.7091625,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,02-8841715 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,False ,True ,False ,,
+Al Silaa Branch ,Abu Dhabi ,24.07668152,51.76670111,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,02-8945250 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Al Marfaa Branch ,Abu Dhabi ,24.08936723,53.48174279,08:00 AM - 02:00 PM (Monday - Thursday);08:00 AM - 12:00 PM Friday ;Saturday ;Sunday Closed ,02-8945223 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Dalma Island Branch ,Abu Dhabi ,24.48148399,52.30769747,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,02-8945220 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Liwa Branch ,Abu Dhabi ,23.13153162,53.80119951,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,02-8945326 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Gayathi Branch ,Abu Dhabi ,23.85118966,52.80919925,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,02-8945302 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Ruwais Mall Branch ,Ruwais ,24.07523622,52.67158565,Monday - Saturday: 10:00 pm -10:00 pm ;Friday: 04:00 pm - 10:00 pm ,02-8945285 ,,True ,True ,True ,True ,"ATM and CCDM 24/7 &lt;br /&gt;&lt;br /&gt;Dear Customer, the working hours of Al Ruwais Mall Branch will be changed effective 06th Mar 2023, to be from 10:00 AM to 10:00 PM (Monday – Saturday) and from 04:00 PM to 10:00 PM on (Friday).",False ,True ,False ,False ,False ,,
+Al Ain Branch ,Al Ain ,24.22333242,55.78019949,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,03-7088667 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,True ,False ,False ,,
+Al Jimi Mall Branch ,Al Ain ,24.24573182,55.72611538,10AM-10PM ;4PM-10PM Friday ;Sunday Closed ,03-7088600 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,True ,True ,True ,False ,,
+Al Yahar Branch ,Al Ain ,24.22142757,55.5454651,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,03-7088645 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,True ,False ,,
+Al Wagan Branch ,Al Ain ,23.64090614,55.5657948,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,03-7039600 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Oud Al Tobba Branch ,Al Ain ,24.22839014,55.76147806,8AM-8PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,03-7039555 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,False ,True ,False ,,
+Al Bawadi Mall  Branch ,Al Ain ,24.16227325,55.8067351,10AM-10PM ;4PM-10PM Friday ;Sunday Closed ,03-7088661 ,,True ,True ,True ,True ,"Al Bawadi Mall, Ground Floor ",False ,True ,False ,False ,False ,,
+Makani Mall Branch ,Al Ain ,24.11044084,55.70111854,10AM-10PM ;4PM-10PM Friday ;Sunday Closed ,03-7039610 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,True ,False ,False ,False ,,
+Al Tawaam Branch ,Al Ain ,:,:,8AM-8PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,03-7039655 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,False ,False ,False ,,
+Sh. Zayed Road ,Dubai ,25.1901995,55.25712886,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,600543216,,True ,True ,True ,True ,"Emarat Atrium, Opp. Emirates Holidays Hotel، Sheikh Zayed Road - Dubai ",True ,False ,True ,False ,True ,,
+Arenco-DIC ,Dubai ,25.09341537,55.15885567,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,600543216,,True ,True ,True ,True ,Arenco Building &lt;br/&gt;ATM and CCDM 24/7 ,True ,False ,False ,False ,True ,,
+Dubai Mall ,Dubai ,25.1977166,55.27902472,10AM-10PM ;4PM-10PM Friday ;Sunday Closed ,04-4090008 ,,True ,True ,True ,True ,LG Floor ,True ,True ,False ,False ,False ,,
+Second of December Branch ,Dubai ,25.23832575,55.26844642,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,600543216,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,False ,False ,True ,,
+Al Barsha Branch Mall ,Dubai ,25.09876107,55.20510843,10:00 AM - 10:00 PM (Monday - Thursday ;Saturday);04:00 PM - 10:00 PM Friday ;Sunday Closed ,04-4173586 ,,True ,True ,True ,True ,Ground Floor ,True ,True ,False ,False ,False ,,
+Nad Al Hamar Branch ,Dubai ,25.21341992,55.38068514,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,04-3161414 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,False ,False ,False ,,
+Al Muhaisnah Branch (Etihad Mall),Dubai ,25.23611254,55.42106258,10AM-10PM ;4PM-10PM Friday ;Sunday Closed ,04-2920170 ,,True ,True ,True ,True ,Etihad Mall ,True ,True ,True ,False ,False ,,
+Al Qusais Branch ,Dubai ,25.27563715,55.36534838,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,:,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,False ,False ,False ,,
+Deira Branch ,Dubai ,25.256947,55.329254,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,04-2046048 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,True ,,
+Sharjah Branch ,Sharjah ,25.35575201,55.3993803,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,06-5979455 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,False ,False ,False ,,
+Ajman Branch ,Ajman ,25.39522838,55.47496886,08:00 AM - 08:00 PM (Monday thru Thursday ;Saturday);08:00 AM - 12:00 PM Friday ;Sunday Closed ,06-7038266 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,True ,False ,,
+Zawaya Walk Branch ,Sharjah ,25.3299291,55.427851,08:00 AM - 08:00 PM (Monday -Saturday);08:00 AM - 12:00 PM (Friday) ;Sunday Closed ,600543216,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Umm Al Qaiwain Branch ,Umm Al Qaiwain ,25.51746515,55.54404684,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,06-8023119 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Al Rahmania Mall Branch ,Sharjah ,25.3291015,55.598265,10AM-10PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,600543216,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Al Buhairah Branch ,Sharjah ,25.32739635,55.37893346,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,600543216,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,True ,,
+Al Juraina ,Sharjah ,25.2973191,55.48947043,10AM-10PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,06-5979393 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,True ,False ,False ,,
+Fujairah Branch ,Fujairah ,25.12250772,56.34043044,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,09-2013009 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,True ,False ,,
+Ras Al Khaimah Branch ,Ras Al Khaimah ,25.77504024,55.96546418,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,07-2043848 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,True ,True ,False ,,
+Dibba Branch ,Fujairah ,25.59370538,56.27462188,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,09-2013004 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,True ,False ,,
+Khorfakkan Branch ,Khorfakkan Branch ,25.35923979,56.36878163,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,09-2083811 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Al Dhaid Branch ,Sharjah ,25.2876529,55.88281854,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,09-2013030 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,False ,False ,False ,,
+RAK Airport Road  Branch ,Ras Al Khaimah ,25.67576458,55.96965816,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,07-2043834 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Kalba Branch ,Sharjah ,25.03201414,56.34969504,8AM-2PM Monday thru Thursday ;Saturday ;8AM-12PM Friday ;Sunday Closed ,09-2013171 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+Al Hamra Mall Branch ,Ras Al Khaimah ,25.68177263,55.7804841,10AM-10PM ;4PM-10PM Friday ;Sunday Closed ,07-2043999 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,True ,True ,False ,False ,,
+Fujairah City Centre Branch ,Fujairah ,25.1259281,56.30158863,10AM-10PM ;4PM-10PM Friday ;Sunday Closed ,09-2013009 ,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,True ,False ,False ,False ,,
+Dhafrah CO-OP ,Abu Dhabi ,23.65152801,53.70689096,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,701
+Al Dhafrah CO-OP - Liwa ,Abu Dhabi ,23.13548166,53.79744717,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,703
+City Mall - Madinat Zayed ,Abu Dhabi ,23.65968246,53.70410379,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,704
+ADNOC Abu Abyad to AD 894 ,Abu Dhabi ,24.04117346,53.89959998,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,705
+ADNOC Abu Abyad toward silaa 893 ,Abu Dhabi ,24.03525276,53.89183597,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,707
+ADNOC Station 962 Madinat Zayed ,Abu Dhabi ,23.65777018,53.70358375,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,708
+ADIB ADNOC Dhafrah 742 ,Abu Dhabi ,23.614651,53.728588,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,709
+ADIB ADNOC QRYN  AISH663 ,Abu Dhabi ,24.074942,53.103555,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,711
+ADIB ADNOC Mizayraa 977 ,Abu Dhabi ,23.1421,53.796438,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,712
+Abu Dhabi coop Manaseer ,Abu Dhabi ,24.46219483,54.35960905,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,715
+Al Dhafra Coop Bainunah Ghayathi WR ,Abu Dhabi ,23.65124175,53.62190262,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,716
+Al Madina Gen. Trad Bida Zayed Ind ,Abu Dhabi ,23.65929627,53.72685951,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,717
+Crown price court AUH ,Abu Dhabi ,24.45453803,54.34336831,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3308
+Abu Dhabi Sharia Court ,Abu Dhabi ,24.41610128,54.44735859,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2307
+ADIB ADNOC AL Hosn 912 ,Abu Dhabi ,24.474058,54.366401,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,905
+ADIA (Abu Dhabi Investment Authority),Abu Dhabi ,24.48624523,54.3514286,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,910
+ADCO ABUDHABI CORNICHE ,Abu Dhabi ,24.47372754,54.34356017,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,914
+Central Market ,Abu Dhabi ,24.48931696,54.35613822,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,915
+ADNOC Motor world-169 ,Abu Dhabi ,24.39856243,54.69010581,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,916
+Fotouh Al Khair Mall ,Abu Dhabi ,24.48480376,54.35846509,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,917
+ADIB Emrts Ind Int Ex Hamdn ,Abu Dhabi ,24.49552292,54.37076991,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,919
+ADNOC Station Al Samha 888 ,Abu Dhabi ,24.6707684,54.75946837,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1303
+ADIB To Go Supermarket ,Abu Dhabi ,24.524113,54.4318,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1305
+Baniyas Coop - Shahama ,Abu Dhabi ,24.55527044,54.69403906,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1307
+ADNOC Station KHALIFA - A 766 ,Abu Dhabi ,24.40578348,54.6030668,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1308
+ADNOC Shawamekh 755 ,Abu Dhabi ,24.35516611,54.6445952,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1309
+ADNOC Station 811 Ghantoot ,Abu Dhabi ,24.87152112,54.91512575,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1310
+ADNOC Al Shahama - 861 ,Abu Dhabi ,24.52728287,54.67738901,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1311
+ADIB ADNOC Police 794 ,Abu Dhabi ,24.435296,54.424995,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1312
+ADNOC Station Faya 891 ,Abu Dhabi ,24.21789115,54.85289559,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1313
+ADIB ADNOC SEH SOAB953 ,Abu Dhabi ,24.86945,54.919368,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1315
+Baniyas Mall ,Abu Dhabi ,24.31165638,54.62006805,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1317
+ADNOC Mahawi 917 ,Abu Dhabi ,24.32203015,54.58862081,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1318
+ADNOC Al Haffar 676 ,Abu Dhabi ,24.21975362,54.85548805,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1319
+Spar Khalifa City A ,Abu Dhabi ,24.40662711,54.56925568,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1320
+ADIB ADNOC Air Wing 974 ,Abu Dhabi ,24.431887,54.439177,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1321
+Armed Forces Coop Society ,Abu Dhabi ,24.55312393,54.84564702,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1327
+ADNOC Nahel Station 658 ,Abu Dhabi ,24.5181717,55.51516393,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1323
+ADNOC Al Ghurrah  Station &#160;993 ,Abu Dhabi ,24.40408138,54.61226533,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1324
+Galaxy Dry Clean Muroor Road ,Abu Dhabi ,24.47531085,54.38016688,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1325
+Danat Al Emarat Hospital AUH Gate City ,Abu Dhabi ,24.3971037,54.50073903,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1326
+ADNOC Station Musafah 758 ,Abu Dhabi ,24.32327849,54.51629629,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1902
+ADIB ADNOC Dhafra 949 ,Abu Dhabi ,24.29644,54.54123,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1904
+Al Wahda ADNOC-667 - Musafah 22 ,Abu Dhabi ,24.38052216,54.47814256,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1905
+ADNOC Al Wathba 717 ,Abu Dhabi ,24.2708463,54.66411875,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1907
+ADIB Mahawi-Mireekh - 163 ,Abu Dhabi ,24.33956572,54.57948557,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1913
+Mohammed Bin Zayed Supermarket ,Abu Dhabi ,24.34473913,54.53517179,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1915
+ADNOC 670 December-2 Musafah-36 ,Abu Dhabi ,24.34153491,54.49370368,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1916
+KM Trading Musafah ,Abu Dhabi ,24.3467373,54.51463996,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1917
+ADNOC Al RAMZ Musafah 26 ,Abu Dhabi ,24.35267654,54.52400022,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1918
+ADIB ADNOC AL MARFAA675 ,Abu Dhabi ,24.06135,53.419663,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2105
+ADIB ADNOC Fayadha 660 ,Abu Dhabi ,23.65048,54.401411,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2106
+ADIB ADNOC Ghabat 665 ,Abu Dhabi ,24.07179,53.102989,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2107
+ADIB ADNOC AlBaraka 748 ,Abu Dhabi ,23.942054,52.161885,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2108
+Abu Dhabi CO-OP Muroor ,Abu Dhabi ,24.43337302,54.43963283,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2303
+ADNOC Station Dana 966 ,Abu Dhabi ,24.43946333,54.41345773,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2304
+Abu Dhabi Police Recruit ,Abu Dhabi ,24.43377706,54.41627102,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,2306
+ADNOC Embassy AREA 782 ,Abu Dhabi ,24.42860107,54.43173375,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2308
+ADNOC Etihad 786 ,Abu Dhabi ,24.43451381,54.42455425,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2309
+ADNOC Al Wathba -890 Abu Dhabi ,Abu Dhabi ,24.226692,54.656891,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2310
+ADNOC Zafarana 973 AUH ,Abu Dhabi ,24.42162509,54.4487535,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2311
+Pension ;Benefits Fund ,Abu Dhabi ,24.42162509,54.4487535,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2312
+Police Finance Building ,Abu Dhabi ,24.44825722,54.39231312,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3305
+AD Police investigation Khalidiya Abu Dhabi ,Abu Dhabi ,24.463491,54.334866,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3306
+TRANSCO ,Abu Dhabi ,23.84745721,52.80964797,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3307
+Port Zayed Mina ,Abu Dhabi ,24.09626547,52.7455173,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3309
+ADNOC Al Zaab 795 ,Abu Dhabi ,24.46315666,54.36194673,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3311
+Big Mart Salam Street Abu Dhabi ,Abu Dhabi ,24.49517555,54.37449686,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3312
+Galleria Mall ,Abu Dhabi ,24.50093896,54.38856459,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3315
+ADIB ADNOC 970 Manasir ,Abu Dhabi ,24.45702472,54.35675396,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3316
+Musaffah City Hypermarket ,Abu Dhabi ,24.36672997,54.48471629,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3317
+ADIB ADNOC AlReem - 486 ,Abu Dhabi ,24.49203846,54.3986019,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3318
+Al Wahda Mall -2nd floor in the Mall ,Abu Dhabi ,24.47063936,54.37324732,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3503
+ADIB AD Police smart ST ,Abu Dhabi ,24.453102,54.398758,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3505
+Madinat Zayed Shopping Center ,Abu Dhabi ,24.4837759,54.36516022,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,3510
+ADIB Military Camp Mahwi ,Abu Dhabi ,24.33011092,54.60220116,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3511
+Zayed Military Hospital ,Abu Dhabi ,24.42098963,54.42960857,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3512
+Mina Mall ,Abu Dhabi ,24.51887928,54.37201306,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3513
+ADNOC Station Corniche 933 ,Abu Dhabi ,24.46645587,54.33301005,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3514
+ADNOC Almadeenah 929 ,Abu Dhabi ,24.49248266,54.37459287,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3515
+ADNOC Al Mushrif 162 Airport Rd ,Abu Dhabi ,24.43658882,54.40233371,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3516
+ADNOC station  Nasser St. 928 ,Abu Dhabi ,24.47696682,54.35140326,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3517
+Al Silaa Tamm Center ,Abu Dhabi ,24.06183884,51.76215226,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3902
+ADIB ADNOC Rec. Center ,Abu Dhabi ,24.091899,52.644794,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3903
+ADNOC SILAA W/R 664 ,Abu Dhabi ,24.06408233,51.76178017,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3904
+ADNOC Station Gayathi 978 ,Abu Dhabi ,23.84745721,52.80964797,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3906
+ADNOC Ruwais General Market Left ,Abu Dhabi ,24.08728948,52.65371531,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3908
+ADIB ADNOC TRD Souq ,Abu Dhabi ,24.4225169,54.4577163,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3909
+Al Dhafra Coop Bida Al Matawa WR ,Abu Dhabi ,23.78550263,52.58147466,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3915
+ADIB Deerfields Mall ,Abu Dhabi ,24.523635,54.671078,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,4003
+ADIB ADNOC Dist HQ 1 ,Abu Dhabi ,24.49215,54.375797,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5704
+MOFA ,Abu Dhabi ,24.45534824,54.330784,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5705
+ADIB ADNOC HQ ,Abu Dhabi ,24.4620314,54.3236026,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5706
+ADNOC  AL-BAHYA- 164 ,Abu Dhabi ,24.541424,54.636307,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5707
+Al Dhafra Air Base ,Abu Dhabi ,24.26186647,54.55183469,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6203
+ADNOC Spirit of the Emirates 674 ,Abu Dhabi ,24.30518971,54.53306865,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6204
+Al Raha Village Shopping Center ,Abu Dhabi ,24.25192217,54.62761514,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6205
+ADNOC Khalifa Industrial &#160;City 662 ,Abu Dhabi ,24.74099489,54.82998019,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6206
+ADNOC ISTIQLAL 669 ,Abu Dhabi ,24.35713379,54.47376911,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6208
+Presidential Flight ,Abu Dhabi ,24.44237426,54.627071,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6210
+ADIB Jumeirah Saadiyat ,Abu Dhabi ,24.56056,54.452334,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6212
+Baqalat Al Ayyam Musaffah ,Abu Dhabi ,24.318483,54.53807144,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6215
+ADIB LULU Exch ICAD Msf ,Abu Dhabi ,24.34552021,54.48429746,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6216
+Al Tayef SM MBZ City ,Abu Dhabi ,24.29702205,54.56291244,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6405
+ADIB MAKANI MALL SHMKHA ,Abu Dhabi ,24.38698,54.723055,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,6406
+ADIB Al Ahalia Exchange Musaffah ,Abu Dhabi ,24.37282133,54.51263217,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6409
+ADIB Big Mart M-38 Musaffah ,Abu Dhabi ,24.35762468,54.5013516,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6410
+PARCO MALL Al Mafraq workers City-2 ,Abu Dhabi ,24.25990344,54.63024856,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6411
+ADIB ADNOC 159 Shamkha2 ,Abu Dhabi ,24.31591002,54.67740313,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6412
+ADIB SAAD Exchange Musaffah ,Abu Dhabi ,24.32652599,54.53488881,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6413
+Baqala Al Falah Oases Abu Dhabi ,Abu Dhabi ,24.42923701,54.74923936,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6414
+ADIB BwbtShrq KIOSK CDM ,Abu Dhabi ,24.31296457,54.61997381,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,6415
+Madinat Zayed Shopping Centre GF ,Abu Dhabi ,24.4840221,54.36528074,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7103
+Emirates Post Abu Dhabi ,Abu Dhabi ,24.48078481,54.36809922,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7104
+ADNOC Al Falah -170 Abu Dhabi ,Abu Dhabi ,24.42905,54.734753,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7105
+AUH Muroor New Traffic Building ,Abu Dhabi ,24.43567965,54.41868484,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7106
+ADNOC Al MUSHREF 971 ,Abu Dhabi ,24.429846,54.39391497,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7107
+Mushref Mall ,Abu Dhabi ,24.43460939,54.41281869,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7108
+ADNOC 796 Gulf Arabian Street ,Abu Dhabi ,24.42687517,54.39849076,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7109
+ADIB MOI New Building ,Abu Dhabi ,24.411606,54.464648,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7110
+Baqalat Al Nada AUH ,Abu Dhabi ,24.46427776,54.38278556,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7111
+ADIB Everyfresh market ,Abu Dhabi ,24.465441,54.381018,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7113
+ADNOC 167 Khalifah City-B ,Abu Dhabi ,24.36859469,54.62538311,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,9403
+ADNOC Samha 887 ,Abu Dhabi ,24.6695396,54.76234608,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,9404
+ADNOC 687 Yas 1 ,Abu Dhabi ,24.49940341,54.58827014,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,9405
+ADNOC 688 Yas 2 ,Abu Dhabi ,24.50226781,54.58846248,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,9406
+Makkah Mall ,Abu Dhabi ,24.29689385,54.63770673,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,9407
+ADNOC Al Mearad St. 686 AUH ,Abu Dhabi ,24.43386929,54.83274937,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,9408
+ADIB EIDA Khalifa City-A ,Abu Dhabi ,24.40160451,54.55165929,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,9411
+ADNOC &#160;Mohamed Bin Zayed City Abu Dhabi ,Abu Dhabi ,24.37079743,54.53565164,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,9412
+ENOC Site # 1044 ,Dubai ,25.2323136,55.3113037,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,302
+ADIB Dinar Exchg Mutaina ,Dubai ,25.273676,55.323372,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,303
+Green community DIP ,Dubai ,25.00503431,55.16517515,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,305
+ADIB Muraqabat SPS ,Dubai ,25.26977003,55.32941551,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,306
+ENOC Al Aweer 1031 ,Dubai ,25.27550638,55.30129309,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,316
+RTA SABKHA BUS STATION ,Dubai ,25.27007552,55.30269427,24-Jul,600543216,,False ,True ,False ,True ,ATM 24/7 ,False ,False ,False ,False ,False ,,318
+Union CO-OP Jumairah - Dubai ,Dubai ,25.18735282,55.23937352,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1403
+Emirates Mall - Dubai ,Dubai ,25.11945947,55.20143398,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1404
+Al Ittihad Service Station - Dubai ,Dubai ,25.16717723,55.23631981,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1405
+Union CO-OP Al Wasel - Dubai ,Dubai ,25.2104452,55.27086048,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1406
+Dubai Immigration ,Dubai ,25.23420008,55.2911244,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1409
+Dar Al Ber Society SZR ,Dubai ,25.13648642,55.21498289,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1410
+Enoc Al-Khail Road 1074 ,Dubai ,25.15301613,55.2623384,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1411
+ADIB EmPost Um Ramool ,Dubai ,25.2362701,55.3582573,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1416
+Union CO-OP Al Aweer - Dubai ,Dubai ,25.17478262,55.38689873,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1504
+ADIB ENOC site # 1063 ,Dubai ,25.16440122,55.47508548,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1505
+Arabian Center - Dubai ,Dubai ,25.23502374,55.43604982,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1508
+Etihad Center Mizher ,Dubai ,25.23662124,55.42149863,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4503
+ADIB Shaklan SM Nahdah ,Dubai ,25.29544214,55.37037626,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4505
+Eppco Mezher ,Dubai ,25.25772804,55.4417904,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4506
+Enoc Festival Center 1007 ,Dubai ,25.21943333,55.37115197,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4507
+Eppco 95 Nad Al Hamar ,Dubai ,25.21431831,55.37907256,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4509
+Westzone Mall Al Khail Gate ,Dubai ,25.13872053,55.25353176,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4510
+ENOC station 1064 Emirates road Dubai.,Dubai ,25.150763,55.478588,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4512
+ADIB LULU Exchange Awir ,Dubai ,25.18525546,55.36028761,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4513
+Naif Souq ,Dubai ,25.27128572,55.30525164,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5103
+Tasheel Tawasol Business Centre ,Dubai ,25.26516578,55.32603106,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5106
+Sharaf Exchange Deira ,Dubai ,25.2738197,55.30617693,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5110
+Big Mart Qusais ,Dubai ,25.29610827,55.37625331,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5114
+Dragon Mall ,Dubai ,25.17293118,55.42036833,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5201
+Eppco site 1094 ,Dubai ,25.24219338,55.34512673,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5202
+ENOC 1061 Al Warqa ,Dubai ,25.19761986,55.39756245,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5203
+Sharaf Exchange &#160;International City ,Dubai ,25.16939392,55.40841231,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5204
+RTA ALQUSAIS BUS STATON ,Dubai ,25.26598526,55.43334581,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5210
+Eppco Site # 89 Arabian Center ,Dubai ,25.23256656,55.43555549,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5303
+ENOC SATWA 1002 ,Dubai ,25.21419264,55.27360137,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5304
+JAFZA Branch ,Dubai ,24.96760396,55.07905176,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,5305
+EMARAT Station Hassa ,Dubai ,24.94110457,55.04193873,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5306
+Emirates CO-OP - Hatta ,Dubai ,24.81674861,56.13355084,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5308
+Enoc 1043 -Dragon mart ,Dubai ,25.17353425,55.43566199,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7602
+New Al Madina Hypermarket ,Dubai ,25.28217855,55.40397303,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7611
+Eppco 93 Jumeira ,Dubai ,25.18324779,55.22722955,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8408
+Ramla Hypermarket DIP ,Dubai ,24.97116749,55.1719956,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8413
+Eppco Al Kifaf 60 ,Dubai ,25.24123393,55.2914367,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8414
+Jebel Ali Mall ,Dubai ,25.00704401,55.10604224,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8415
+Union Coop Umm Suqueim ,Dubai ,25.1432544,55.20632309,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8418
+Souq Extra Al Barsha ,Dubai ,25.09475383,55.21414194,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8504
+Eppco 85 TECOM ,Dubai ,25.09992923,55.17206222,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8505
+Eppco 100 Mankhool ,Dubai ,25.24988271,55.28930403,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8506
+ADIB Al Minhad Air Base ,Dubai ,25.023501,55.387562,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8507
+Aswaq Al Barsha ,Dubai ,25.08983683,55.22784211,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8508
+ENOC 1062 DWC ,Dubai ,24.88819393,55.10445677,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8509
+ADIB DAMAC Hills ,Dubai ,25.013748,55.254994,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8510
+Carrefour Tecom I Rise ,Dubai ,25.09663592,55.18085235,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8511
+Al Ameed Mall ,Dubai ,25.15131485,55.25034098,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8514
+Tamam Vehicles Testing Center ,Dubai ,25.18366898,55.34790871,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8515
+ADIB LM Exchange Al Qouz ,Dubai ,25.15808195,55.24945832,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8516
+ADIB Westzone Diyafa-2 ,Dubai ,25.23649532,55.27712755,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8517
+ENOC 1039 Jebel Ali ,Dubai ,25.0383133,55.18559345,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8519
+Emaar Square CCDM 1 ,Dubai ,25.2007854,55.27464906,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,8608
+Emaar Business park  CCDM 1 ,Dubai ,25.09561084,55.16663586,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,8609
+Alain Center Bur Dubai ,Dubai ,25.25645309,55.29649153,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8611
+Al Maya Supermarket - Satwa ,Dubai ,25.22910887,55.27376905,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8613
+ADNOC Jimi Khraise 759 ,Al Ain ,24.22704118,55.73865528,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,203
+ADNOC Station Zakher 948 ,Al Ain ,24.17150622,55.71014703,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,205
+MEZYAD CO-OP - Al Ain ,Al Ain ,24.03988532,55.84444907,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,206
+ADIB khalifa college ,Al Ain ,24.252966,55.623007,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,207
+ADNOC Station Al Ghail 852 ,Al Ain ,24.20661535,55.7338495,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,209
+Al Mashreq Supermarket - Al Ain ,Al Ain ,24.2573672,55.73923797,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,210
+Bawadi Mall - Al Ain ,Al Ain ,24.16224359,55.80663858,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,211
+Bawadi Mall ATM 2 - Al Ain ,Al Ain ,24.16116271,55.80671346,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,212
+ADIB Al Ain Police ,Al Ain ,24.4225053,54.4576218,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,213
+ADIB ADNOC ALMUTTLA 858 ,Al Ain ,24.697372,55.631314,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,214
+Emirates ID Alain ,Al Ain ,24.23604817,55.73335812,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,217
+ADIB Hawl Al Khaleej ,Sharjah ,25.32221618,55.38906651,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,503
+Matajer Al Merqab ,Sharjah ,25.38861789,55.42136182,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,506
+Etisalat Al Nouf Area - Sharjah ,Sharjah ,25.37739747,55.39638387,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,507
+ADNOC Al Samman 799 ,Sharjah ,25.341323,55.417954,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,508
+ADIB ADNOC Maysalon 783 ,Sharjah ,25.364199,55.404637,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,509
+ADIB ADNOC 697 Al Weshah ,Sharjah ,25.26648774,55.88431103,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,517
+ADIB Al Majaz Phones ,Sharjah ,25.32394109,55.37895607,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,518
+Wisam Service Station – Kalba ,Sharjah ,25.06020373,56.35436645,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,602
+ADNOC Beach - Fujairah 762 ,Fujairah ,25.16149598,56.35046206,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,604
+Fujairah Sports Club ,Fujairah ,25.12931088,56.34224072,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,606
+ADNOC sayadeen 781 ,Fujairah ,25.10093622,56.35857077,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,607
+Big Mart Ind Area Fujairah ,Fujairah ,25.088636,56.281782,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,608
+Center Point Fujairah ,Fujairah ,25.13186375,56.33036769,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,609
+Enoc 1502 Opposite port – Fujairah ,Fujairah ,25.17863302,56.3514361,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,613
+Al Jimi Mall (Carrefour),Al Ain ,24.24351577,55.72663049,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,801
+ADNOC Station Masakin 774 ,Al Ain ,24.40135876,55.79691658,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,804
+Al Ain Immigration ,Al Ain ,24.2406997,55.73119945,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,805
+Extra Mall  Al Ain ,Al Ain ,24.21821364,55.64058975,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,808
+ADNOC Merkhaniya 997 ,Al Ain ,24.21819684,55.68429048,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,810
+Foah Mall ,Al Ain ,24.343776,55.79242598,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,812
+ADNOC Al Jimi (857),Al Ain ,24.24565281,55.72002161,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,813
+ADIB Al Noor Bakery Al Ain DT ,Al Ain ,24.24480055,55.75278639,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,814
+ADNOC Naima 678 -Al Ain ,Al Ain ,24.12258199,55.71356898,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,816
+Al Jimi Mall Drive Thru AL-Ain ,Al Ain ,24.47377915,54.34877024,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,819
+ADNOC RAK1 Al  Bawaba 896 ,Ras Al Khaimah ,25.72317784,55.87125339,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1102
+ADNOC RAK 2  cornish 895 ,Ras Al Khaimah ,25.77642097,55.93696782,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1103
+ADNOC Al Bawabah 2  - 897 ,Ras Al Khaimah ,25.737489,55.890292,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1104
+ADNOC Station Al Jisr 822 ,Ras Al Khaimah ,25.78849208,55.96400124,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1105
+ASWAK Sha am RAK ,Ras Al Khaimah ,26.02181943,56.08746069,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1106
+Emirates Post - Ras Al Khaimah ,Ras Al Khaimah ,25.77947272,55.93357296,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1107
+Emirates Post CCDM ,Ras Al Khaimah ,25.77947272,55.93357296,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,1108
+ADNOC Bin Majed 843 ,Ras Al Khaimah ,25.743159,55.933889,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1109
+Aswaq Al Kharran - RAK ,Ras Al Khaimah ,25.70687944,55.96932901,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1110
+Eppco 412 Jeser area ,Ras Al Khaimah ,25.7875505,55.96391301,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1113
+Emirates ID RAK ,Ras Al Khaimah ,25.72107705,55.87391613,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1114
+ADNOC Al Qaram RAK ,Ras Al Khaimah ,25.77145056,55.95431659,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1115
+ADIB RAK Municipality ,Ras Al Khaimah ,25.77311554,55.93032771,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1116
+Taawun Club CCDM Ras Al Khaimah ,Ras Al Khaimah ,26.0323767,56.09641825,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,1117
+ADNOC Al Masoodi 944 ,Al Ain ,24.26820483,55.7409272,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1203
+ADNOC Station no # 945 Mazyad ,Al Ain ,24.02996867,55.84491914,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1204
+ADNOC Kuwait at 940 ,Al Ain ,24.22161336,55.77812785,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1205
+ADNOC Industrial Area 942 ,Al Ain ,24.19921708,55.76196527,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1206
+ADNOC Station no # 760 Al Dhaira ,Al Ain ,23.98464158,55.55799193,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1207
+ADIB Makani Zakher Mall ,Al Ain ,24.10999052,55.70207206,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1208
+Shahbat Plaza ,Al Ain ,24.4270381,54.64622356,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1210
+ADIB Barari Mall Al Ain ,Al Ain ,24.36591094,54.56429145,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1211
+Lulu Sanaiya ,Al Ain ,24.28443001,54.64484928,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1212
+ADIB Sheaab Al Ashkhar ,Al Ain ,24.151313,55.720129,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1213
+ADIB Souq Anwan Dibba ,Fujairah ,25.61416,56.27671,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,1701
+ADNOC Al Aqaa 785 ,Fujairah ,25.51058634,56.36189836,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1705
+ADNOC Al Mouhalaba 885 ,Fujairah ,25.59425045,56.27649163,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1707
+ADIB ADNOC 695 Al Hamediya ,Ajman ,25.38697445,55.55326434,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1802
+ADNOC Station Deyafa 884 ,Ajman ,25.38955002,55.46045561,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1804
+Ajman City Center ,Ajman ,25.39924353,55.47919147,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1808
+Ajman Union Coop ,Ajman ,25.39391979,55.45518306,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1809
+ADNOC Ajman Emirates Road 797 ,Ajman ,25.35817472,55.50113195,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1812
+ADIB ENOC 1203 ,Ajman ,25.36868252,55.55694007,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1813
+ADIB LULU Exch Jarf Ajm ,Ajman ,25.43397203,55.52689284,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1814
+ADIB Emirates India Exchange Ajman ,Ajman ,25.41129944,55.44367455,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1815
+Sharaf Exchange Majera - TTW ,Ajman ,24.84634198,56.03712105,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1816
+ADIB ENOC 1205 ,Ajman ,25.37023327,55.55570148,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1817
+Ain Al Madina Hypermarket ,Ajman ,25.37581595,55.47625474,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1818
+Emirates ID Ajman ,Ajman ,25.40867434,55.50641375,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1820
+Emirates Post Ajman ,Ajman ,25.39249912,55.48432764,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1821
+Union Coop Al Jarf ,Ajman ,25.42545079,55.50101425,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1822
+Union Coop Remalah Ajman ,Ajman ,25.4003487,55.43363722,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1823
+ADNOC Ajman Souq 889 ,Ajman ,25.376943,55.457989,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1825
+ADNOC Al Zahra (845),Ajman ,25.39723428,55.49485241,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1824
+Al Abeer Supermarket ,Sharjah ,25.27820277,56.36206222,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2203
+Sharjah coop -Khorfakkan ,Sharjah ,25.39195631,56.35145834,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2204
+Souq Extra - FUJ ,Fujairah ,25.28278456,56.35657211,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2207
+Al Bidya Supermarket ,Fujairah ,25.42297769,56.3506011,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2208
+ADNOC Station no # 947 Remah ,Al Ain ,24.07162879,52.64828399,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2503
+Remah Municipality ,Al Ain ,24.18497766,55.32447248,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2505
+ADNOC-862 Al Maqam AL-Ain ,Al Ain ,24.18361307,55.62769615,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2506
+ADIB Abusamra ADNOC864 ,Al Ain ,24.2050443,55.3882003,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2510
+ADIB Wahat Alain Supermarket ,Al Ain ,24.20163813,55.7364775,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2702
+Al Falah Plaza Drive Thru ,Al Ain ,24.22355739,55.76222649,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2703
+ADNOC Station Al Faqaa 773 ,Al Ain ,24.69079179,55.63330431,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2705
+ADNOC Mezyad - Al Ain 757 ,Al Ain ,24.08687531,55.83262557,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2706
+Lulu Kuwaitat ,Al Ain ,24.23112753,55.77438058,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2707
+ADNOC Muwaiji - Al Ain 938 ,Al Ain ,24.22519148,55.73662215,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2708
+ADNOC  Saih Bin Ammar -996 ,Al Ain ,24.20912429,55.69234083,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2709
+ADIB Zakher mosque Ain ,Al Ain ,24.128805,55.6842697,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2711
+Lulu Center Alain ,Al Ain ,24.21922556,55.77555509,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2714
+Department of Transport Alain ,Al Ain ,24.21652167,55.75707317,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2715
+ADNOC MUWAILEH 877 ,Sharjah ,25.31908427,55.5078147,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2803
+ADIB ADNOC Badayer 653 ,Sharjah ,24.92386,55.760243,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2804
+ADNOC Shahbaa 769 ,Sharjah ,25.3283987,55.43167344,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2806
+Sharjah Coop - Halwan ,Sharjah ,25.34622927,55.42253982,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2807
+Sharjah Coop - Swihat ,Sharjah ,25.34837958,55.46117744,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2808
+Emirates Marco Sup Market ,Sharjah ,25.31751373,55.41298084,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2810
+ADNOC Station 876 Al Matar ,Sharjah ,25.32085497,55.50769548,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2811
+ADNOC Al Bedai-694 SHJ ,Sharjah ,25.25550913,55.57234367,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2812
+SHJ COOP – Regah ,Sharjah ,25.37041495,55.42662701,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2813
+ADIB ADNOC Abraq 589 ,Umm Al Qaiwain ,25.494539,55.551299,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2903
+Carrefour Express UAQ ,Umm Al Qaiwain ,25.54785914,55.54473579,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2904
+ADNOC UAQ 798 ,Umm Al Qaiwain ,25.50245623,55.69510098,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2905
+Emirates ID UAQ ,Umm Al Qaiwain ,25.512514,55.591177,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2906
+ADIB Falaj Moala EmPost ,Umm Al Qaiwain ,25.354055,55.852964,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2908
+ADIB City Mall UAQ ,Umm Al Qaiwain ,25.50447696,55.59581651,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,2909
+Al Ain Shariaa Court ,Al Ain ,24.23774337,55.730957,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,806
+ADNOC Tyba 656 ,Sharjah ,25.14897598,55.87929778,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3801
+ADNOC FRIDAY MARKET 886 ,Sharjah ,25.29196345,56.11752448,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3804
+Sharaf Exchange Al Dhaid ,Sharjah ,25.28807537,55.88182202,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3805
+Sharjah coop Dhaid ,Sharjah ,25.28075494,55.87308671,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,3806
+ADNOC Badhe Al Hayer (850),Al Ain ,24.19776597,55.74951286,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4302
+Al Ain Coop Al Shuwaib ,Al Ain ,24.74632574,55.80024432,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4303
+Alain Coop Nahel ,Al Ain ,24.5172105,55.50935039,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4304
+ADNOC Al Hayer-659 Alain ,Al Ain ,24.58182225,55.73296387,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4307
+ADNOC Al Wagen 980 ,Al Ain ,23.39839356,55.42258489,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4402
+ADIB Al Ain COOP Quaa ,Al Ain ,23.420122,55.417446,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4403
+Economic Dept RAK CCDM ,Ras Al Khaimah ,25.7996116,55.96340536,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,4603
+EPPCO RAK Site # 404 ,Ras Al Khaimah ,25.80652077,55.96171594,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4605
+Shj Coop Kalba ,Sharjah ,25.0527827,56.34858883,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4903
+ADNOC Kalba ,Fujairah ,25.02817319,56.34958565,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4904
+Alain Coop Bateen Branch ,Al Ain ,24.21045546,55.66190279,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5405
+Alain Coop Zakher ,Al Ain ,24.15148822,55.69705782,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5406
+Alain Coop Al Manaser ,Al Ain ,24.20722462,55.71992801,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5407
+Alain Coop Shoaibah ,Al Ain ,24.14718198,55.65088328,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5408
+Al Maqam Municipality ,Al Ain ,24.18283033,55.62686781,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5410
+Alain Coop Tuwaya ,Al Ain ,24.24333605,55.68818114,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5411
+ADNOC Al Hili (964),Al Ain ,24.28694695,55.76900775,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5412
+Nesto Hypermarket Mowalah ,Sharjah ,25.30015022,55.45472997,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6105
+Shj Coop Al Qarayen ,Sharjah ,25.29136251,55.50071575,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6106
+Central Post Office Sharjah ,Sharjah ,25.35151805,55.39052928,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6108
+Corniche Emirates Post ,Sharjah ,25.36244217,55.38825669,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6110
+Union Mall Sharjah ,Sharjah ,25.32592917,55.39984988,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6111
+ADNOC Gaya Abdooli Shj 883 ,Sharjah ,25.32685216,55.37581815,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6113
+ADNOC Al Dar 193 Sharjah ,Sharjah ,25.30679753,55.37393446,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,6114
+Nahlat Al Madina ,Sharjah ,25.30043666,55.42747811,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7305
+ADNOC Al Wasit 657 ,Sharjah ,25.36958933,55.46336753,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7308
+ADIB ADNOC Al Aabar 560 ,Sharjah ,25.32405155,55.45673961,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7310
+Sharaf Exchange Sajja ,Sharjah ,25.30592128,55.62812534,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7311
+ADIB Sharaf Exchange Sajja 2 ,Sharjah ,25.34925169,25.34925169,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7312
+ADNOC RAK 698 Mazraa-RAK ,Ras Al Khaimah ,25.62579319,55.80829632,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7401
+Center Point RAK ,Ras Al Khaimah ,25.74343212,55.89821046,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7403
+Aswaq Al Jazeera Al Hamra ,Ras Al Khaimah ,25.71172628,55.81930987,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7404
+Aswak Al Zahra RAK ,Ras Al Khaimah ,25.78573431,55.99889491,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7405
+Aswaq Al Dhaid South ,Ras Al Khaimah ,25.72694694,55.91894092,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7407
+ADNOC Qala Al-Rams 791 – RAK ,Ras Al Khaimah ,25.87171501,56.02395707,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7408
+ADIB Emirts India Exchg RAK ,Ras Al Khaimah ,25.65328619,55.78623175,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7410
+Emirates ID Fujairah ,Fujairah ,25.15747124,56.34067865,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,9003
+ADIB Souq AL Ras Deira ,Dubai ,25.2683248,55.2951269,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,308
+Al Dhaid Branch CCDM2 ,Sharjah ,25.255407,55.898176,24-Jul,600543216,,True ,False ,True ,True ,,False ,False ,False ,False ,False ,,3807
+ADIB Mirdif Hill ,Dubai ,25.2261302,55.4391625,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8512
+Nad Al Sheba Avenue Mall Branch ,Dubai ,25.1445959,55.3470038,10:00 AM - 5:00 PM (Monday - Thursday ;Saturday);04:00 PM - 10:00 PM (Friday);Sunday Closed ,600543216,,True ,True ,True ,True ,ATM and CCDM 24/7 ,True ,False ,False ,False ,False ,,
+ADIB Shab Village ,Sharjah ,25.3925196,55.4765878,24-Jul,600543216,,False ,True ,False ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,505
+ADIB Aswaq Rak National ,Ras Al Khaimah ,24.9132907,56.1583328,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1112
+ADIB Emirate Coop GRHD2 ,Dubai ,25.2438347,55.3442091,24-Jul,600543216,,False ,True ,False ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,4513
+ADIB Aziyas fresh market ,Dubai ,25.1774965,55.3711856,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4515
+ADIB Emirate Coop SFOH ,Dubai ,25.1126236,55.171235,24-Jul,600543216,,False ,True ,False ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,1403
+ADIB Emirate CO ARCMALL ,Dubai ,25.1477208,55.3718104,24-Jul,600543216,,False ,True ,False ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,1502
+ADIB AL Reem Mall CCDM ,Abu Dhabi ,24.490211,54.402208,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,3522
+ADIB City life Al Tallah ,Ajman ,25.366413,55.510696,24-Jul,600543216,,False ,False ,True ,True ,,False ,False ,False ,False ,False ,,1820
+ADIB City life - Al Khor ,Ajman ,25.398217,55.454493,24-Jul,600543216,,False ,False ,True ,True ,,False ,False ,False ,False ,False ,,1807
+ADIB Nesto Jabel Ali ,Dubai ,25.2261302,55.4391625,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8518
+ADIB Emirates Red Crescent CCDM ,Abu Dhabi ,24.422352,54.445588,24-Jul,600543216,,False ,True ,True ,True ,,False ,False ,False ,False ,False ,,3323
+ADIB Kinz Super Market ,Ajman ,25.3982624,55.5200118,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1827
+ADIB Nesto Ajman ,Ajman ,25.396695,55.450346,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1826
+ADIB Karam Center ,Dubai ,25.2450802,55.3033661,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8609
+ADIB Century Mall ATM ,Dubai ,25.2897405,55.3448272,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,5109
+ADIB Emarat Petrol 6735 - Safiyah ,Dubai ,25.27874951,55.34429548,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,320
+ADIB Emarat Petrol 3961 - Karama ,Dubai ,25.23786629,55.30015767,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,323
+ADIB Al Hili Mall ATM ,Al Ain ,24.273843,55.779308,24-Jul,600543216,,True ,True ,True ,True ,ATM and CCDM 24/7 ,False ,False ,False ,False ,False ,,
+ADIB Al Ain Branch CCDM ,Al Ain ,24.18956203,55.72060568,24-Jul,600543216,,False ,True ,False ,True ,ATM and CCDM 24/7 ,False ,False ,True ,False ,False ,,
+ADIB Emarat Petrol 3025 ,Dubai ,25.24814565,55.28250022,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,311
+ADIB Emarat Petrol 3760 ,Dubai ,25.2708643,55.33098953,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,312
+ADIB Emarat Petrol 6730 ,Dubai ,25.24733947,55.27821844,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,313
+ADIB Emarat Petrol 5670 ,Dubai ,25.25717228,55.38689943,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,314
+ADIB Emarat Petrol 6312 ,Dubai ,25.25325042,55.4146751,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,317
+ADIB Emarat Petrol 7095 ,Dubai ,25.27993478,55.38168812,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,319
+ADIB Emarat Petrol 7030 ,Dubai ,25.1848276,55.52807531,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,321
+ADIB Emarat Petrol 6565 ,Dubai ,25.13468793,55.21380488,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,325
+ADIB Emarat Petrol 7185 ,Dubai ,25.10577269,55.20235199,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,326
+ADIB ADNOC 537 Al Badaa ,Dubai ,25.2245177,55.260934,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1503
+ADIB ADNOC 536 Nad Al Sheba ,Dubai ,25.141149,55.3139965,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1406
+ADIB Emirate Coop Garhoud ,Dubai ,25.2438347,55.3442091,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4511
+ADIB Emirate Coop Garhoud ,Dubai ,25.2438347,55.3442091,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,4511
+ADIB ADNOC 521 UmEselay ,Dubai ,24.8634493,55.5569917,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8522
+ADIB ADNOC 528 Barsha ,Dubai ,25.0774858,55.2233547,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8523
+ADIB Sheen supermarket ,Abu Dhabi ,24.242389,54.718768,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,1330
+ADIB DHAB EXG Muhaisnah ,Dubai ,25.2649914,55.4303436,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,7606
+ADIB Aswaq Jumeirah ,Dubai ,25.2310731,55.2534604,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8606
+ADIB Nesto Warsan ,Dubai ,25.1705233,55.3783023,24-Jul,600543216,,False ,True ,False ,True ,,False ,False ,False ,False ,False ,,8520

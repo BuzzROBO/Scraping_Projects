@@ -1,0 +1,223 @@
+{"features": [
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC Branch with ATM</strong><p>Dubai Branch<br>Bur Dubai Branch Unit G04, Binhendi Tower, Al Mankhool, Dubai, UAE, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/branch/389008-sc-branch-bur-dubai-branch-unit-g04-binhendi-tower-al-mankhool-dubai-uae target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-red"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.294202, 25.254267]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC Branch</strong><p>Emaar Business Park<br>Building #3, Opposite Dubai Internet City (DIC), United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/branch/389009-sc-branch-building-3-opposite-dubai-internet-city-dic target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-red"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.16687300000001, 25.0957186]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC Branch</strong><p>Khalidiya Branch<br>Prestige Tower, Ground Floor, W-10/C-10 Khalidiya, Abu Dhabi, UAE, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/branch/389024-sc-branch-prestige-tower-ground-floor-w-10-c-10-khalidiya-abu-dhabi-uae target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-red"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [54.342919800000004, 24.4697287]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC Branch with ATM</strong><p>Sharjah Branch<br>Shop No. 1 &amp; 2, Belrasheed Building Buhaira Cornish, Al Sour Area, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/branch/389010-sc-branch-shop-no-1-2-belrasheed-building-buhaira-cornish-al-sour-area target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-red"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.385583999999994, 25.342525]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC Branch</strong><p>Al Ain Branch<br>Zayed Bin Sultan Street, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/branch/389012-sc-branch-zayed-bin-sultan-street target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-red"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.77168030000007, 24.2211861]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC ATM</strong><p>ENOC<br>Mirdiff Station, near Mirdif City Centre, Dubai, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/atm/389014-sc-atm-mirdiff-station-near-mirdif-city-centre-dubai target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-blue"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.416146000000026, 25.210952]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC Branch</strong><p>Jebel Ali Branch<br>The Galleries Bldg in Downtown Jebel Ali, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/branch/389018-sc-branch-the-galleries-bldg-in-downtown-jebel-ali target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-red"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.09227090000002, 24.9800953]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC ATM</strong><p>Medi Clinic<br>Medi Clinic Park View Hospital, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/atm/389005-sc-atm-medi-clinic-park-view-hospital target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-blue"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.248873, 25.067644]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC ATM</strong><p>Dubai Airport (temporarily closed)<br>Dubai Airport Terminal 2 - Departure, Duty Free, Travelex Store, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/atm/389001-sc-atm-dubai-airport-terminal-2-departure-duty-free-travelex-store target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-blue"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.3545234, 25.2577282]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC Branch</strong><p>Dubai Mall Branch (temporarily closed until further notice)<br>Shop No. LG 165, Banks Section, next to FeetFirst, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/branch/389011-sc-branch-shop-no-lg-165-banks-section-next-to-feetfirst target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-red"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.28017999999997, 25.196812]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC ATM</strong><p>DIFC<br>GF, have Subway on your left and walk to the escalator, it&#39;ll be on the left, Dubai, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/atm/389023-sc-atm-gf-have-subway-on-your-left-and-walk-to-the-escalator-it-ll-be-on-the-left target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-blue"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.281701, 25.214396]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC ATM</strong><p>Al Maya Lal Supermarket<br>Riqua Street, Dubai, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/atm/389030-sc-atm-riqua-street-dubai target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-blue"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.322259, 25.263734]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC ATM</strong><p>UAE Exchange<br>Ghusais, before Oasis Residence and infront of Grand Hotel, Dubai, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/atm/389031-sc-atm-ghusais-before-oasis-residence-and-infront-of-grand-hotel-dubai target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-blue"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.3874606, 25.2805912]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC ATM</strong><p>Le Marche Supermarket<br>U Bora Tower, Business Bay, Dubai, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/atm/389033-sc-atm-u-bora-tower-business-bay-dubai target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-blue"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.2706718, 25.1803791]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC ATM</strong><p>Khalidiya Branch<br>Prestige Tower, Ground Floor, W-10/C-10 Khalidiya, Abu Dhabi, UAE, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/atm/389043-sc-atm-prestige-tower-ground-floor-w-10-c-10-khalidiya-abu-dhabi-uae target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-blue"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [54.3422218, 24.4695823]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC ATM</strong><p>Arabian Ranches<br>Next to Geant Hypermarket, Dubai, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/atm/389015-sc-atm-next-to-geant-hypermarket-dubai target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-blue"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.2702358, 25.0568839]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC ATM</strong><p>The Greens, Community Centre<br>Facing Choithram, at the entrance near Marina Pharmacy, Dubai, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/atm/389025-sc-atm-facing-choithram-at-the-entrance-near-marina-pharmacy-dubai target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-blue"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.1679754, 25.0940765]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC ATM</strong><p>Dubai Airport (temporarily closed)<br>Terminal 3, Al Hamad Exchange, Arrival Hall, Dubai, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/atm/389027-sc-atm-terminal-3-al-hamad-exchange-arrival-hall-dubai target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-blue"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.35971, 25.245259]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC ATM</strong><p>Intercontinental Hotel<br>Dubai Marina, Dubai, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/atm/389028-sc-atm-dubai-marina-dubai target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-blue"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [55.1379251, 25.0789862]
+                      }
+                    },
+                    {
+                      "type": "Feature",
+                      "properties": {
+                          "description": "<strong>SC ATM</strong><p>Al Safeer Centre<br>Mussafah, Abu Dhabi, United Arab Emirates</p><strong><a href=https://standardchartered.banklocationmaps.com/en/atm/389032-sc-atm-mussafah-abu-dhabi target=_blank>View Location</a></strong>",
+                          "icon": "mapbox-marker-icon-blue"
+                        },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [54.530204, 24.342859]
+                      }
+                    }
+                ]
+}

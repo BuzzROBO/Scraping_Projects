@@ -1,0 +1,1 @@
+urls=["https://www.olx.com.pk/karachi_g4060695/property-for-rent_c3","https://www.olx.com.pk/islamabad-capital-territory_g2003003/property-for-rent_c3","https://www.olx.com.pk/lahore_g4060673/property-for-rent_c3","https://www.olx.com.pk/rawalpindi_g4060681/property-for-rent_c3"]

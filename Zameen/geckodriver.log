@@ -1,0 +1,39 @@
+1709540425635	geckodriver	INFO	Listening on 127.0.0.1:62664
+1709540428665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1GygZI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709540430085	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709540430246	Marionette	INFO	Listening on port 62684
+Read port: 62684
+1709540430500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1709540460120	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1709540543491	geckodriver	INFO	Listening on 127.0.0.1:63057
+1709540546507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileEBrdrm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709540547006	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709540547138	Marionette	INFO	Listening on port 63071
+Read port: 63071
+1709540547204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1709540569371	geckodriver	INFO	Listening on 127.0.0.1:63165
+1709540572397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilezO6j2w"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709540572837	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709540572963	Marionette	INFO	Listening on port 63236
+Read port: 63236
+1709540573165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.zameen.com/Homes/Lahore_Bahria_Town_Midway_Commercial-21559-1.html, line 118: TypeError: window.parent.$ is not a function
+JavaScript error: https://www.zameen.com/Homes/Lahore_Bahria_Town_Midway_Commercial-21559-1.html, line 185: ReferenceError: $ is not defined
+JavaScript error: https://www.zameen.com/Homes/Lahore_Bahria_Town_Midway_Commercial-21559-1.html, line 100: ReferenceError: $ is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hhT7r2j7IM84IjrHPq4DliozylkjplqSUN38T7c3Pqk.js line 2 > eval line 3802 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

@@ -1,0 +1,1 @@
+urls=["https://maps.me/maps/country-lmrt-l-rbyw-lmtwhd/city-dubai-31248510/","https://maps.me/maps/country-lmrt-l-rbyw-lmtwhd/city-bw-zby--4479763/","https://maps.me/maps/country-lmrt-l-rbyw-lmtwhd/city-sharjah-847933749/"]
